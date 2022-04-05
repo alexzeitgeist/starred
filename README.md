@@ -295,7 +295,7 @@
 - [joohoi/acme-dns](https://github.com/joohoi/acme-dns) - Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
-- [cshum/imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server and proxy written in Go
+- [cshum/imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server written in Go
 - [rehacktive/caffeine](https://github.com/rehacktive/caffeine) - A basic REST service for JSON data - enough for prototyping and MVPs!
 - [0RaymondJiang0/ngrok.space](https://github.com/0RaymondJiang0/ngrok.space) - ngrok space for business
 - [marcelja/facebook-delete](https://github.com/marcelja/facebook-delete) - Fast facebook activity deletion
