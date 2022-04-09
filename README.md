@@ -638,6 +638,7 @@
 
 ## Java 
 
+- [al3xtjames/ghidra-firmware-utils](https://github.com/al3xtjames/ghidra-firmware-utils) - Ghidra utilities for analyzing PC firmware
 - [TorgoTorgo/ghidra-findcrypt](https://github.com/TorgoTorgo/ghidra-findcrypt) - Ghidra analysis plugin to locate cryptographic constants
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
@@ -1011,7 +1012,7 @@
 - [yourivw/LEClient](https://github.com/yourivw/LEClient) - An easy-to-use PHP ACME v2 client library, designed to be used with LetsEncrypt.
 - [cytopia/devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development
 - [summerblue/laravel-package-top-100](https://github.com/summerblue/laravel-package-top-100) - 对 Packagist 上打了 Laravel 标签 的扩展包进行整理，截止到现在 2016 年 8 月 9号，有超过 7176 个扩展包，以下是下载量最大的 100 个。
-- [laravel/laravel](https://github.com/laravel/laravel) - A PHP framework for web artisans.
+- [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 - [thephpleague/skeleton](https://github.com/thephpleague/skeleton) - A skeleton repository for League Packages
 - [jupeter/clean-code-php](https://github.com/jupeter/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
 - [jusbuc2k/roundcube-application_passwords](https://github.com/jusbuc2k/roundcube-application_passwords) - Roundcube plugin to manage application-specific passsords.
