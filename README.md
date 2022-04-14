@@ -799,6 +799,7 @@
 
 ## OCaml 
 
+- [airbus-seclab/bincat](https://github.com/airbus-seclab/bincat) - Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
 ## Others 
@@ -1049,7 +1050,7 @@
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [gaasedelen/patching](https://github.com/gaasedelen/patching) - An Interactive Binary Patching Plugin for IDA Pro
 - [qilingframework/qiling](https://github.com/qilingframework/qiling) - Qiling Advanced Binary Emulation Framework
-- [Vector35/debugger](https://github.com/Vector35/debugger) - Binary Ninja Debugger Plugin
+- [Vector35/deprecated_python_debugger](https://github.com/Vector35/deprecated_python_debugger) - Binary Ninja Debugger Plugin
 - [GustavoKatel/pushbullet-cli](https://github.com/GustavoKatel/pushbullet-cli) - Access Pushbullet from the command line
 - [rbrcsk/pushbullet.py](https://github.com/rbrcsk/pushbullet.py) - A python client for http://pushbullet.com
 - [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228
