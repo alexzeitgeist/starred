@@ -749,6 +749,8 @@
 
 ## Jinja 
 
+- [Oefenweb/ansible-postfix](https://github.com/Oefenweb/ansible-postfix) - Ansible role to set up postfix in Debian-like systems
+- [ansible-lockdown/UBUNTU20-CIS](https://github.com/ansible-lockdown/UBUNTU20-CIS) - CIS Baseline Ansible Role for Ubuntu 20
 - [florianutz/Ubuntu1604-CIS](https://github.com/florianutz/Ubuntu1604-CIS) - Ubuntu CIS Hardening Ansible Role
 - [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.
 - [githubixx/ansible-role-harden-linux](https://github.com/githubixx/ansible-role-harden-linux) - Ansible role for hardening Linux
@@ -805,6 +807,7 @@
 
 ## Others 
 
+- [alsa-project/alsa-ucm-conf](https://github.com/alsa-project/alsa-ucm-conf) - ALSA Use Case Manager configuration
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [BasterdOperator/IPv4-to-IPv6-Only-Portmapper](https://github.com/BasterdOperator/IPv4-to-IPv6-Only-Portmapper) - Erreichen von IPv6-Only-Diensten (z.B. bei DS-Lite, Unitymedia, Kabel BW) über IPv4
 - [cs-books/influential-cs-books](https://github.com/cs-books/influential-cs-books) - Most influential books on Computer Science/programming
@@ -1316,6 +1319,8 @@
 
 ## Shell 
 
+- [wader/postfix-relay](https://github.com/wader/postfix-relay) - Postfix SMTP relay docker image
+- [ix-ai/smtp](https://github.com/ix-ai/smtp) - This is a SMTP docker container for sending emails. You can also relay emails to gmail and amazon SES.
 - [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) - An Alpine Linux 3.13.5 container for the iCloud Photos Downloader command line utility
 - [mattydebie/bitwarden-rofi](https://github.com/mattydebie/bitwarden-rofi) - Wrapper for Bitwarden https://github.com/bitwarden/cli and Rofi
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
