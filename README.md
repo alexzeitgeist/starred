@@ -285,6 +285,7 @@
 
 ## Go 
 
+- [agherzan/git-mirror-me](https://github.com/agherzan/git-mirror-me) - CLI tool that facilitates mirroring a source to a destination git repository
 - [c-grimshaw/gosniff](https://github.com/c-grimshaw/gosniff) - A fancy-schmancy tcpdump-esque TUI, programmed in Go.
 - [firefart/stunner](https://github.com/firefart/stunner) - Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.
 - [megaease/easeprobe](https://github.com/megaease/easeprobe) - A simple, standalone, and lightWeight tool that can do health/status checking, written in Go.
@@ -891,6 +892,7 @@
 
 ## PHP 
 
+- [marijnvanwezel/try](https://github.com/marijnvanwezel/try) - Simple CLI tool to try Composer packages
 - [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern & fast web-based email client
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
