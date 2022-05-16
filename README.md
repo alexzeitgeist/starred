@@ -525,7 +525,7 @@
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
 - [PerimeterX/ok-lets-go](https://github.com/PerimeterX/ok-lets-go) - Three Approaches to Structuring Go Code
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [TimothyYe/godns](https://github.com/TimothyYe/godns) - A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
 - [skibish/ddns](https://github.com/skibish/ddns) - Personal DDNS client with Digital Ocean Networking DNS as backend.
 - [aptly-dev/aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
@@ -673,6 +673,7 @@
 
 ## JavaScript 
 
+- [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [ldidry/lufi](https://github.com/ldidry/lufi) - Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/lufi/
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - 📷 Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [MohamedBakoush/WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - 🎥 ⬇️ 📦 - Public Video URLs.
