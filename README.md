@@ -1334,6 +1334,7 @@
 
 ## Shell 
 
+- [juanluisbaptiste/docker-postfix](https://github.com/juanluisbaptiste/docker-postfix) - Simple SMTP relay docker image.
 - [actions-x/commit](https://github.com/actions-x/commit) - 
 - [wader/postfix-relay](https://github.com/wader/postfix-relay) - Postfix SMTP relay docker image
 - [ix-ai/smtp](https://github.com/ix-ai/smtp) - This is a SMTP docker container for sending emails. You can also relay emails to gmail and amazon SES.
