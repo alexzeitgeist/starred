@@ -899,6 +899,7 @@
 
 ## PHP 
 
+- [pro-cms/whatsappcloud-php](https://github.com/pro-cms/whatsappcloud-php) - Opensource php wrapper to WhatsApp Cloud API.
 - [marijnvanwezel/try](https://github.com/marijnvanwezel/try) - Simple CLI tool to try Composer packages
 - [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern & fast web-based email client
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
@@ -1438,7 +1439,7 @@
 - [animosity22/homescripts](https://github.com/animosity22/homescripts) - My Scripts for Plex / Emby with Dropbox and rclone
 - [cweagans/docker-bg-sync](https://github.com/cweagans/docker-bg-sync) - A container that syncs files between two configurable directories.
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
-- [erikw/restic-automatic-backup-scheduler](https://github.com/erikw/restic-automatic-backup-scheduler) - Automatic restic backup using Backblaze B2 storage, Linux systemd timers, macOS LaunchAgent, Windows ScheduledTask or simply cron
+- [erikw/restic-automatic-backup-scheduler](https://github.com/erikw/restic-automatic-backup-scheduler) - Automatic restic backup using Backblaze B2 storage and either Linux systemd timers, macOS LaunchAgent, Windows ScheduledTask or simply cron.
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [redcode-labs/Revssl](https://github.com/redcode-labs/Revssl) - A script that automates generation of OpenSSL reverse shells
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
