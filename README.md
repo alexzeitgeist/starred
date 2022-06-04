@@ -1120,7 +1120,7 @@
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [alexdelorenzo/cast_control](https://github.com/alexdelorenzo/cast_control) - 📺 Control Chromecasts from Linux and D-Bus
 - [nodiscc/github-stars-backup](https://github.com/nodiscc/github-stars-backup) - [mirror] Backup a list of github starred repositories for the specified user.
-- [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - 🛡️ Make your web services secure by default !
+- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
 - [CERT-Polska/hfinger](https://github.com/CERT-Polska/hfinger) - Hfinger - fingerprinting HTTP requests
 - [blackjack4494/youtube-dlc](https://github.com/blackjack4494/youtube-dlc) - Command-line program to download various media from YouTube.com and other sites
 - [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
