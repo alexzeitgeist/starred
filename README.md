@@ -1061,6 +1061,7 @@
 
 ## Python 
 
+- [rytilahti/python-miio](https://github.com/rytilahti/python-miio) - Python library & console tool for controlling Xiaomi smart appliances
 - [thegeeklab/ansible-doctor](https://github.com/thegeeklab/ansible-doctor) - Annotation based documentation for your Ansible roles
 - [alexhude/uEmu](https://github.com/alexhude/uEmu) - Tiny cute emulator plugin for IDA based on unicorn.
 - [user1342/AutoDroid](https://github.com/user1342/AutoDroid) - A tool for automating interactions with Android devices - including ADB, AndroGuard, and Frida interactivity.
