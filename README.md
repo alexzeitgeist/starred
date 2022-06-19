@@ -758,7 +758,6 @@
 - [ZijianHe/koa-router](https://github.com/ZijianHe/koa-router) - Router middleware for koa.
 - [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
-- [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [ThalKod/DropIt](https://github.com/ThalKod/DropIt) - DropIt is a File Uploader built with nodejs, Upload, get a link, and share your files with anyone easily.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -791,6 +790,7 @@
 - [axl89/s3cr3t](https://github.com/axl89/s3cr3t) - A supercharged S3 reverse proxy
 - [bram-dingelstad/neh](https://github.com/bram-dingelstad/neh) - The super small and simple nginx microservice/api maker!
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 
 ## M4 
 
@@ -1585,6 +1585,7 @@
 - [alixaxel/chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) - Chromium Binary for AWS Lambda and Google Cloud Functions
 - [felixfbecker/vscode-php-intellisense](https://github.com/felixfbecker/vscode-php-intellisense) - Advanced PHP IntelliSense for Visual Studio Code 🆚💬
 - [xdebug/vscode-php-debug](https://github.com/xdebug/vscode-php-debug) - PHP Debug Adapter for Visual Studio Code 🐞⛔
+- [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [bitwarden/desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 
@@ -1598,7 +1599,6 @@
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - ⏲️ A Vim plugin for profiling Vim's startup time.
 - [arzg/vim-colors-xcode](https://github.com/arzg/vim-colors-xcode) - Xcode 11’s dark and light colourschemes for Vim
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 
 ## Vue 
 
