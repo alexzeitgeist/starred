@@ -293,7 +293,7 @@
 - [nathants/tinysnitch](https://github.com/nathants/tinysnitch) - an interactive firewall for inbound and outbound connections
 - [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester
+- [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester
 - [ktock/buildg](https://github.com/ktock/buildg) - Interactive debugger for Dockerfile
 - [agherzan/git-mirror-me](https://github.com/agherzan/git-mirror-me) - CLI tool that facilitates mirroring a source to a destination git repository
 - [c-grimshaw/gosniff](https://github.com/c-grimshaw/gosniff) - A fancy-schmancy tcpdump-esque TUI, programmed in Go.
