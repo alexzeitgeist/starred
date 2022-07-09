@@ -291,6 +291,7 @@
 
 ## Go 
 
+- [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [nathants/tinysnitch](https://github.com/nathants/tinysnitch) - an interactive firewall for inbound and outbound connections
 - [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
@@ -624,7 +625,6 @@
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [omerbsezer/Fast-Kubernetes](https://github.com/omerbsezer/Fast-Kubernetes) - This repo covers Kubernetes Environment with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Kubeadm, Helm, etc.
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Source code for the page webvm.io
-- [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [russellgoldenberg/scrollama](https://github.com/russellgoldenberg/scrollama) - Scrollytelling with IntersectionObserver.
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
@@ -684,6 +684,7 @@
 
 ## JavaScript 
 
+- [vmallet/ida-plugins](https://github.com/vmallet/ida-plugins) - An interactive list of plugins for hex-rays' IDA Pro
 - [z0ccc/Vytal](https://github.com/z0ccc/Vytal) - Spoof your location data and user agent
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
@@ -908,6 +909,7 @@
 
 ## PHP 
 
+- [kitloong/laravel-migrations-generator](https://github.com/kitloong/laravel-migrations-generator) - Laravel Migrations Generator: Automatically generate your migrations from an existing database schema.
 - [laravel/pint](https://github.com/laravel/pint) - Laravel Pint is an opinionated PHP code style fixer for minimalists.
 - [pro-cms/whatsappcloud-php](https://github.com/pro-cms/whatsappcloud-php) - Opensource php wrapper to WhatsApp Cloud API.
 - [marijnvanwezel/try](https://github.com/marijnvanwezel/try) - Simple CLI tool to try Composer packages
@@ -1552,6 +1554,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [koush/scrypted](https://github.com/koush/scrypted) - Home Automation platform focused on seamless video camera streaming.
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
+- [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 - [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [testimio/root-cause](https://github.com/testimio/root-cause) - 🔍 Root Cause is a tool for troubleshooting Puppeteer and Playwright tests. 🔎
