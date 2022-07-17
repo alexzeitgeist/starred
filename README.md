@@ -831,6 +831,7 @@
 
 ## Others 
 
+- [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [alsa-project/alsa-ucm-conf](https://github.com/alsa-project/alsa-ucm-conf) - ALSA Use Case Manager configuration
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [BasterdOperator/IPv4-to-IPv6-Only-Portmapper](https://github.com/BasterdOperator/IPv4-to-IPv6-Only-Portmapper) - Erreichen von IPv6-Only-Diensten (z.B. bei DS-Lite, Unitymedia, Kabel BW) über IPv4
