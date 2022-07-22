@@ -911,6 +911,7 @@
 
 ## PHP 
 
+- [RobiNN1/phpCacheAdmin](https://github.com/RobiNN1/phpCacheAdmin) - Web dashboard for Redis, Memcache(d) and OPCache.
 - [kitloong/laravel-migrations-generator](https://github.com/kitloong/laravel-migrations-generator) - Laravel Migrations Generator: Automatically generate your migrations from an existing database schema.
 - [laravel/pint](https://github.com/laravel/pint) - Laravel Pint is an opinionated PHP code style fixer for minimalists.
 - [pro-cms/whatsappcloud-php](https://github.com/pro-cms/whatsappcloud-php) - Opensource php wrapper to WhatsApp Cloud API.
