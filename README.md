@@ -296,7 +296,6 @@
 - [nathants/tinysnitch](https://github.com/nathants/tinysnitch) - an interactive firewall for inbound and outbound connections
 - [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-- [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester
 - [ktock/buildg](https://github.com/ktock/buildg) - Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.)
 - [agherzan/git-mirror-me](https://github.com/agherzan/git-mirror-me) - CLI tool that facilitates mirroring a source to a destination git repository
@@ -689,6 +688,7 @@
 - [vmallet/ida-plugins](https://github.com/vmallet/ida-plugins) - An interactive list of plugins for hex-rays' IDA Pro
 - [z0ccc/Vytal](https://github.com/z0ccc/Vytal) - Spoof your location data and user agent
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
+- [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [ldidry/lufi](https://github.com/ldidry/lufi) - Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/lufi/
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [MohamedBakoush/WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - 🎥 ⬇️ 📦 - Public Video URLs.
