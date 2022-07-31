@@ -33,6 +33,7 @@
 - [Lua](#lua)
 - [M4](#m4)
 - [Makefile](#makefile)
+- [Mathematica](#mathematica)
 - [Nginx](#nginx)
 - [Nim](#nim)
 - [Nunjucks](#nunjucks)
@@ -291,6 +292,7 @@
 
 ## Go 
 
+- [steffenfritz/mxcheck](https://github.com/steffenfritz/mxcheck) - mxcheck checks dns records for mail servers and for open relays.
 - [loov/lensm](https://github.com/loov/lensm) - Go assembly and source viewer
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [nathants/tinysnitch](https://github.com/nathants/tinysnitch) - an interactive firewall for inbound and outbound connections
@@ -813,6 +815,10 @@
 - [nanoninja/docker-nginx-php-mysql](https://github.com/nanoninja/docker-nginx-php-mysql) - Docker running Nginx, PHP-FPM, MySQL & PHPMyAdmin
 - [e-gautier/docker-symfony-development](https://github.com/e-gautier/docker-symfony-development) - Run a Symfony development environment with Docker.
 
+## Mathematica 
+
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+
 ## Nginx 
 
 - [likozar1/docker-compose-nginx-phpfpm-mariadb](https://github.com/likozar1/docker-compose-nginx-phpfpm-mariadb) - 
@@ -1224,7 +1230,6 @@
 - [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg Backup
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [WangYihang/GitHacker](https://github.com/WangYihang/GitHacker) - 🕷️ A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers' mind
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [danpilch/throwaway-vpn](https://github.com/danpilch/throwaway-vpn) - Generate a throwaway VPN via DigitalOcean
 - [alberthier/sweech-cli](https://github.com/alberthier/sweech-cli) - Command line interface for Sweech
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
@@ -1273,6 +1278,7 @@
 
 ## Rust 
 
+- [foresterre/sic](https://github.com/foresterre/sic) - 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image.
 - [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
