@@ -33,7 +33,6 @@
 - [Lua](#lua)
 - [M4](#m4)
 - [Makefile](#makefile)
-- [Mathematica](#mathematica)
 - [Nginx](#nginx)
 - [Nim](#nim)
 - [Nunjucks](#nunjucks)
@@ -815,10 +814,6 @@
 - [nanoninja/docker-nginx-php-mysql](https://github.com/nanoninja/docker-nginx-php-mysql) - Docker running Nginx, PHP-FPM, MySQL & PHPMyAdmin
 - [e-gautier/docker-symfony-development](https://github.com/e-gautier/docker-symfony-development) - Run a Symfony development environment with Docker.
 
-## Mathematica 
-
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-
 ## Nginx 
 
 - [likozar1/docker-compose-nginx-phpfpm-mariadb](https://github.com/likozar1/docker-compose-nginx-phpfpm-mariadb) - 
@@ -1081,6 +1076,7 @@
 
 ## Python 
 
+- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 - [chip-red-pill/MicrocodeDecryptor](https://github.com/chip-red-pill/MicrocodeDecryptor) - 
 - [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Monitor network traffic per executable using BPF
 - [datafold/data-diff](https://github.com/datafold/data-diff) - Efficiently diff rows across two different databases.
@@ -1230,6 +1226,7 @@
 - [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg Backup
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [WangYihang/GitHacker](https://github.com/WangYihang/GitHacker) - 🕷️ A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers' mind
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [danpilch/throwaway-vpn](https://github.com/danpilch/throwaway-vpn) - Generate a throwaway VPN via DigitalOcean
 - [alberthier/sweech-cli](https://github.com/alberthier/sweech-cli) - Command line interface for Sweech
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
@@ -1287,7 +1284,7 @@
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-- [sigoden/argc](https://github.com/sigoden/argc) - Make beautiful bash cli with comments, also a command runner using bash.
+- [sigoden/argc](https://github.com/sigoden/argc) - A bash cli framework, also a task runner.
 - [parcel-bundler/parcel-css](https://github.com/parcel-bundler/parcel-css) - A CSS parser, transformer, and minifier written in Rust.
 - [cyphar/paperback](https://github.com/cyphar/paperback) - Paper backup generator suitable for long-term storage.
 - [Julien-R44/fast-ssh](https://github.com/Julien-R44/fast-ssh) - ⌨️ FastSSH is a TUI that allows you to quickly connect to your services by navigating through your SSH config.
