@@ -291,6 +291,7 @@
 
 ## Go 
 
+- [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
 - [steffenfritz/mxcheck](https://github.com/steffenfritz/mxcheck) - mxcheck checks dns records for mail servers and for open relays.
 - [loov/lensm](https://github.com/loov/lensm) - Go assembly and source viewer
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
@@ -1225,7 +1226,7 @@
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg Backup
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
-- [WangYihang/GitHacker](https://github.com/WangYihang/GitHacker) - 🕷️ A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers' mind
+- [WangYihang/GitHacker](https://github.com/WangYihang/GitHacker) - 🕷️ A `.git` folder exploiting tool that is able to restore the entire Git repository, including stash, common branches, common tags.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [danpilch/throwaway-vpn](https://github.com/danpilch/throwaway-vpn) - Generate a throwaway VPN via DigitalOcean
 - [alberthier/sweech-cli](https://github.com/alberthier/sweech-cli) - Command line interface for Sweech
@@ -1275,6 +1276,7 @@
 
 ## Rust 
 
+- [io12/unf](https://github.com/io12/unf) - UNixize Filename -- replace annoying anti-unix characters in filenames
 - [foresterre/sic](https://github.com/foresterre/sic) - 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image.
 - [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
