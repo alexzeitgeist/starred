@@ -688,7 +688,6 @@
 ## JavaScript 
 
 - [vmallet/ida-plugins](https://github.com/vmallet/ida-plugins) - An interactive list of plugins for hex-rays' IDA Pro
-- [z0ccc/Vytal](https://github.com/z0ccc/Vytal) - Spoof your location data and user agent
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [ldidry/lufi](https://github.com/ldidry/lufi) - Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/lufi/
@@ -1560,6 +1559,7 @@
 
 ## TypeScript 
 
+- [z0ccc/Vytal](https://github.com/z0ccc/Vytal) - Spoof your location data and user agent
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [koush/scrypted](https://github.com/koush/scrypted) - Home Automation platform focused on seamless video camera streaming.
