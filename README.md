@@ -944,7 +944,7 @@
 - [zaherg/github-repos-downloader](https://github.com/zaherg/github-repos-downloader) - a fun project to download a full list of all the public repos for a github user
 - [renoki-co/clusteer](https://github.com/renoki-co/clusteer) - Clusteer is a Puppeteer wrapper written for Laravel, with the super-power of parallelizing pages across multiple browser instances.
 - [AmpersandHQ/ampersand-magento2-upgrade-patch-helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper script to aid upgrading magento 2 websites by detecting overrides. Now supports third party module detections
-- [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper) - PHP Scraper - an highly opinionated web-interface for PHP
+- [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper) - PHP Scraper - a simple way to access the web from PHP
 - [canvural/larastan-strict-rules](https://github.com/canvural/larastan-strict-rules) - Extra strict and opinionated PHPStan rules for Laravel.
 - [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
 - [redchamps/clean-admin-menu](https://github.com/redchamps/clean-admin-menu) - Magento 2 Extension to cleanup admin menu and Store &gt; Configuration area by arranging third party extension items.
@@ -1341,7 +1341,7 @@
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
-- [Findomain/Findomain](https://github.com/Findomain/Findomain) - The complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Ke
+- [Findomain/Findomain](https://github.com/Findomain/Findomain) - The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, mul
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [http-rs/surf](https://github.com/http-rs/surf) - Fast and friendly HTTP client framework for async Rust
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
