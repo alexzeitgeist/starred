@@ -1077,6 +1077,7 @@
 
 ## Python 
 
+- [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis) - Passive host and domain name lookup tool for non-robots
 - [0xricksanchez/like-dbg](https://github.com/0xricksanchez/like-dbg) - Fully dockerized Linux kernel debugging environment
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 - [chip-red-pill/MicrocodeDecryptor](https://github.com/chip-red-pill/MicrocodeDecryptor) - 
