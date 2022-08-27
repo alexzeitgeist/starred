@@ -147,6 +147,7 @@
 - [danielgtaylor/jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) - Utilities for archiving JPEGs for long term storage.
 - [intel/media-driver](https://github.com/intel/media-driver) - 
 - [alibaba/ApsaraCache](https://github.com/alibaba/ApsaraCache) - ApsaraCache is a Redis branch originated from Alibaba Group.
+- [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor
 - [strongswan/strongswan](https://github.com/strongswan/strongswan) - strongSwan - IPsec-based VPN
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [lenovo-yt2-dev/android_kernel_lenovo_baytrail](https://github.com/lenovo-yt2-dev/android_kernel_lenovo_baytrail) - Kernel for Lenovo Yoga 2 tablets
@@ -209,7 +210,6 @@
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
 - [honorarybot/PulseDbg](https://github.com/honorarybot/PulseDbg) - Hypervisor-based debugger
-- [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor
 - [IJHack/QtPass](https://github.com/IJHack/QtPass) - QtPass is a multi-platform GUI for pass, the standard unix password manager.
 - [mmozeiko/RcloneBrowser](https://github.com/mmozeiko/RcloneBrowser) - Simple cross platform GUI for rclone
 
@@ -300,7 +300,6 @@
 - [nathants/tinysnitch](https://github.com/nathants/tinysnitch) - an interactive firewall for inbound and outbound connections
 - [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure provisioned with Terraform
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-- [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester
 - [ktock/buildg](https://github.com/ktock/buildg) - Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.)
 - [agherzan/git-mirror-me](https://github.com/agherzan/git-mirror-me) - CLI tool that facilitates mirroring a source to a destination git repository
@@ -413,7 +412,7 @@
 - [storyicon/gos](https://github.com/storyicon/gos) - Gos: Armed Golang 💪 ( solutions for go module, goproxy, cross compilation, etc.)
 - [cloudflare/utahfs](https://github.com/cloudflare/utahfs) - UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
-- [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap Kubernetes with k3s over SSH &lt; 1 min 🚀
+- [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [dpb587/gget](https://github.com/dpb587/gget) - An easier way to find and automate file downloads from GitHub and GitLab repositories.
 - [zladovan/gorched](https://github.com/zladovan/gorched) - Gorched is terminal based game written in Go inspired by "The Mother of all games" Scorched Earth
@@ -692,6 +691,7 @@
 
 - [vmallet/ida-plugins](https://github.com/vmallet/ida-plugins) - An interactive list of plugins for hex-rays' IDA Pro
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
+- [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [ldidry/lufi](https://github.com/ldidry/lufi) - Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/lufi/
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [MohamedBakoush/WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - 🎥 ⬇️ 📦 - Public Video URLs.
@@ -1568,7 +1568,7 @@
 
 ## TypeScript 
 
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [z0ccc/Vytal](https://github.com/z0ccc/Vytal) - Spoof your location data and user agent
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
