@@ -302,6 +302,7 @@
 - [nathants/tinysnitch](https://github.com/nathants/tinysnitch) - an interactive firewall for inbound and outbound connections
 - [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure provisioned with Terraform
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester
 - [ktock/buildg](https://github.com/ktock/buildg) - Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.)
 - [agherzan/git-mirror-me](https://github.com/agherzan/git-mirror-me) - CLI tool that facilitates mirroring a source to a destination git repository
@@ -369,7 +370,6 @@
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [devops-works/binenv](https://github.com/devops-works/binenv) - One binary to rule them all. Manage all those pesky binaries (kubectl, helm, terraform, ...) easily.
 - [joneskoo/http2-keylog](https://github.com/joneskoo/http2-keylog) - Example: debugging TLS with Go crypto/tls KeyLogWriter
-- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes by Team Lens
 - [mtojek/gdriver](https://github.com/mtojek/gdriver) - Download an upload large files to Google Drive (API v3)
 - [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
@@ -692,7 +692,6 @@
 
 - [vmallet/ida-plugins](https://github.com/vmallet/ida-plugins) - An interactive list of plugins for hex-rays' IDA Pro
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
-- [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [ldidry/lufi](https://github.com/ldidry/lufi) - Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/lufi/
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [MohamedBakoush/WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - 🎥 ⬇️ 📦 - Public Video URLs.
@@ -892,6 +891,7 @@
 - [f500/ansible-project_deploy](https://github.com/f500/ansible-project_deploy) - 
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [agis/git-style-guide](https://github.com/agis/git-style-guide) - A Git Style Guide
+- [platomav/BIOSUtilities](https://github.com/platomav/BIOSUtilities) - Various BIOS Utilities for Modding/Research
 - [ansible/ansible-lockdown](https://github.com/ansible/ansible-lockdown) - Ansible playbook roles for security
 - [robertdebock/ansible-role-update](https://github.com/robertdebock/ansible-role-update) - Install updates on your system.
 - [Pungyeon/clean-go-article](https://github.com/Pungyeon/clean-go-article) - A reference for the Go community that covers the fundamentals of writing clean code and discusses concrete refactoring examples specific to Go.
@@ -1214,7 +1214,6 @@
 - [platomav/MCExtractor](https://github.com/platomav/MCExtractor) - Intel, AMD, VIA & Freescale Microcode Extraction Tool
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
 - [ChrisTheCoolHut/Firmware_Slap](https://github.com/ChrisTheCoolHut/Firmware_Slap) - Discovering vulnerabilities in firmware through concolic analysis and function clustering.
-- [platomav/BIOSUtilities](https://github.com/platomav/BIOSUtilities) - Various BIOS Utilities for Modding/Research
 - [tmr232/Sark](https://github.com/tmr232/Sark) - IDAPython Made Easy
 - [kevthehermit/PasteHunter](https://github.com/kevthehermit/PasteHunter) - Scanning pastebin with yara rules
 - [chr0mag/geoipsets](https://github.com/chr0mag/geoipsets) - Python package to generate country-specific IP network ranges consumable by both iptables/ipset and nftables.
@@ -1292,7 +1291,7 @@
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
 - [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH and HTTPS bastion that works with any SSH client
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that needs no client-side software
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
