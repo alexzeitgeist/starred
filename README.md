@@ -266,7 +266,6 @@
 - [luisfarzati/localdots](https://github.com/luisfarzati/localdots) - HTTPS domains for localhost. 🏠
 - [lukechilds/dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
 - [jakzal/phpqa](https://github.com/jakzal/phpqa) - Docker image that provides static analysis tools for PHP
-- [RanadeepPolavarapu/docker-nginx-http3](https://github.com/RanadeepPolavarapu/docker-nginx-http3) - Alpine Linux image with Nginx 1.16.1 with HTTP/3 (QUIC), TLSv1.3, 0-RTT, brotli, NJS support, and 10 MB size. All built on the bleeding edge for max performance. Built on the edge, for the edge.
 - [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) v8+ on Docker with Compose. Pre-configured out of the box to enable Logging, Metrics, APM, Alerting, ML, and SIEM features. Up with a Single Command.
 - [taichunmin/docker-serveo](https://github.com/taichunmin/docker-serveo) - https://serveo.net is an alternative for ngrok. taichunmin/serveo can let you secure URL to your localhost server through any NAT or firewall in Docker. And taichunmin/serveo-server can let you host y
 - [taichunmin/docker-serveo-server](https://github.com/taichunmin/docker-serveo-server) - https://serveo.net is an alternative for ngrok. taichunmin/serveo-server can let you host your own serveo. And taichunmin/serveo can let you secure URL to your localhost server through any NAT or fire
