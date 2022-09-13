@@ -291,6 +291,7 @@
 
 ## Go 
 
+- [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [alajmo/sake](https://github.com/alajmo/sake) - :robot: sake is a task runner for local and remote hosts
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - Source code and community space of 📖 100 Go Mistakes
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
@@ -639,9 +640,9 @@
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [owebia/magento2-module-advanced-shipping](https://github.com/owebia/magento2-module-advanced-shipping) - 
-- [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
+- [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
-- [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Kubernetes - Beginners | Intermediate | Advanced
+- [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Get Started with Kubernetes
 - [stefansundin/traceroute-mapper](https://github.com/stefansundin/traceroute-mapper) - Map your traceroutes easily.
 - [vpietri/magento2-developer-quickdevbar](https://github.com/vpietri/magento2-developer-quickdevbar) - Developer Toolbar for Magento2
 - [subspacecloud/subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI
@@ -893,7 +894,6 @@
 - [f500/ansible-project_deploy](https://github.com/f500/ansible-project_deploy) - 
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [agis/git-style-guide](https://github.com/agis/git-style-guide) - A Git Style Guide
-- [platomav/BIOSUtilities](https://github.com/platomav/BIOSUtilities) - Various BIOS Utilities for Modding/Research
 - [ansible/ansible-lockdown](https://github.com/ansible/ansible-lockdown) - Ansible playbook roles for security
 - [robertdebock/ansible-role-update](https://github.com/robertdebock/ansible-role-update) - Install updates on your system.
 - [Pungyeon/clean-go-article](https://github.com/Pungyeon/clean-go-article) - A reference for the Go community that covers the fundamentals of writing clean code and discusses concrete refactoring examples specific to Go.
@@ -1107,7 +1107,7 @@
 - [qilingframework/qiling](https://github.com/qilingframework/qiling) - Qiling Advanced Binary Emulation Framework
 - [Vector35/deprecated_python_debugger](https://github.com/Vector35/deprecated_python_debugger) - Binary Ninja Debugger Plugin
 - [GustavoKatel/pushbullet-cli](https://github.com/GustavoKatel/pushbullet-cli) - Access Pushbullet from the command line
-- [rbrcsk/pushbullet.py](https://github.com/rbrcsk/pushbullet.py) - A python client for http://pushbullet.com
+- [richard-better/pushbullet.py](https://github.com/richard-better/pushbullet.py) - A python client for http://pushbullet.com
 - [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228
 - [coldfix/udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
 - [tacnetsol/ghidra_scripts](https://github.com/tacnetsol/ghidra_scripts) - Port of devttyS0's IDA plugins to the Ghidra plugin framework, new plugins as well.
@@ -1216,6 +1216,7 @@
 - [platomav/MCExtractor](https://github.com/platomav/MCExtractor) - Intel, AMD, VIA & Freescale Microcode Extraction Tool
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
 - [ChrisTheCoolHut/Firmware_Slap](https://github.com/ChrisTheCoolHut/Firmware_Slap) - Discovering vulnerabilities in firmware through concolic analysis and function clustering.
+- [platomav/BIOSUtilities](https://github.com/platomav/BIOSUtilities) - Various BIOS Utilities for Modding/Research
 - [tmr232/Sark](https://github.com/tmr232/Sark) - IDAPython Made Easy
 - [kevthehermit/PasteHunter](https://github.com/kevthehermit/PasteHunter) - Scanning pastebin with yara rules
 - [chr0mag/geoipsets](https://github.com/chr0mag/geoipsets) - Python package to generate country-specific IP network ranges consumable by both iptables/ipset and nftables.
