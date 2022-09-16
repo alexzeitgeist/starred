@@ -353,7 +353,6 @@
 - [dwisiswant0/stargather](https://github.com/dwisiswant0/stargather) - A fast GitHub stargazers information gathering tool
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 - [skanehira/github-tui](https://github.com/skanehira/github-tui) - TUI client for GitHub
-- [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
 - [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
 - [stgarf/paperless-cli](https://github.com/stgarf/paperless-cli) - A golang command line binary to interact with a Paperless instance
@@ -919,6 +918,7 @@
 
 ## PHP 
 
+- [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map
 - [BinarCode/laravel-restify](https://github.com/BinarCode/laravel-restify) - The fastest way to make a powerful JSON:API compatible Rest API with Laravel.
 - [DaveLiddament/sarb](https://github.com/DaveLiddament/sarb) - Static Analysis Results Baseliner
 - [aimeos/map](https://github.com/aimeos/map) - PHP arrays and collections made easy
