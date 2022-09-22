@@ -597,7 +597,7 @@
 - [Rican7/define](https://github.com/Rican7/define) - A command-line dictionary (thesaurus) app, with access to multiple sources, written in Go.
 - [moncho/dry](https://github.com/moncho/dry) - dry - A Docker manager for the terminal @
 - [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
 - [hlandau/acmetool](https://github.com/hlandau/acmetool) - :lock: acmetool, an automatic certificate acquisition tool for ACME (Let's Encrypt)
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [datacharmer/dbdeployer](https://github.com/datacharmer/dbdeployer) - DBdeployer is a tool that deploys MySQL database servers easily.
