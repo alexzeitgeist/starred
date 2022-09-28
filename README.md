@@ -131,7 +131,7 @@
 - [memcached/memcached](https://github.com/memcached/memcached) - memcached development tree
 - [DavidXanatos/DiskCryptor](https://github.com/DavidXanatos/DiskCryptor) - A fork of the DiskCryptor full disk encryption tool
 - [koct9i/ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
-- [mikebrady/shairport-sync](https://github.com/mikebrady/shairport-sync) - AirPlay audio player. Shairport Sync adds multi-room capability with Audio Synchronisation
+- [mikebrady/shairport-sync](https://github.com/mikebrady/shairport-sync) - AirPlay and AirPlay 2 audio player
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
@@ -505,7 +505,7 @@
 - [Bios-Marcel/cordless](https://github.com/Bios-Marcel/cordless) - The Discord terminal client you never knew you wanted.
 - [carbonblack/binee](https://github.com/carbonblack/binee) - Binee: binary emulation environment
 - [elisescu/tty-share](https://github.com/elisescu/tty-share) - Share your linux or osx terminal over the Internet.
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [GoogleCloudPlatform/gcping](https://github.com/GoogleCloudPlatform/gcping) - The source for the CLI and web app at gcping.com
 - [via-justa/Adguard-home](https://github.com/via-justa/Adguard-home) - 
 - [ankur-anand/simple-go-rpc](https://github.com/ankur-anand/simple-go-rpc) - RPC explained by writing simple RPC framework in 300 lines of pure Golang.
@@ -1620,7 +1620,7 @@
 - [xdebug/vscode-php-debug](https://github.com/xdebug/vscode-php-debug) - PHP Debug Adapter for Visual Studio Code 🐞⛔
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [bitwarden/desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## Vim Script 
 
