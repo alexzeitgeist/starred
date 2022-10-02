@@ -170,6 +170,7 @@
 
 ## C++ 
 
+- [epasveer/seer](https://github.com/epasveer/seer) - Seer - a gui frontend to gdb
 - [codingo/fastsub](https://github.com/codingo/fastsub) - A custom built DNS bruteforcer with multi-threading, and handling of bad resolvers.
 - [horsicq/XAPKDetector](https://github.com/horsicq/XAPKDetector) - APK/DEX detector for Windows, Linux and MacOS.
 - [Air14/HyperHide](https://github.com/Air14/HyperHide) - Hypervisor based anti anti debug plugin for x64dbg
@@ -291,6 +292,7 @@
 
 ## Go 
 
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [alajmo/sake](https://github.com/alajmo/sake) - :robot: sake is a task runner for local and remote hosts
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - Source code and community space of 📖 100 Go Mistakes.
