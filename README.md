@@ -1053,7 +1053,7 @@
 - [paragonie/ciphersweet](https://github.com/paragonie/ciphersweet) - Fast, searchable field-level encryption for PHP projects
 - [georgringer/news](https://github.com/georgringer/news) - TYPO3 Extension news
 - [GhanshyamBhava/webuser](https://github.com/GhanshyamBhava/webuser) - Simple CRUD operation with ajax
-- [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕 - we stand with 🇺🇦
+- [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [phan/phan](https://github.com/phan/phan) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
 - [Propaganistas/Laravel-Disposable-Email](https://github.com/Propaganistas/Laravel-Disposable-Email) - Disposable email address validator for Laravel
 - [symfony/console](https://github.com/symfony/console) - The Console component eases the creation of beautiful and testable command line interfaces.
