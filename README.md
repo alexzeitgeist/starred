@@ -294,7 +294,7 @@
 
 ## Go 
 
-- [cshum/imagorvideo](https://github.com/cshum/imagorvideo) - imagor video thumbnail server in Go and ffmpeg C bindings
+- [cshum/imagorvideo](https://github.com/cshum/imagorvideo) - imagor video thumbnail server in Go and FFmpeg C bindings
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
@@ -1211,7 +1211,7 @@
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [insanum/gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
 - [cloudflare/flan](https://github.com/cloudflare/flan) - A pretty sweet vulnerability scanner
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [mandiant/flare-emu](https://github.com/mandiant/flare-emu) - 
 - [Mage2Gen/Mage2Gen](https://github.com/Mage2Gen/Mage2Gen) - Python library for generating Magento 2 module
 - [andreafioraldi/IDAngr](https://github.com/andreafioraldi/IDAngr) - Use angr in the IDA Pro debugger generating a state from the current debug session
