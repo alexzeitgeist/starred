@@ -1596,7 +1596,7 @@
 
 - [SmartThingsCommunity/smartthings-cli](https://github.com/SmartThingsCommunity/smartthings-cli) - Command-line Interface for the SmartThings APIs.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
-- [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser Extension to spoof timezone, geolocation, locale and user agent.
+- [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [koush/scrypted](https://github.com/koush/scrypted) - Home Automation platform focused on seamless video camera streaming.
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
