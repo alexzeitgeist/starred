@@ -701,7 +701,7 @@
 - [vmallet/ida-plugins](https://github.com/vmallet/ida-plugins) - An interactive list of plugins for hex-rays' IDA Pro
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
 - [ldidry/lufi](https://github.com/ldidry/lufi) - Read-only mirror of https://framagit.org/fiat-tux/hat-softwares/lufi/
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
 - [MohamedBakoush/WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - 🎥 ⬇️ 📦 - Public Video URLs.
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
@@ -1124,7 +1124,7 @@
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [gaasedelen/patching](https://github.com/gaasedelen/patching) - An Interactive Binary Patching Plugin for IDA Pro
-- [qilingframework/qiling](https://github.com/qilingframework/qiling) - Qiling Advanced Binary Emulation Framework
+- [qilingframework/qiling](https://github.com/qilingframework/qiling) - A True Instrumentable Binary Emulation Framework
 - [Vector35/deprecated_python_debugger](https://github.com/Vector35/deprecated_python_debugger) - Binary Ninja Debugger Plugin
 - [GustavoKatel/pushbullet-cli](https://github.com/GustavoKatel/pushbullet-cli) - Access Pushbullet from the command line
 - [richard-better/pushbullet.py](https://github.com/richard-better/pushbullet.py) - A python client for http://pushbullet.com
