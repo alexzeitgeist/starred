@@ -972,7 +972,7 @@
 - [zaherg/github-repos-downloader](https://github.com/zaherg/github-repos-downloader) - a fun project to download a full list of all the public repos for a github user
 - [renoki-co/clusteer](https://github.com/renoki-co/clusteer) - Clusteer is a Puppeteer wrapper written for Laravel, with the super-power of parallelizing pages across multiple browser instances.
 - [AmpersandHQ/ampersand-magento2-upgrade-patch-helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper script to aid upgrading magento 2 websites by detecting overrides. Now supports third party module detections
-- [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper) - A universal web-util for PHP
+- [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper) - A universal web-util for PHP.
 - [canvural/larastan-strict-rules](https://github.com/canvural/larastan-strict-rules) - Extra strict and opinionated PHPStan rules for Laravel.
 - [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
 - [redchamps/clean-admin-menu](https://github.com/redchamps/clean-admin-menu) - Magento 2 Extension to cleanup admin menu and Store &gt; Configuration area by arranging third party extension items.
