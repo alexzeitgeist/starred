@@ -1106,6 +1106,7 @@
 
 ## Python 
 
+- [Jamesits/pve-fake-subscription](https://github.com/Jamesits/pve-fake-subscription) - Disables the "No valid subscription" dialog on all Proxmox products.
 - [toddaustin07/edgebridge](https://github.com/toddaustin07/edgebridge) - Forwarding Bridge Server for SmartThings Edge drivers
 - [adulau/mmdb-server](https://github.com/adulau/mmdb-server) - mmdb-server is an open source fast API server to lookup IP addresses for their geographic location.
 - [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis) - Passive hostname, domain and IP lookup tool for non-robots
