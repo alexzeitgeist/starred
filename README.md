@@ -297,6 +297,7 @@
 
 ## Go 
 
+- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
 - [ahmetb/twitter-audit-log](https://github.com/ahmetb/twitter-audit-log) - Periodically collect data about my Twitter account and check in to github to preserve an audit trail.
 - [Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) - Detect and remediate misconfigurations and security risks across all your GitHub assets
@@ -859,6 +860,7 @@
 
 ## Others 
 
+- [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A programming font based on the typeface used in Minecraft
 - [onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list) - A list of IDA Plugins
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
