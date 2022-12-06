@@ -297,6 +297,7 @@
 
 ## Go 
 
+- [eoin-barr/weatherme](https://github.com/eoin-barr/weatherme) - 
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
 - [ahmetb/twitter-audit-log](https://github.com/ahmetb/twitter-audit-log) - Periodically collect data about my Twitter account and check in to github to preserve an audit trail.
