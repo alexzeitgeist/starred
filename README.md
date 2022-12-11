@@ -1419,7 +1419,7 @@
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Dev Containers extension and GitHub Codespaces
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
 - [Gictorbit/photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Photoshop CC v19  installer for Gnu/Linux
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
