@@ -1598,6 +1598,7 @@
 
 ## TypeScript 
 
+- [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [SmartThingsCommunity/smartthings-cli](https://github.com/SmartThingsCommunity/smartthings-cli) - Command-line Interface for the SmartThings APIs.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
