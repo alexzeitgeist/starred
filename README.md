@@ -299,7 +299,7 @@
 - [eoin-barr/weatherme](https://github.com/eoin-barr/weatherme) - 
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
-- [ahmetb/twitter-audit-log](https://github.com/ahmetb/twitter-audit-log) - Periodically collect data about my Twitter account and check in to github to preserve an audit trail.
+- [ahmetb/twitter-audit-log](https://github.com/ahmetb/twitter-audit-log) - Back up Twitter follow/mute/block lists periodically using GitHub Actions
 - [Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) - Detect and remediate misconfigurations and security risks across all your GitHub assets
 - [cshum/imagorvideo](https://github.com/cshum/imagorvideo) - imagor video thumbnail server in Go and ffmpeg C bindings
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
