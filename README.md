@@ -30,6 +30,7 @@
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Less](#less)
 - [Lua](#lua)
 - [M4](#m4)
 - [Makefile](#makefile)
@@ -228,7 +229,6 @@
 - [ajinabraham/CMSScan](https://github.com/ajinabraham/CMSScan) - CMS Scanner: Scan Wordpress, Drupal, Joomla, vBulletin websites for Security issues
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [t3kit/t3kit](https://github.com/t3kit/t3kit) - TYPO3 website starter kit
-- [taroved/pol](https://github.com/taroved/pol) - RSS generator website
 
 ## Clojure 
 
@@ -810,6 +810,10 @@
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - Video/Audio downloader for Android, designed and themed with Material You.
 - [revanced/revanced-patches](https://github.com/revanced/revanced-patches) - 🧩 Patches for ReVanced
 - [EtchDroid/EtchDroid](https://github.com/EtchDroid/EtchDroid) - NO LONGER MAINTAINED - An application to write OS images to USB drives, on Android, no root required.
+
+## Less 
+
+- [taroved/pol](https://github.com/taroved/pol) - RSS generator website
 
 ## Lua 
 
@@ -1403,6 +1407,7 @@
 
 ## Shell 
 
+- [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [Mint-System/Ansible-Playbooks](https://github.com/Mint-System/Ansible-Playbooks) - The Mint System collection of Ansible playbooks and roles.
 - [bokysan/docker-postfix](https://github.com/bokysan/docker-postfix) - Simple SMTP server / postfix null relay host for your Docker and Kubernetes containers. Based on Alpine Linux.
