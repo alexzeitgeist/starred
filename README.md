@@ -74,6 +74,7 @@
 
 ## C 
 
+- [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPUs process monitoring for AMD, Intel and NVIDIA
 - [irontec/sngrep](https://github.com/irontec/sngrep) - Ncurses SIP Messages flow viewer
@@ -161,7 +162,7 @@
 ## C# # 
 
 - [revenz/FileFlows](https://github.com/revenz/FileFlows) - FileFlows is a file processing application that can execute actions against a file in a tree flow structure.
-- [mindcollapse/MalwareMultiScan](https://github.com/mindcollapse/MalwareMultiScan) - Self-hosted VirusTotal / MetaDefender wannabe with API, demo UI and Scanners running in Docker.
+- [volodymyrsmirnov/MalwareMultiScan](https://github.com/volodymyrsmirnov/MalwareMultiScan) - Self-hosted VirusTotal / MetaDefender wannabe with API, demo UI and Scanners running in Docker.
 - [jamesbrindle/YTMusicUploader](https://github.com/jamesbrindle/YTMusicUploader) - Automatically upload your music library and playlists to YouTube Music .Net Application. Upload songs to YouTube Music and bulk delete music and playlists from YouTube Music. C#.
 - [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
 - [tpurtell/PWM](https://github.com/tpurtell/PWM) - 
@@ -867,7 +868,6 @@
 
 - [zloisupport/BaiduNetDiskTranslation](https://github.com/zloisupport/BaiduNetDiskTranslation) - 🌏UNOFFICIAL Translation Baidu Net Disk for Windows, Android to Russian🇷🇺,English🇬🇧 languages 📌
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
-- [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A programming font based on the typeface used in Minecraft
 - [onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list) - A list of IDA Plugins
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [alsa-project/alsa-ucm-conf](https://github.com/alsa-project/alsa-ucm-conf) - ALSA Use Case Manager configuration
@@ -947,6 +947,7 @@
 
 ## PHP 
 
+- [openai-php/laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
 - [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map
 - [BinarCode/laravel-restify](https://github.com/BinarCode/laravel-restify) - The fastest way to make a powerful JSON:API compatible Rest API with Laravel.
 - [DaveLiddament/sarb](https://github.com/DaveLiddament/sarb) - Static Analysis Results Baseliner
@@ -1121,6 +1122,7 @@
 - [Jamesits/pve-fake-subscription](https://github.com/Jamesits/pve-fake-subscription) - Disables the "No valid subscription" dialog on all Proxmox products.
 - [toddaustin07/edgebridge](https://github.com/toddaustin07/edgebridge) - Forwarding Bridge Server for SmartThings Edge drivers
 - [adulau/mmdb-server](https://github.com/adulau/mmdb-server) - mmdb-server is an open source fast API server to lookup IP addresses for their geographic location.
+- [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis) - Passive hostname, domain and IP lookup tool for non-robots
 - [0xricksanchez/like-dbg](https://github.com/0xricksanchez/like-dbg) - Fully dockerized Linux kernel debugging environment
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
@@ -1322,6 +1324,7 @@
 
 ## Rust 
 
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [evilsocket/sauron](https://github.com/evilsocket/sauron) - A minimalistic cross-platform malware scanner with non-blocking realtime filesystem monitoring using YARA rules.
@@ -1414,6 +1417,7 @@
 
 ## Shell 
 
+- [biox/pa](https://github.com/biox/pa) - a simple password manager. encryption via age, written in portable posix shell
 - [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [Mint-System/Ansible-Playbooks](https://github.com/Mint-System/Ansible-Playbooks) - The Mint System collection of Ansible playbooks and roles.
