@@ -217,7 +217,7 @@
 - [simsong/tcpflow](https://github.com/simsong/tcpflow) - TCP/IP packet demultiplexer. Download from:
 - [Drive-Trust-Alliance/sedutil](https://github.com/Drive-Trust-Alliance/sedutil) - DTA sedutil  Self encrypting drive software
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
-- [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
+- [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [honorarybot/PulseDbg](https://github.com/honorarybot/PulseDbg) - Hypervisor-based debugger
 - [IJHack/QtPass](https://github.com/IJHack/QtPass) - QtPass is a multi-platform GUI for pass, the standard unix password manager.
 - [mmozeiko/RcloneBrowser](https://github.com/mmozeiko/RcloneBrowser) - Simple cross platform GUI for rclone
@@ -866,6 +866,8 @@
 
 ## Others 
 
+- [Feller-AG/wiser-api](https://github.com/Feller-AG/wiser-api) - 
+- [Feller-AG/wiser-tutorial](https://github.com/Feller-AG/wiser-tutorial) - 
 - [zloisupport/BaiduNetDiskTranslation](https://github.com/zloisupport/BaiduNetDiskTranslation) - 🌏UNOFFICIAL Translation Baidu Net Disk for Windows, Android to Russian🇷🇺,English🇬🇧 languages 📌
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list) - A list of IDA Plugins
