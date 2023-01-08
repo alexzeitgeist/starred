@@ -80,6 +80,7 @@
 
 ## C 
 
+- [vitoplantamura/BugChecker](https://github.com/vitoplantamura/BugChecker) - SoftICE-like kernel debugger for Windows 11
 - [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPUs process monitoring for AMD, Intel and NVIDIA
