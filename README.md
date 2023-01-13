@@ -877,7 +877,7 @@
 - [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes) - My notes of Clean Code book
 - [Feller-AG/wiser-api](https://github.com/Feller-AG/wiser-api) - 
 - [Feller-AG/wiser-tutorial](https://github.com/Feller-AG/wiser-tutorial) - 
-- [zloisupport/BaiduNetDiskTranslation](https://github.com/zloisupport/BaiduNetDiskTranslation) - 🌏UNOFFICIAL Translation Baidu Net Disk for Windows, Android to Russian🇷🇺,English🇬🇧 languages 📌
+- [zloisupport/BaiduNetDiskTranslation](https://github.com/zloisupport/BaiduNetDiskTranslation) - 🌏UNOFFICIAL Translation Baidu Net Disk for Windows, Android to English🇬🇧, Russian🇷🇺  languages 📌
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list) - A list of IDA Plugins
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
@@ -1431,6 +1431,7 @@
 
 ## Shell 
 
+- [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, upon any Linux distro
 - [biox/pa](https://github.com/biox/pa) - a simple password manager. encryption via age, written in portable posix shell
 - [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
