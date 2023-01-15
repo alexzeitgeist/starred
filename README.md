@@ -478,7 +478,7 @@
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
 - [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
 - [drone-plugins/drone-docker](https://github.com/drone-plugins/drone-docker) - Drone plugin for publishing Docker images using Docker-in-Docker
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [rhaidiz/broxy](https://github.com/rhaidiz/broxy) - An HTTP/HTTPS intercept proxy written in Go.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
