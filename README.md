@@ -231,6 +231,7 @@
 
 ## CSS 
 
+- [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui) - Cleanest, modern and beatifull Tailwind CSS components.
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
@@ -1130,6 +1131,8 @@
 
 ## Python 
 
+- [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
+- [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
 - [AnalogJ/lexicon](https://github.com/AnalogJ/lexicon) - Manipulate DNS records on various DNS providers in a standardized way.
 - [androguard/androguard](https://github.com/androguard/androguard) - Reverse engineering and pentesting for Android applications
 - [nccgroup/idahunt](https://github.com/nccgroup/idahunt) - idahunt is a framework to analyze binaries with IDA Pro and hunt for things in IDA Pro
@@ -1630,7 +1633,6 @@
 
 ## TypeScript 
 
-- [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui) - Cleanest, modern and beatifull Tailwind CSS components.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [SmartThingsCommunity/smartthings-cli](https://github.com/SmartThingsCommunity/smartthings-cli) - Command-line Interface for the SmartThings APIs.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
