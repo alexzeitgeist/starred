@@ -80,6 +80,7 @@
 
 ## C 
 
+- [geekman/mdns-repeater](https://github.com/geekman/mdns-repeater) - mDNS repeater
 - [vitoplantamura/BugChecker](https://github.com/vitoplantamura/BugChecker) - SoftICE-like kernel debugger for Windows 11
 - [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
@@ -1131,6 +1132,7 @@
 
 ## Python 
 
+- [alsmith/multicast-relay](https://github.com/alsmith/multicast-relay) - Relay multicast and broadcast packets between interfaces.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply m
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
