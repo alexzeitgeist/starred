@@ -713,6 +713,7 @@
 
 ## JavaScript 
 
+- [SmartThingsDevelopers/Sample-RulesAPI](https://github.com/SmartThingsDevelopers/Sample-RulesAPI) - Rules are a versatile tool, enabling you to automate the Devices and services that connect to the SmartThings Platform. When possible, Rules execute locally on a Hub.
 - [ice987987/ioBroker.wiserbyfeller](https://github.com/ice987987/ioBroker.wiserbyfeller) - This Adapter enables you to manage all your Wiser-by-Feller system devices via a WebSocket connection.
 - [vmallet/ida-plugins](https://github.com/vmallet/ida-plugins) - An interactive list of plugins for hex-rays' IDA Pro
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
