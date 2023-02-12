@@ -805,6 +805,7 @@
 
 ## Jinja 
 
+- [UdelaRInterior/ansible-role-proxmox-create-kvm](https://github.com/UdelaRInterior/ansible-role-proxmox-create-kvm) - Ansible role to create and configure virtual machines
 - [Oefenweb/ansible-postfix](https://github.com/Oefenweb/ansible-postfix) - Ansible role to set up postfix in Debian-like systems
 - [ansible-lockdown/UBUNTU20-CIS](https://github.com/ansible-lockdown/UBUNTU20-CIS) - CIS Baseline Ansible Role for Ubuntu 20
 - [Freekers/ansible-adguard](https://github.com/Freekers/ansible-adguard) - Ansible playbook to setup AdGuard Home with Unbound, including DoH, DoT & Let's Encrypt, based on Docker
@@ -885,7 +886,6 @@
 - [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes) - My notes of Clean Code book
 - [Feller-AG/wiser-api](https://github.com/Feller-AG/wiser-api) - 
 - [Feller-AG/wiser-tutorial](https://github.com/Feller-AG/wiser-tutorial) - 
-- [zloisupport/BaiduNetDiskTranslation](https://github.com/zloisupport/BaiduNetDiskTranslation) - 🌏UNOFFICIAL Translation Baidu Net Disk for Windows, Android to English🇬🇧, Russian🇷🇺  languages 📌
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list) - A list of IDA Plugins
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
