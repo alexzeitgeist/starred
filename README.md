@@ -306,6 +306,7 @@
 
 ## Go 
 
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
@@ -322,7 +323,7 @@
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go
-- [steffenfritz/mxcheck](https://github.com/steffenfritz/mxcheck) - mxcheck checks dns records for mail servers and for open relays.
+- [steffenfritz/mxcheck](https://github.com/steffenfritz/mxcheck) - mxcheck is an info and security scanner for e-mail servers.
 - [loov/lensm](https://github.com/loov/lensm) - Go assembly and source viewer
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [nathants/tiny-snitch](https://github.com/nathants/tiny-snitch) - an interactive firewall for inbound and outbound connections
@@ -658,7 +659,6 @@
 - [russellsamora/scrollama](https://github.com/russellsamora/scrollama) - Scrollytelling with IntersectionObserver.
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
-- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [usamaejaz/nginx-pastebin](https://github.com/usamaejaz/nginx-pastebin) - NGINX+Lua based pastebin for text
 - [subspacecommunity/subspace](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
@@ -1490,6 +1490,7 @@
 - [gdiepen/docker-convenience-scripts](https://github.com/gdiepen/docker-convenience-scripts) - 
 - [richfelker/usand](https://github.com/richfelker/usand) - usand - convenient and minimal unshare(1)-based sandbox
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
+- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [varunsridharan/action-gitea-mirror](https://github.com/varunsridharan/action-gitea-mirror) - Simple Python Script To Auto Trigger Gitea Mirror Using Github Action
 - [loomchild/volume-backup](https://github.com/loomchild/volume-backup) - docker volume backup & restore utility
 - [coaxial/docker-healthchecks](https://github.com/coaxial/docker-healthchecks) - healthchecks.io as a Docker service
