@@ -1146,6 +1146,7 @@
 
 ## Python 
 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
 - [alsmith/multicast-relay](https://github.com/alsmith/multicast-relay) - Relay multicast and broadcast packets between interfaces.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply m
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
@@ -1160,7 +1161,7 @@
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis) - Passive hostname, domain and IP lookup tool for non-robots
 - [0xricksanchez/like-dbg](https://github.com/0xricksanchez/like-dbg) - Fully dockerized Linux kernel debugging environment
-- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
+- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by LittleSnitch.
 - [chip-red-pill/MicrocodeDecryptor](https://github.com/chip-red-pill/MicrocodeDecryptor) - 
 - [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Monitor network traffic per executable using BPF
 - [datafold/data-diff](https://github.com/datafold/data-diff) - Efficiently diff data in or across relational databases
@@ -1358,6 +1359,7 @@
 
 ## Rust 
 
+- [stalwartlabs/smtp-server](https://github.com/stalwartlabs/smtp-server) - Stalwart SMTP Server
 - [queer/boxxy](https://github.com/queer/boxxy) - boxxy puts bad Linux applications in a box with only their files.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
