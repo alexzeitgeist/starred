@@ -86,6 +86,7 @@
 
 ## C 
 
+- [intel/ipu6-drivers](https://github.com/intel/ipu6-drivers) - 
 - [geekman/mdns-repeater](https://github.com/geekman/mdns-repeater) - mDNS repeater
 - [vitoplantamura/BugChecker](https://github.com/vitoplantamura/BugChecker) - SoftICE-like kernel debugger for Windows 11
 - [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
