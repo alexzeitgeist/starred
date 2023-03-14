@@ -52,7 +52,6 @@
 - [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
-- [SCSS](#scss)
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -282,6 +281,7 @@
 - [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 - [lightswitch05/wireguard-docker](https://github.com/lightswitch05/wireguard-docker) - A simple docker wireguard client
 - [sander1/docker-xtables](https://github.com/sander1/docker-xtables) - Docker image with xtables addons used to build GeoIP tables
+- [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification
 - [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image
 - [crazy-max/docker-firefox-syncserver](https://github.com/crazy-max/docker-firefox-syncserver) - Firefox Sync Server Docker image
 - [luisfarzati/localdots](https://github.com/luisfarzati/localdots) - HTTPS domains for localhost. 🏠
@@ -1381,7 +1381,7 @@
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-- [sigoden/argc](https://github.com/sigoden/argc) - Easily parse command line arguments in bash.
+- [sigoden/argc](https://github.com/sigoden/argc) - Easily create bash command line tool.
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [cyphar/paperback](https://github.com/cyphar/paperback) - Paper backup generator suitable for long-term storage.
 - [Julien-R44/fast-ssh](https://github.com/Julien-R44/fast-ssh) - ⌨️ FastSSH is a TUI that allows you to quickly connect to your services by navigating through your SSH config.
@@ -1452,10 +1452,6 @@
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [ierror/ssh-permit-a38](https://github.com/ierror/ssh-permit-a38) - Central management and deployment for SSH keys
 - [onur/acme-client](https://github.com/onur/acme-client) - Yet another Let's Encrypt client and library written in Rust.
-
-## SCSS 
-
-- [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification
 
 ## Shell 
 
