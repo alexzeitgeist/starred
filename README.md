@@ -97,7 +97,6 @@
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for Nginx
 - [ndilieto/uacme](https://github.com/ndilieto/uacme) - ACMEv2 client written in plain C with minimal dependencies
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
-- [CoolerVoid/casper-fs](https://github.com/CoolerVoid/casper-fs) - Casper-fs is a Custom Hidden Linux Kernel Module generator. Each module works in the file system to protect and hide secret files.
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [eigenmatt/mec-tools](https://github.com/eigenmatt/mec-tools) - Tools for modifying Lenovo embedded controller firmware
 - [dosemu2/dosemu2](https://github.com/dosemu2/dosemu2) - Run DOS programs under linux:
@@ -1475,7 +1474,7 @@
 - [wader/postfix-relay](https://github.com/wader/postfix-relay) - Postfix SMTP relay docker image
 - [ix-ai/smtp](https://github.com/ix-ai/smtp) - This is a SMTP docker container for sending emails. You can also relay emails to gmail and amazon SES.
 - [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) - An Alpine Linux 3.16.1 container for the iCloud Photos Downloader command line utility
-- [omerbsezer/Fast-Kubernetes](https://github.com/omerbsezer/Fast-Kubernetes) - This repo covers Kubernetes Environment with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Kubeadm, Helm, etc.
+- [omerbsezer/Fast-Kubernetes](https://github.com/omerbsezer/Fast-Kubernetes) - This repo covers Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset, Taint-Toleration, Job, Ingress, Kubeadm, Helm, etc.
 - [mattydebie/bitwarden-rofi](https://github.com/mattydebie/bitwarden-rofi) - Wrapper for Bitwarden https://github.com/bitwarden/cli and Rofi
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
