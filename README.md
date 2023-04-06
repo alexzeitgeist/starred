@@ -1284,7 +1284,7 @@
 - [coderholic/pyradio](https://github.com/coderholic/pyradio) - Curses based internet radio player
 - [s0md3v/Corsy](https://github.com/s0md3v/Corsy) - CORS Misconfiguration Scanner
 - [SFTtech/sftdyn](https://github.com/SFTtech/sftdyn) - Self-hosted dyndns/dynamic DNS server and updater for bind
-- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) - vulnx 🕷️ an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collecti
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python & Django
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
