@@ -851,6 +851,7 @@
 - [SmartThingsCommunity/SmartThingsEdgeDrivers](https://github.com/SmartThingsCommunity/SmartThingsEdgeDrivers) - 
 - [Mariano-Github/Edge-Drivers-Beta](https://github.com/Mariano-Github/Edge-Drivers-Beta) - Edge Driver Beta Modified for Created
 - [veonua/SmartThingsEdge-Xiaomi](https://github.com/veonua/SmartThingsEdge-Xiaomi) - SmartThings Edge drivers for XIaomi and Aqara devices
+- [bluz71/vim-nightfly-colors](https://github.com/bluz71/vim-nightfly-colors) - A dark midnight theme for modern Neovim & classic Vim
 - [axl89/s3cr3t](https://github.com/axl89/s3cr3t) - A supercharged S3 reverse proxy
 - [bram-dingelstad/neh](https://github.com/bram-dingelstad/neh) - The super small and simple nginx microservice/api maker!
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
@@ -1718,7 +1719,6 @@
 
 ## Vim Script 
 
-- [bluz71/vim-nightfly-colors](https://github.com/bluz71/vim-nightfly-colors) - A dark midnight theme for classic Vim & modern Neovim
 - [cocopon/iceberg.vim](https://github.com/cocopon/iceberg.vim) - :antarctica: Bluish color scheme for Vim and Neovim
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [haishanh/night-owl.vim](https://github.com/haishanh/night-owl.vim) - A 24bit dark Vim colorscheme based on sdras/night-owl-vscode-theme
