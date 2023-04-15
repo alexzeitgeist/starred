@@ -1082,7 +1082,7 @@
 - [ivkos/Pushbullet-for-PHP](https://github.com/ivkos/Pushbullet-for-PHP) - PHP library for the Pushbullet API
 - [andreshg112/pusher-api-notifications](https://github.com/andreshg112/pusher-api-notifications) - Send Pusher API Notifications with Laravel notifications system.
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
-- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with Cakephp
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with CakePHP
 - [vgrem/phpSPO](https://github.com/vgrem/phpSPO) - Office 365 Library for PHP. It allows to performs CRUD operations against Office 365 resources via an REST/OData based API
 - [golincode/sharepoint-oauth-app-client](https://github.com/golincode/sharepoint-oauth-app-client) - A PHP SharePoint OAuth App Client
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
