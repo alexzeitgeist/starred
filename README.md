@@ -142,7 +142,7 @@
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
 - [kal39/TerminalMediaViewer](https://github.com/kal39/TerminalMediaViewer) - An utf-8/truecolor image and video viewer for the terminal
-- [mydumper/mydumper](https://github.com/mydumper/mydumper) - Official MyDumper project
+- [mydumper/mydumper](https://github.com/mydumper/mydumper) - Official MyDumper Project
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [emersion/kanshi](https://github.com/emersion/kanshi) - Dynamic display configuration (mirror)
 - [jiangwenyuan/nuster](https://github.com/jiangwenyuan/nuster) - A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy
