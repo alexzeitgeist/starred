@@ -313,6 +313,7 @@
 
 ## Go 
 
+- [release-argus/Argus](https://github.com/release-argus/Argus) - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.
 - [moul/quicssh](https://github.com/moul/quicssh) - SSH over QUIC
 - [julien040/gut](https://github.com/julien040/gut) - An alternative git CLI for Windows, macOS, and Linux
 - [phoreverpheebs/git-archiver](https://github.com/phoreverpheebs/git-archiver) - Archive github users and repositories
