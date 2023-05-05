@@ -902,6 +902,7 @@
 
 ## Others 
 
+- [php-fig/per-coding-style](https://github.com/php-fig/per-coding-style) - PER coding style
 - [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes) - My notes of Clean Code book
 - [Feller-AG/wiser-api](https://github.com/Feller-AG/wiser-api) - 
 - [Feller-AG/wiser-tutorial](https://github.com/Feller-AG/wiser-tutorial) - 
@@ -982,6 +983,7 @@
 
 ## PHP 
 
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build single static PHP binary, with PHP project together, with popular extensions included.
 - [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
 - [openai-php/laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
 - [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map
