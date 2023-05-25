@@ -1376,6 +1376,7 @@
 
 ## Rust 
 
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [psarna/edgemail](https://github.com/psarna/edgemail) - 
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
