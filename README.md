@@ -1313,7 +1313,6 @@
 - [tmr232/Sark](https://github.com/tmr232/Sark) - IDAPython Made Easy
 - [kevthehermit/PasteHunter](https://github.com/kevthehermit/PasteHunter) - Scanning pastebin with yara rules
 - [chr0mag/geoipsets](https://github.com/chr0mag/geoipsets) - Python package to generate country-specific IP network ranges consumable by both iptables/ipset and nftables.
-- [itsKindred/subEnum](https://github.com/itsKindred/subEnum) - Small Python script used to bruteforce subdomain names of a specified domain.
 - [snovvcrash/usbrip](https://github.com/snovvcrash/usbrip) - Tracking history of USB events on GNU/Linux
 - [BishopFox/GitGot](https://github.com/BishopFox/GitGot) - Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.
 - [hg8496/ansible-hcloud-inventory](https://github.com/hg8496/ansible-hcloud-inventory) - An dynamic inventory script for hetzner cloud
