@@ -310,6 +310,7 @@
 
 ## Go 
 
+- [d-fi/GoFi](https://github.com/d-fi/GoFi) - A performant streaming music downloader written with Go
 - [4cq2/googleplay](https://github.com/4cq2/googleplay) - Download APK from Google Play or send API requests
 - [go-debos/debos](https://github.com/go-debos/debos) - Debian OS builder
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
@@ -1475,6 +1476,7 @@
 
 ## Shell 
 
+- [Skyedra/UnspamifyUbuntu](https://github.com/Skyedra/UnspamifyUbuntu) - Remove spam from Ubuntu
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [polkaulfield/ubuntu-debullshit](https://github.com/polkaulfield/ubuntu-debullshit) - Purges snaps, installs flatpaks, and restores vanilla GNOME
 - [sii/sipcalc](https://github.com/sii/sipcalc) - Sipcalc is an advanced ip calculator supporting both IPv4 and IPv6.
