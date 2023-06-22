@@ -34,6 +34,7 @@
 - [Less](#less)
 - [Lua](#lua)
 - [M4](#m4)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nginx](#nginx)
@@ -502,7 +503,6 @@
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [rhaidiz/broxy](https://github.com/rhaidiz/broxy) - An HTTP/HTTPS intercept proxy written in Go.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [riza/tldscan](https://github.com/riza/tldscan) - TLD scanner by CNAME lookup
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -865,6 +865,10 @@
 ## M4 
 
 - [matejak/argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator
+
+## MDX 
+
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
 ## Makefile 
 
