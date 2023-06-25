@@ -81,6 +81,7 @@
 
 ## C 
 
+- [intel/ipu6-camera-hal](https://github.com/intel/ipu6-camera-hal) - 
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [intel/ipu6-camera-bins](https://github.com/intel/ipu6-camera-bins) - 
 - [intel/ipu6-drivers](https://github.com/intel/ipu6-drivers) - 
@@ -311,6 +312,7 @@
 
 ## Go 
 
+- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [cunnie/sslip.io](https://github.com/cunnie/sslip.io) - Golang-based DNS server which maps DNS records with embedded IP addresses to those addresses.
 - [d-fi/GoFi](https://github.com/d-fi/GoFi) - A performant streaming music downloader written with Go
 - [4cq2/googleplay](https://github.com/4cq2/googleplay) - Download APK from Google Play or send API requests
@@ -693,7 +695,7 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [apilayer/geolocationapi](https://github.com/apilayer/geolocationapi) - IP Geolocation API is a free service for locating your visitors in real-time with detailed country information.
-- [ookangzheng/blahdns](https://github.com/ookangzheng/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support.
+- [zoonderkins/blahdns](https://github.com/zoonderkins/blahdns) - A small hobby ads block dns project with doh, dot, dnscrypt support.
 - [trambarhq/relaks-wordpress-example](https://github.com/trambarhq/relaks-wordpress-example) - Building a zero-latency WordPress front-end
 - [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 - [mjavascript/mastering-modular-javascript](https://github.com/mjavascript/mastering-modular-javascript) - 📦 Module thinking, principles, design patterns and best practices.
