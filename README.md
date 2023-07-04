@@ -319,7 +319,7 @@
 - [4cq2/googleplay](https://github.com/4cq2/googleplay) - Download APK from Google Play or send API requests
 - [go-debos/debos](https://github.com/go-debos/debos) - Debian OS builder
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker.
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [release-argus/Argus](https://github.com/release-argus/Argus) - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.
 - [moul/quicssh](https://github.com/moul/quicssh) - SSH over QUIC
 - [julien040/gut](https://github.com/julien040/gut) - An alternative git CLI for Windows, macOS, and Linux
@@ -1071,7 +1071,7 @@
 - [doganoo/PHPAlgorithms](https://github.com/doganoo/PHPAlgorithms) - A collection of common algorithms implemented in PHP. The collection is based on "Cracking the Coding Interview" by Gayle Laakmann McDowell
 - [ergebnis/phpstan-rules](https://github.com/ergebnis/phpstan-rules) - :eyeglasses: Provides additional rules for phpstan/phpstan.
 - [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - :musical_note: Provides a composer plugin for normalizing composer.json.
-- [qbus-agentur/nginx_cache](https://github.com/qbus-agentur/nginx_cache) - TYPO3 extension to manage nginx cache
+- [bnf/nginx_cache](https://github.com/bnf/nginx_cache) - TYPO3 extension to manage nginx cache
 - [einpraegsam/migration](https://github.com/einpraegsam/migration) - TYPO3 Migration Framework for every kind of migration/imports from CLI (e.g. Templavoila to Gridelements, tt_news to news, etc...)
 - [voku/portable-utf8](https://github.com/voku/portable-utf8) - 🉑 Portable UTF-8 library - performance optimized (unicode) string functions for PHP.
 - [PHPCompatibility/PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) - PHP Compatibility check for PHP_CodeSniffer
@@ -1507,7 +1507,7 @@
 - [actions-x/commit](https://github.com/actions-x/commit) - 
 - [wader/postfix-relay](https://github.com/wader/postfix-relay) - Postfix SMTP relay docker image
 - [ix-ai/smtp](https://github.com/ix-ai/smtp) - This is a SMTP docker container for sending emails. You can also relay emails to gmail and amazon SES.
-- [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) - An Alpine Linux 3.17.3 container for the iCloud Photos Downloader command line utility
+- [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) - An Alpine Linux 3.18.2 container for the iCloud Photos Downloader command line utility
 - [omerbsezer/Fast-Kubernetes](https://github.com/omerbsezer/Fast-Kubernetes) - This repo covers Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset, Taint-Toleration, Job, Ingress, Kubeadm, Helm, etc.
 - [mattydebie/bitwarden-rofi](https://github.com/mattydebie/bitwarden-rofi) - Wrapper for Bitwarden https://github.com/bitwarden/cli and Rofi
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
