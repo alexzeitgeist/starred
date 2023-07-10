@@ -315,7 +315,7 @@
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [cunnie/sslip.io](https://github.com/cunnie/sslip.io) - Golang-based DNS server which maps DNS records with embedded IP addresses to those addresses.
 - [d-fi/GoFi](https://github.com/d-fi/GoFi) - A performant streaming music downloader written with Go
-- [4cq2/google-play](https://github.com/4cq2/google-play) - Download APK from Google Play or send API requests
+- [1268/google-play](https://github.com/1268/google-play) - Download APK from Google Play or send API requests
 - [go-debos/debos](https://github.com/go-debos/debos) - Debian OS builder
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
