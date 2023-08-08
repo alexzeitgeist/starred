@@ -456,7 +456,7 @@
 - [moshebe/gebug](https://github.com/moshebe/gebug) - Debug Dockerized Go applications better
 - [paranoidninja/Boomerang](https://github.com/paranoidninja/Boomerang) - Boomerang is a tool to expose multiple internal servers to web/cloud. Agent & Server are pretty stable and can be used in Red Team for Multiple levels of Pivoting and exposing multiple internal servic
 - [hnrss/go-hnrss](https://github.com/hnrss/go-hnrss) - Go source code for hnrss.org
-- [OWASP/Go-SCP](https://github.com/OWASP/Go-SCP) - Go programming language secure coding practices guide
+- [OWASP/Go-SCP](https://github.com/OWASP/Go-SCP) - Golang Secure Coding Practices guide
 - [lucasepe/draft](https://github.com/lucasepe/draft) - Generate High Level Cloud Architecture diagrams using YAML syntax.
 - [storyicon/gos](https://github.com/storyicon/gos) - Gos: Armed Golang 💪 ( solutions for go module, goproxy, cross compilation, etc.)
 - [cloudflare/utahfs](https://github.com/cloudflare/utahfs) - UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
