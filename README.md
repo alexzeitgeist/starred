@@ -1170,6 +1170,7 @@
 
 ## Python 
 
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - lightweight package to simplify LLM API calls - Azure, OpenAI, Cohere, Anthropic, Replicate. Manages input/output translation
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) - 
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
@@ -1420,7 +1421,7 @@
 - [Julien-R44/fast-ssh](https://github.com/Julien-R44/fast-ssh) - ⌨️ FastSSH is a TUI that allows you to quickly connect to your services by navigating through your SSH config.
 - [oSumAtrIX/DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - 🎵 A Spotify music and playlist downloader written in Rust which also works with a free Spotify account
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [mikroskeem/tosh](https://github.com/mikroskeem/tosh) - Imagine your SSH server only listens on an IPv6 address, and where the last 6 digits are changing every 30 seconds as a TOTP code...
 - [aome510/hackernews-TUI](https://github.com/aome510/hackernews-TUI) - A Terminal UI to browse Hacker News
 - [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage your emails.
