@@ -308,6 +308,7 @@
 
 ## Go 
 
+- [Jinnrry/PMail](https://github.com/Jinnrry/PMail) - Private EMail Server
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [ctrlcctrlv/minica2.go](https://github.com/ctrlcctrlv/minica2.go) - minica2 is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
 - [libdns/libdns](https://github.com/libdns/libdns) - Core interfaces for universal DNS record manipulation across providers
