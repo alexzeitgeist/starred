@@ -891,7 +891,6 @@
 - [susam/gitpr](https://github.com/susam/gitpr) - Quick reference guide on fork and pull request workflow
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [nanoninja/docker-nginx-php-mysql](https://github.com/nanoninja/docker-nginx-php-mysql) - Docker running Nginx, PHP-FPM, MySQL & PHPMyAdmin
 - [e-gautier/docker-symfony-development](https://github.com/e-gautier/docker-symfony-development) - Run a Symfony development environment with Docker.
 
@@ -989,6 +988,7 @@
 - [sublimehq/sublime_merge](https://github.com/sublimehq/sublime_merge) - Issue tracker for Sublime Merge
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [kotc/ovhnas](https://github.com/kotc/ovhnas) - kernel for OVH Nas board (marvel armada375 based SYS-arm offering)
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [radareorg/awesome-radare2](https://github.com/radareorg/awesome-radare2) - A curated list of awesome projects, articles and the other materials powered by Radare2
 - [delcypher/docker-ubuntu-cxx-dev](https://github.com/delcypher/docker-ubuntu-cxx-dev) - Docker image for development of C++ applications on Ubuntu
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
@@ -1380,7 +1380,7 @@
 
 ## Ruby 
 
-- [mrsked/mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere.
+- [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [darkbitio/k8s-mirror](https://github.com/darkbitio/k8s-mirror) - Creates a local mirror of a Kubernetes cluster in a docker container to support offline reviewing
