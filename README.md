@@ -710,6 +710,7 @@
 
 ## Java 
 
+- [apk-editor/APK-Explorer-Editor](https://github.com/apk-editor/APK-Explorer-Editor) - Source code of APK Explorer & Editor (AEE),  an open-source tool to explore the contents of an installed APK!
 - [neva-dev/felix-search-webconsole-plugin](https://github.com/neva-dev/felix-search-webconsole-plugin) - Search Web Console Plugin for Apache Felix
 - [al3xtjames/ghidra-firmware-utils](https://github.com/al3xtjames/ghidra-firmware-utils) - Ghidra utilities for analyzing PC firmware
 - [TorgoTorgo/ghidra-findcrypt](https://github.com/TorgoTorgo/ghidra-findcrypt) - Ghidra analysis plugin to locate cryptographic constants
