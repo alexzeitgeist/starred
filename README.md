@@ -1178,6 +1178,7 @@
 
 ## Python 
 
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - lightweight package to simplify LLM API calls - Azure, OpenAI, Cohere, Anthropic, Replicate. Manages input/output translation
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
