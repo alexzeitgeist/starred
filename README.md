@@ -1072,7 +1072,7 @@
 - [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 - [localheinz/php-cs-fixer-config](https://github.com/localheinz/php-cs-fixer-config) - :notebook: Provides a configuration factory and multiple rule sets for friendsofphp/php-cs-fixer.
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
-- [ergebnis/php-package-template](https://github.com/ergebnis/php-package-template) - :octocat: + :ledger: Provides a GitHub template repository for a PHP package, using GitHub Actions.
+- [ergebnis/php-package-template](https://github.com/ergebnis/php-package-template) - :octocat: + :ledger: Provides a GitHub repository template for a PHP package with GitHub Actions workflows using standard PHP development tools.
 - [spatie/laravel-personal-data-export](https://github.com/spatie/laravel-personal-data-export) - Create zip files containing personal data
 - [beyondcode/laravel-tinker-server](https://github.com/beyondcode/laravel-tinker-server) - Tinker with your variables while working on your Laravel application
 - [doganoo/PHPAlgorithms](https://github.com/doganoo/PHPAlgorithms) - A collection of common algorithms implemented in PHP. The collection is based on "Cracking the Coding Interview" by Gayle Laakmann McDowell
