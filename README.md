@@ -34,7 +34,6 @@
 - [Less](#less)
 - [Lua](#lua)
 - [M4](#m4)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nginx](#nginx)
@@ -511,6 +510,7 @@
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [rhaidiz/broxy](https://github.com/rhaidiz/broxy) - An HTTP/HTTPS intercept proxy written in Go.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [riza/tldscan](https://github.com/riza/tldscan) - TLD scanner by CNAME lookup
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -880,10 +880,6 @@
 
 - [matejak/argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator
 
-## MDX 
-
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-
 ## Makefile 
 
 - [thenickdude/KVM-Opencore](https://github.com/thenickdude/KVM-Opencore) - OpenCore disk image for running macOS VMs on Proxmox/QEMU
@@ -1155,7 +1151,7 @@
 - [jusbuc2k/roundcube-application_passwords](https://github.com/jusbuc2k/roundcube-application_passwords) - Roundcube plugin to manage application-specific passsords.
 - [dweuthen/roundcube-application_passwords](https://github.com/dweuthen/roundcube-application_passwords) - Roundcube plugin to manage application-specific passsords.
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
-- [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - sample code for several design patterns in PHP 8
+- [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - Sample code for several design patterns in PHP 8.x
 
 ## PLpgSQL 
 
