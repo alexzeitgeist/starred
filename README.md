@@ -837,7 +837,6 @@
 
 - [UdelaRInterior/ansible-role-proxmox-create-kvm](https://github.com/UdelaRInterior/ansible-role-proxmox-create-kvm) - Ansible role to create and configure virtual machines
 - [Oefenweb/ansible-postfix](https://github.com/Oefenweb/ansible-postfix) - Ansible role to set up postfix in Debian-like systems
-- [ansible-lockdown/UBUNTU20-CIS](https://github.com/ansible-lockdown/UBUNTU20-CIS) - Ansible role for Ubuntu 2004 CIS Baseline
 - [Freekers/ansible-adguard](https://github.com/Freekers/ansible-adguard) - Ansible playbook to setup AdGuard Home with Unbound, including DoH, DoT & Let's Encrypt, based on Docker
 - [florianutz/Ubuntu1604-CIS](https://github.com/florianutz/Ubuntu1604-CIS) - Ubuntu CIS Hardening Ansible Role
 - [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.
@@ -1790,6 +1789,7 @@
 
 ## YAML 
 
+- [ansible-lockdown/UBUNTU20-CIS](https://github.com/ansible-lockdown/UBUNTU20-CIS) - Ansible role for Ubuntu 2004 CIS Baseline
 - [ansible-lockdown/RHEL7-STIG](https://github.com/ansible-lockdown/RHEL7-STIG) - Ansible role for Red Hat 7 STIG Baseline
 
 
