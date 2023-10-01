@@ -200,7 +200,7 @@
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [solemnwarning/rehex](https://github.com/solemnwarning/rehex) - Reverse Engineers' Hex Editor
 - [VKCOM/kphp](https://github.com/VKCOM/kphp) - KPHP — a PHP compiler
-- [google/bloaty](https://github.com/google/bloaty) - Bloaty McBloatface: a size profiler for binaries
+- [google/bloaty](https://github.com/google/bloaty) - Bloaty: a size profiler for binaries
 - [keur/prettyeq](https://github.com/keur/prettyeq) - prettyeq is a system-wide paramateric equalizer for pulseaudio
 - [MantechUser/aes-finder](https://github.com/MantechUser/aes-finder) - Utility to find AES keys in running processes
 - [mhogomchungu/sirikali](https://github.com/mhogomchungu/sirikali) - A Qt/C++ GUI front end to sshfs, ecryptfs-simple, cryfs, gocryptfs, securefs, fscrypt and encfs
@@ -1108,7 +1108,7 @@
 - [andreshg112/pusher-api-notifications](https://github.com/andreshg112/pusher-api-notifications) - Send Pusher API Notifications with Laravel notifications system.
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with CakePHP
-- [vgrem/phpSPO](https://github.com/vgrem/phpSPO) - Office 365 Library for PHP. It allows to performs CRUD operations against Office 365 resources via an REST/OData based API
+- [vgrem/phpSPO](https://github.com/vgrem/phpSPO) - Microsoft 365 Library for PHP.
 - [golincode/sharepoint-oauth-app-client](https://github.com/golincode/sharepoint-oauth-app-client) - A PHP SharePoint OAuth App Client
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
