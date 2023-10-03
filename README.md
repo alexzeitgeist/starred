@@ -76,6 +76,7 @@
 
 ## C 
 
+- [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [nginx/unit](https://github.com/nginx/unit) - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming l
 - [JHRobotics/softgpu](https://github.com/JHRobotics/softgpu) - SW and HW accelerated GPU driver for Windows 9x Virtual Machines
 - [intel/ipu6-camera-hal](https://github.com/intel/ipu6-camera-hal) - 
