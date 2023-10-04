@@ -712,6 +712,7 @@
 
 ## Haskell 
 
+- [dustin/gopro](https://github.com/dustin/gopro) - Tools for making the most out of GoPro Plus.
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunneling over websocket protocol - Static binary available
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -1182,7 +1183,7 @@
 
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Use any LLM as a drop in replacement for GPT. Use Azure, OpenAI, Cohere, Anthropic, Ollama, VLLM, Sagemaker, HuggingFace, Replicate (100+ LLMs)
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Azure, OpenAI, Cohere, Anthropic, Ollama, VLLM, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) - 
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
@@ -1716,7 +1717,7 @@
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) - A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - The open-source monitoring platform
 - [profclems/compozify](https://github.com/profclems/compozify) - Convert "docker run" commands to docker compose files
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
