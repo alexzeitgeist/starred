@@ -1081,7 +1081,7 @@
 - [spatie/laravel-personal-data-export](https://github.com/spatie/laravel-personal-data-export) - Create zip files containing personal data
 - [beyondcode/laravel-tinker-server](https://github.com/beyondcode/laravel-tinker-server) - Tinker with your variables while working on your Laravel application
 - [doganoo/PHPAlgorithms](https://github.com/doganoo/PHPAlgorithms) - A collection of common algorithms implemented in PHP. The collection is based on "Cracking the Coding Interview" by Gayle Laakmann McDowell
-- [ergebnis/phpstan-rules](https://github.com/ergebnis/phpstan-rules) - :eyeglasses: Provides additional rules for phpstan/phpstan.
+- [ergebnis/phpstan-rules](https://github.com/ergebnis/phpstan-rules) - :eyeglasses: Provides rules for phpstan/phpstan.
 - [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - :musical_note: Provides a composer plugin for normalizing composer.json.
 - [bnf/nginx_cache](https://github.com/bnf/nginx_cache) - TYPO3 extension to manage nginx cache
 - [einpraegsam/migration](https://github.com/einpraegsam/migration) - TYPO3 Migration Framework for every kind of migration/imports from CLI (e.g. Templavoila to Gridelements, tt_news to news, etc...)
