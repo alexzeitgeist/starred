@@ -1522,6 +1522,7 @@
 
 ## Shell 
 
+- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - store all chatgpt's system prompt
 - [ElliotKillick/Mido](https://github.com/ElliotKillick/Mido) - The Secure Microsoft Windows Downloader
 - [Skyedra/UnspamifyUbuntu](https://github.com/Skyedra/UnspamifyUbuntu) - Remove spam from Ubuntu
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
