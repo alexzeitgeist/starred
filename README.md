@@ -531,7 +531,6 @@
 - [brendoncarroll/webfs](https://github.com/brendoncarroll/webfs) - A Filesystem Built On Top of the Web.
 - [hanwen/go-mtpfs](https://github.com/hanwen/go-mtpfs) - Mount MTP devices over FUSE
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule
 - [maxmind/geoipupdate](https://github.com/maxmind/geoipupdate) - GeoIP update client code
 - [crazy-max/geoip-updater](https://github.com/crazy-max/geoip-updater) - Download and update MaxMind's GeoIP2 databases on a time-based schedule
@@ -752,6 +751,7 @@
 
 ## JavaScript 
 
+- [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
@@ -1188,7 +1188,6 @@
 
 ## Python 
 
-- [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [marcolardera/chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
@@ -1776,6 +1775,7 @@
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
