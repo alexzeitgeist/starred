@@ -1122,7 +1122,7 @@
 - [ivkos/Pushbullet-for-PHP](https://github.com/ivkos/Pushbullet-for-PHP) - PHP library for the Pushbullet API
 - [andreshg112/pusher-api-notifications](https://github.com/andreshg112/pusher-api-notifications) - Send Pusher API Notifications with Laravel notifications system.
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
-- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with CakePHP
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [vgrem/phpSPO](https://github.com/vgrem/phpSPO) - Microsoft 365 Library for PHP.
 - [golincode/sharepoint-oauth-app-client](https://github.com/golincode/sharepoint-oauth-app-client) - A PHP SharePoint OAuth App Client
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
@@ -1561,7 +1561,7 @@
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
 - [Biont/sway-launcher-desktop](https://github.com/Biont/sway-launcher-desktop) - TUI Application launcher with Desktop Entry support. Made for SwayWM, but runs anywhere
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
-- [garywill/linux-router](https://github.com/garywill/linux-router) - Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers 🛰️ (我B站 https://space.bilibili.com/2123686105 )
+- [garywill/linux-router](https://github.com/garywill/linux-router) - Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers 🛰️ (我B站 https://space.bilibili.com/2123686105 欢迎朋友们看看关注～)
 - [thomasgruebl/WiFi-channel-finder](https://github.com/thomasgruebl/WiFi-channel-finder) - Finds the best channel for your 2.4GHz WiFi
 - [filiparag/hetzner_ddns](https://github.com/filiparag/hetzner_ddns) - Hetzner Dynamic DNS (DDNS, DynDNS) daemon
 - [azlux/log2ram](https://github.com/azlux/log2ram) - ramlog like for systemd (Put log into a ram folder)
