@@ -271,7 +271,7 @@
 
 ## Dart 
 
-- [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client.
 - [qcasey/paperless_share](https://github.com/qcasey/paperless_share) - Android App to share your documents with your Paperless server
 - [bauerj/paperless_app](https://github.com/bauerj/paperless_app) - An Android/iOS app for Paperless
@@ -1496,11 +1496,11 @@
 - [coord-e/r53ddns](https://github.com/coord-e/r53ddns) - command-line utility to update A record in Route53 with current global IP address
 - [coord-e/magicpak](https://github.com/coord-e/magicpak) - :hammer: Build minimal docker images without static linking
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
 - [JoshMcguigan/belay](https://github.com/JoshMcguigan/belay) - Run your CI checks locally to `git push` with confidence
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-- [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunneling over websocket protocol - Static binary available
+- [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over websocket protocol - Bypass firewalls/DPI - Static binary available
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [Findomain/Findomain](https://github.com/Findomain/Findomain) - The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, mul
