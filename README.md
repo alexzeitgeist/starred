@@ -82,6 +82,7 @@
 
 ## C 
 
+- [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini+
 - [technyon/nuki_hub](https://github.com/technyon/nuki_hub) - Use an ESP32 as a Hub between a NUKI Lock and your smarthome.
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [nginx/unit](https://github.com/nginx/unit) - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming l
@@ -191,6 +192,7 @@
 
 ## C++ 
 
+- [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [Neverous/efibooteditor](https://github.com/Neverous/efibooteditor) - Boot Editor for (U)EFI based systems
@@ -320,6 +322,7 @@
 
 ## Go 
 
+- [saucelabs/forwarder](https://github.com/saucelabs/forwarder) - Fast HTTP proxy with MITM and PAC
 - [cvilsmeier/go-sqlite-bench](https://github.com/cvilsmeier/go-sqlite-bench) - Benchmarks for Golang SQLite Drivers
 - [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟
@@ -1556,7 +1559,7 @@
 - [actions-x/commit](https://github.com/actions-x/commit) - 
 - [wader/postfix-relay](https://github.com/wader/postfix-relay) - Postfix SMTP relay docker image
 - [ix-ai/smtp](https://github.com/ix-ai/smtp) - This is a SMTP docker container for sending emails. You can also relay emails to gmail and amazon SES.
-- [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) - An Alpine Linux 3.18.3 container for the iCloud Photos Downloader command line utility
+- [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) - An Alpine Linux 3.19.0 container for the iCloud Photos Downloader command line utility
 - [mattydebie/bitwarden-rofi](https://github.com/mattydebie/bitwarden-rofi) - Wrapper for Bitwarden https://github.com/bitwarden/cli and Rofi
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
