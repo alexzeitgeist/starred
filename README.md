@@ -1098,7 +1098,7 @@
 - [spatie/laravel-personal-data-export](https://github.com/spatie/laravel-personal-data-export) - Create zip files containing personal data
 - [beyondcode/laravel-tinker-server](https://github.com/beyondcode/laravel-tinker-server) - Tinker with your variables while working on your Laravel application
 - [doganoo/PHPAlgorithms](https://github.com/doganoo/PHPAlgorithms) - A collection of common algorithms implemented in PHP. The collection is based on "Cracking the Coding Interview" by Gayle Laakmann McDowell
-- [ergebnis/phpstan-rules](https://github.com/ergebnis/phpstan-rules) - :eyeglasses: Provides rules for phpstan/phpstan.
+- [ergebnis/phpstan-rules](https://github.com/ergebnis/phpstan-rules) - 👓 Provides a composer package with rules for phpstan/phpstan.
 - [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - :musical_note: Provides a composer plugin for normalizing composer.json.
 - [bnf/nginx_cache](https://github.com/bnf/nginx_cache) - TYPO3 extension to manage nginx cache
 - [einpraegsam/migration](https://github.com/einpraegsam/migration) - TYPO3 Migration Framework for every kind of migration/imports from CLI (e.g. Templavoila to Gridelements, tt_news to news, etc...)
@@ -1417,6 +1417,7 @@
 
 ## Ruby 
 
+- [accessd/terminal-sunday](https://github.com/accessd/terminal-sunday) - Start each new terminal session with a thought-provoking reminder of the time you have to make the most of your life!
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
