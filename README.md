@@ -1099,7 +1099,7 @@
 - [beyondcode/laravel-tinker-server](https://github.com/beyondcode/laravel-tinker-server) - Tinker with your variables while working on your Laravel application
 - [doganoo/PHPAlgorithms](https://github.com/doganoo/PHPAlgorithms) - A collection of common algorithms implemented in PHP. The collection is based on "Cracking the Coding Interview" by Gayle Laakmann McDowell
 - [ergebnis/phpstan-rules](https://github.com/ergebnis/phpstan-rules) - 👓 Provides a composer package with rules for phpstan/phpstan.
-- [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - :musical_note: Provides a composer plugin for normalizing composer.json.
+- [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - 🎵 Provides a composer plugin for normalizing composer.json.
 - [bnf/nginx_cache](https://github.com/bnf/nginx_cache) - TYPO3 extension to manage nginx cache
 - [einpraegsam/migration](https://github.com/einpraegsam/migration) - TYPO3 Migration Framework for every kind of migration/imports from CLI (e.g. Templavoila to Gridelements, tt_news to news, etc...)
 - [voku/portable-utf8](https://github.com/voku/portable-utf8) - 🉑 Portable UTF-8 library - performance optimized (unicode) string functions for PHP.
