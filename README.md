@@ -772,7 +772,7 @@
 - [EU-EDPS/website-evidence-collector](https://github.com/EU-EDPS/website-evidence-collector) - The tool Website Evidence Collector (WEC) automates the website evidence collection of storage and transfer of personal data. https://edps.europa.eu/press-publications/edps-inspection-software_en
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
 - [SmartThingsDevelopers/Sample-RulesAPI](https://github.com/SmartThingsDevelopers/Sample-RulesAPI) - Rules are a versatile tool, enabling you to automate the Devices and services that connect to the SmartThings Platform. When possible, Rules execute locally on a Hub.
 - [ice987987/ioBroker.wiserbyfeller](https://github.com/ice987987/ioBroker.wiserbyfeller) - This Adapter enables you to manage all your Wiser-by-Feller system devices via a WebSocket connection.
@@ -1442,6 +1442,7 @@
 
 ## Rust 
 
+- [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
