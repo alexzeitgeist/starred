@@ -1209,6 +1209,7 @@
 
 ## Python 
 
+- [gcarmix/HexWalk](https://github.com/gcarmix/HexWalk) - Hex Viewer/Editor/Analyzer compatible with Linux/Windows/MacOS
 - [mkjt2/lockbox](https://github.com/mkjt2/lockbox) - Lockbox is a forward proxy for making third party API calls.
 - [papermerge/papermerge-core](https://github.com/papermerge/papermerge-core) - In this repository is the source code of Papermerge DMS backend core, REST API server, and frontend UI
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
@@ -1703,7 +1704,7 @@
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [utensils/brinkOS](https://github.com/utensils/brinkOS) - Arch based Linux distribution for Engineers
 - [ne0-n00b/dots](https://github.com/ne0-n00b/dots) - 
-- [duhio/docker-compose-usenet](https://github.com/duhio/docker-compose-usenet) - Docker-powered usenet pipeline
+- [stevewm/docker-compose-usenet](https://github.com/stevewm/docker-compose-usenet) - Docker-powered usenet pipeline
 - [jc00ke/move-to-next-monitor](https://github.com/jc00ke/move-to-next-monitor) - Script to move windows from one monitor to the next in Xubuntu
 - [freight-team/freight](https://github.com/freight-team/freight) - A modern take on the Debian archive.
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
