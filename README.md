@@ -81,6 +81,7 @@
 
 ## C 
 
+- [cyberus-technology/virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) - VirtualBox with KVM Backend
 - [kjliew/qemu-3dfx](https://github.com/kjliew/qemu-3dfx) - MESA GL/3Dfx Glide pass-through for QEMU
 - [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini+
 - [technyon/nuki_hub](https://github.com/technyon/nuki_hub) - Use an ESP32 as a Hub between a NUKI Lock and your smarthome.
@@ -1209,6 +1210,7 @@
 
 ## Python 
 
+- [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
 - [gcarmix/HexWalk](https://github.com/gcarmix/HexWalk) - Hex Viewer/Editor/Analyzer compatible with Linux/Windows/MacOS
 - [mkjt2/lockbox](https://github.com/mkjt2/lockbox) - Lockbox is a forward proxy for making third party API calls.
 - [papermerge/papermerge-core](https://github.com/papermerge/papermerge-core) - In this repository is the source code of Papermerge DMS backend core, REST API server, and frontend UI
