@@ -52,6 +52,7 @@
 - [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -618,7 +619,7 @@
 - [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
 - [PerimeterX/ok-lets-go](https://github.com/PerimeterX/ok-lets-go) - Three Approaches to Structuring Go Code
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [TimothyYe/godns](https://github.com/TimothyYe/godns) - A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
+- [TimothyYe/godns](https://github.com/TimothyYe/godns) - A dynamic DNS client tool that supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
 - [skibish/ddns](https://github.com/skibish/ddns) - Personal DDNS client with Digital Ocean Networking DNS as backend.
 - [aptly-dev/aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
 - [catchplay/scaffold](https://github.com/catchplay/scaffold) - Generate scaffold project layout for Go.
@@ -1550,6 +1551,10 @@
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [ierror/ssh-permit-a38](https://github.com/ierror/ssh-permit-a38) - Central management and deployment for SSH keys
 - [onur/acme-client](https://github.com/onur/acme-client) - Yet another Let's Encrypt client and library written in Rust.
+
+## SCSS 
+
+- [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ## Shell 
 
