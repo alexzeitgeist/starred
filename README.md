@@ -1448,6 +1448,7 @@
 
 ## Rust 
 
+- [mrjackwills/havn](https://github.com/mrjackwills/havn) - A fast configurable port scanner with reasonable defaults
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
@@ -1479,7 +1480,7 @@
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-- [sigoden/argc](https://github.com/sigoden/argc) - Easily create and use cli that based on bashscript.
+- [sigoden/argc](https://github.com/sigoden/argc) - Bash CLI framework and generator.
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [cyphar/paperback](https://github.com/cyphar/paperback) - Paper backup generator suitable for long-term storage.
 - [Julien-R44/fast-ssh](https://github.com/Julien-R44/fast-ssh) - ⌨️ FastSSH is a TUI that allows you to quickly connect to your services by navigating through your SSH config.
