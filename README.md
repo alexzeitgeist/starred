@@ -1456,6 +1456,7 @@
 
 ## Rust 
 
+- [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [todoesverso/logss](https://github.com/todoesverso/logss) - A simple cli for logs splitting
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
