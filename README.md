@@ -83,6 +83,7 @@
 
 ## C 
 
+- [steward-fu/sdl2](https://github.com/steward-fu/sdl2) - SDL v2.0 Library with Virtual GPU Support for Miyoo Mini (Plus) and TRIMUI SMART
 - [devbis/z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware
 - [mrhpearson/ecreg-dump](https://github.com/mrhpearson/ecreg-dump) - Utility to simplify dumping EC registers
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
