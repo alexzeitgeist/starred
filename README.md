@@ -891,6 +891,7 @@
 
 ## Kotlin 
 
+- [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - Simple-ish app using Shizuku to install APKs on-device with advanced options
 - [Splitties/ComposeOClock](https://github.com/Splitties/ComposeOClock) - Draw Wear OS Watch Faces with Compose Canvas (& runtime)
 - [zaneschepke/wgtunnel](https://github.com/zaneschepke/wgtunnel) - An alternative Android client app for WireGuard VPN
 - [wttech/gradle-aem-plugin](https://github.com/wttech/gradle-aem-plugin) - Swiss army knife for Adobe Experience Manager related automation. Environment setup & incremental AEM application build which takes seconds, not minutes.
