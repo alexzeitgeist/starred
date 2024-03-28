@@ -328,6 +328,7 @@
 
 ## Go 
 
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
 - [Owloops/updo](https://github.com/Owloops/updo) - Uptime monitoring CLI tool with alerting and advanced settings
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
