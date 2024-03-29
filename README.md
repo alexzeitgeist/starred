@@ -779,6 +779,7 @@
 
 ## JavaScript 
 
+- [ray-lothian/UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - A User-Agent spoofer browser extension that is highly configurable
 - [EU-EDPS/website-evidence-collector](https://github.com/EU-EDPS/website-evidence-collector) - The tool Website Evidence Collector (WEC) automates the website evidence collection of storage and transfer of personal data. https://edps.europa.eu/press-publications/edps-inspection-software_en
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
