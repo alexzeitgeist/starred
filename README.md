@@ -943,6 +943,7 @@
 ## Markdown 
 
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+- [hetzneronline/community-content](https://github.com/hetzneronline/community-content) - Hetzner Online Community Project
 
 ## Nginx 
 
@@ -985,7 +986,6 @@
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [geerlingguy/pi-webcam](https://github.com/geerlingguy/pi-webcam) - Automation to configure a Raspberry Pi as a USB OTG webcam
 - [k4yt3x/sshd_config](https://github.com/k4yt3x/sshd_config) - K4YT3X's Hardened OpenSSH Server Configuration
-- [hetzneronline/community-content](https://github.com/hetzneronline/community-content) - Hetzner Online Community Project
 - [crazy-max/ghaction-dockerhub-mirror](https://github.com/crazy-max/ghaction-dockerhub-mirror) - GitHub Action to mirror a DockerHub repo to another registry
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGu
 - [TomasVotruba/awesome-php-migrations](https://github.com/TomasVotruba/awesome-php-migrations) - Awesome sources for PHP projects migrations - legacy, pattern refactoring, framework switches, temlates and configs...
@@ -1230,6 +1230,7 @@
 
 ## Python 
 
+- [Frninezy/NextDNS-Domain-Bulk-Loader](https://github.com/Frninezy/NextDNS-Domain-Bulk-Loader) - Add your own custom domain lists to NextDNS
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [albertan017/LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Reverse Engineering: Decompiling Binary Code with Large Language Models
@@ -1475,6 +1476,7 @@
 
 ## Rust 
 
+- [baskerville/plato](https://github.com/baskerville/plato) - Document reader
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [cortex/ripasso](https://github.com/cortex/ripasso) - A simple password manager written in Rust
