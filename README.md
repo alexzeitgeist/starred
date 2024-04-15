@@ -1230,6 +1230,7 @@
 
 ## Python 
 
+- [rhijjawi/NextDNS-API](https://github.com/rhijjawi/NextDNS-API) - I was getting increasingly frustrated with NextDNS's lack of API. I wanted to manage things on the fly. So, I did the most logical thing. I built a python library to control my NextDNS account. I deci
 - [Frninezy/NextDNS-Domain-Bulk-Loader](https://github.com/Frninezy/NextDNS-Domain-Bulk-Loader) - Add your own custom domain lists to NextDNS
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
@@ -1476,6 +1477,7 @@
 
 ## Rust 
 
+- [edera-dev/krata](https://github.com/edera-dev/krata) - krata is a single-host hypervisor service built for OCI-compliant containers.
 - [baskerville/plato](https://github.com/baskerville/plato) - Document reader
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
