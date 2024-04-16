@@ -83,6 +83,7 @@
 
 ## C 
 
+- [purplesyringa/docker-boot](https://github.com/purplesyringa/docker-boot) - Like `execve`, but for userspace
 - [strongtz/i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support
 - [steward-fu/sdl2](https://github.com/steward-fu/sdl2) - SDL v2.0 Library with Virtual GPU Support for Miyoo Mini (Plus) and TRIMUI SMART
 - [devbis/z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware
@@ -1207,6 +1208,7 @@
 
 ## PLpgSQL 
 
+- [supabase/index_advisor](https://github.com/supabase/index_advisor) - PostgreSQL Index Advisor
 - [wwenj/tripRecord](https://github.com/wwenj/tripRecord) - 咔咔出行——基于高德地图API，Vue+Express实现的移动端webapp，服务器受到攻击网站暂时下掉了
 
 ## Pascal 
@@ -1230,6 +1232,8 @@
 
 ## Python 
 
+- [music-assistant/server](https://github.com/music-assistant/server) - Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistan
+- [avantrec/soco-cli](https://github.com/avantrec/soco-cli) - Command Line Interface to Control Sonos Sound Systems
 - [rhijjawi/NextDNS-API](https://github.com/rhijjawi/NextDNS-API) - I was getting increasingly frustrated with NextDNS's lack of API. I wanted to manage things on the fly. So, I did the most logical thing. I built a python library to control my NextDNS account. I deci
 - [Frninezy/NextDNS-Domain-Bulk-Loader](https://github.com/Frninezy/NextDNS-Domain-Bulk-Loader) - Add your own custom domain lists to NextDNS
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
@@ -1897,6 +1901,7 @@
 
 ## Vue 
 
+- [sonos-web/sonos-web](https://github.com/sonos-web/sonos-web) - Sonos controller for your web browser
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
 ## YAML 
