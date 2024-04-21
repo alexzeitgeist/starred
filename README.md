@@ -966,6 +966,7 @@
 
 ## Others 
 
+- [kevin9985/notification-infrastructure-providers](https://github.com/kevin9985/notification-infrastructure-providers) - List of notification infrastructure providers for developers
 - [zhaodice/proxmox-ve-anti-detection](https://github.com/zhaodice/proxmox-ve-anti-detection) - A patch to hide PVE itself
 - [bol-van/bins](https://github.com/bol-van/bins) - precompiled static binaries for android
 - [cyberus-technology/virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) - KVM Backend for VirtualBox. With our current development model, we cannot easily accept pull requests here. If you'd like to contribute, feel free to reach out to us, we are happy to find a solution.
