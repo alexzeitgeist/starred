@@ -332,6 +332,7 @@
 
 ## Go 
 
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
 - [flipt-io/reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
@@ -666,7 +667,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [bpicode/fritzctl](https://github.com/bpicode/fritzctl) - A lightweight, easy to use console client for the AVM FRITZ!Box Home Automation.
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify secrets
 - [techjacker/repo-security-scanner](https://github.com/techjacker/repo-security-scanner) - CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
@@ -1234,6 +1235,7 @@
 
 ## Python 
 
+- [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams
 - [music-assistant/server](https://github.com/music-assistant/server) - Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistan
 - [avantrec/soco-cli](https://github.com/avantrec/soco-cli) - Command Line Interface to Control Sonos Sound Systems
 - [rhijjawi/NextDNS-API](https://github.com/rhijjawi/NextDNS-API) - I was getting increasingly frustrated with NextDNS's lack of API. I wanted to manage things on the fly. So, I did the most logical thing. I built a python library to control my NextDNS account. I deci
@@ -1809,7 +1811,6 @@
 
 ## Svelte 
 
-- [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams
 - [proofrock/pupcloud](https://github.com/proofrock/pupcloud) - [SUSPENDED] A portable web file manager and gallery
 - [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
 
