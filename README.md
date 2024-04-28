@@ -611,7 +611,7 @@
 - [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
 - [domodwyer/mailyak](https://github.com/domodwyer/mailyak) - An elegant MIME/SMTP email library with support for attachments
 - [anthonynsimon/bild](https://github.com/anthonynsimon/bild) - Image processing algorithms in pure Go
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
+- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [awnumar/memguard](https://github.com/awnumar/memguard) - Secure software enclave for storage of sensitive information in memory.
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [jessfraz/netscan](https://github.com/jessfraz/netscan) - Scan network ips and ports.
@@ -1491,6 +1491,7 @@
 
 ## Rust 
 
+- [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [WINSDK/bite](https://github.com/WINSDK/bite) - Disassembler focused on comprehensive rust support.
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
