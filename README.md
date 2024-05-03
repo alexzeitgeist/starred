@@ -103,7 +103,7 @@
 - [intel/ipu6-drivers](https://github.com/intel/ipu6-drivers) - 
 - [geekman/mdns-repeater](https://github.com/geekman/mdns-repeater) - mDNS repeater
 - [vitoplantamura/BugChecker](https://github.com/vitoplantamura/BugChecker) - SoftICE-like kernel debugger for Windows 11
-- [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring and tuning software designed for 64-bit processors.
+- [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq : CPU monitoring and tuning software designed for 64-bit processors.
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [irontec/sngrep](https://github.com/irontec/sngrep) - Ncurses SIP Messages flow viewer
@@ -189,6 +189,7 @@
 
 ## C# # 
 
+- [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Removes Ads From Various Places Around Windows 11
 - [revenz/FileFlows](https://github.com/revenz/FileFlows) - FileFlows is a file processing application that can execute actions against a file in a tree flow structure.
 - [volodymyrsmirnov/MalwareMultiScan](https://github.com/volodymyrsmirnov/MalwareMultiScan) - Self-hosted VirusTotal / MetaDefender wannabe with API, demo UI and Scanners running in Docker.
 - [jamesbrindle/YTMusicUploader](https://github.com/jamesbrindle/YTMusicUploader) - Automatically upload your music library and playlists to YouTube Music .Net Application. Upload songs to YouTube Music and bulk delete music and playlists from YouTube Music. C#.
@@ -1656,7 +1657,7 @@
 - [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) - An Alpine Linux 3.19.0 container for the iCloud Photos Downloader command line utility
 - [mattydebie/bitwarden-rofi](https://github.com/mattydebie/bitwarden-rofi) - Wrapper for Bitwarden https://github.com/bitwarden/cli and Rofi
 - [FiloSottile/passage](https://github.com/FiloSottile/passage) - A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
 - [Gictorbit/photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Photoshop CC v19  installer for Gnu/Linux
