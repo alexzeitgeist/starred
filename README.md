@@ -336,6 +336,7 @@
 
 ## Go 
 
+- [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
