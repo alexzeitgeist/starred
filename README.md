@@ -454,7 +454,6 @@
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
 - [v-byte-cpu/sx](https://github.com/v-byte-cpu/sx) - :vulcan_salute: Fast, modern, easy-to-use network scanner
 - [Snawoot/opera-proxy](https://github.com/Snawoot/opera-proxy) - Standalone client for proxies of Opera VPN
-- [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
 - [irevenko/octotui](https://github.com/irevenko/octotui) - 🐙🐱🖥️ GitHub stats in your terminal
 - [Elbandi/proxmox-spice-quickconnect](https://github.com/Elbandi/proxmox-spice-quickconnect) - Proxmox spice quickconnect
 - [adelolmo/hd-idle](https://github.com/adelolmo/hd-idle) - Hard Disk Idle Spin-Down Utility
@@ -734,6 +733,7 @@
 
 ## HTML 
 
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [daduckMSFT/WiFiProfileGenerator](https://github.com/daduckMSFT/WiFiProfileGenerator) - Client-side web-app that will generate Android, iOS and Windows profiles in their raw format
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
@@ -1511,7 +1511,7 @@
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [WINSDK/bite](https://github.com/WINSDK/bite) - Disassembler focused on comprehensive rust support.
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
-- [Chleba/netscanner](https://github.com/Chleba/netscanner) - TUI Network & WiFi scanner with traffic packet dump
+- [Chleba/netscanner](https://github.com/Chleba/netscanner) - Network scanner & diagnostic tool with modern TUI
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
 - [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
@@ -1570,6 +1570,7 @@
 - [jvns/dnspeep](https://github.com/jvns/dnspeep) - spy on the DNS queries your computer is making
 - [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [andrewchambers/bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups.
@@ -1858,7 +1859,6 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [remorses/docker-phobia](https://github.com/remorses/docker-phobia) - Analyze Docker images size
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
-- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [Ipmake/PerPlexed](https://github.com/Ipmake/PerPlexed) - PerPlexed is a complete redesign of Plex's UI using the plex media server's API.
 - [divriots/jampack](https://github.com/divriots/jampack) - Optimizes static websites for best user experience and best Core Web Vitals scores.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
