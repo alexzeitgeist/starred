@@ -241,7 +241,7 @@
 - [cseagle/sk3wldbg](https://github.com/cseagle/sk3wldbg) - Debugger plugin for IDA Pro backed by the Unicorn Engine
 - [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [google/safeside](https://github.com/google/safeside) - Understand and mitigate software-observable side-channels
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [google/robotstxt](https://github.com/google/robotstxt) - The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).
 - [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.
 - [google/mysql-ripple](https://github.com/google/mysql-ripple) - Ripple, a server that can serve as a middleman in MySQL replication
@@ -983,6 +983,7 @@
 
 ## Others 
 
+- [mcinglis/c-style](https://github.com/mcinglis/c-style) - My favorite C programming practices.
 - [Hoo-Cognito/Miyoo-Repo](https://github.com/Hoo-Cognito/Miyoo-Repo) - A fast clickity clicky Repository of all things Miyoo
 - [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you become good at system design.
 - [bpc-clone/bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) - 
