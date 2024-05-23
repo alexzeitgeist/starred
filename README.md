@@ -1333,7 +1333,7 @@
 - [coldfix/udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
 - [grayhatacademy/ghidra_scripts](https://github.com/grayhatacademy/ghidra_scripts) - Port of devttyS0's IDA plugins to the Ghidra plugin framework, new plugins as well.
 - [sbrunner/scan-to-paperless](https://github.com/sbrunner/scan-to-paperless) - 
-- [tasket/wyng-backup](https://github.com/tasket/wyng-backup) - Fast Time Machine-like backups for logical volumes & disk images
+- [tasket/wyng-backup](https://github.com/tasket/wyng-backup) - Fast backups for logical volumes & disk images
 - [geekhaidar/WD-Passport-Unlock-Linux](https://github.com/geekhaidar/WD-Passport-Unlock-Linux) - Steps to Unlock the WD Passport Hard Disk on Linux or Ubuntu Operating System that doesn't support the WD Unlocker
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 - [HACKER097/wisdom-tree](https://github.com/HACKER097/wisdom-tree) - Wisdom Tree is a TUI concentration app, with features like pomodoro timer, YouTube music player, Lo-fi radio.
@@ -1508,6 +1508,7 @@
 
 ## Rust 
 
+- [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
 - [donkeyteethUX/kcam](https://github.com/donkeyteethUX/kcam) - Linux webcam app
 - [linkdd/procfusion](https://github.com/linkdd/procfusion) - Very simple process manager written in Rust for your Docker images
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
@@ -1915,7 +1916,7 @@
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
