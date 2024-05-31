@@ -828,7 +828,6 @@
 - [mdubourg001/glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
 - [preactjs/wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
 - [hound-search/hound](https://github.com/hound-search/hound) - Lightning fast code searching made easy
-- [haiwen/seahub](https://github.com/haiwen/seahub) - The web end of seafile server.
 - [tomer8007/whatsapp-web-incognito](https://github.com/tomer8007/whatsapp-web-incognito) - A Chrome extension that disables read receipts and presence updates on WhatsApp Web
 - [th3r00t/pyShelf](https://github.com/th3r00t/pyShelf) - A simple terminal based ebook server
 - [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
@@ -1262,7 +1261,7 @@
 
 ## Python 
 
-- [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - Visual effects applied to text in the terminal.
+- [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine.
 - [yaroslavyaroslav/OpenAI-sublime-text](https://github.com/yaroslavyaroslav/OpenAI-sublime-text) - Sublime Text OpenAI completion plugin with GPT-4 support!
 - [soyersoyer/cameractrls](https://github.com/soyersoyer/cameractrls) - Camera controls for Linux
 - [schmurtzm/MiyooMini_Tools](https://github.com/schmurtzm/MiyooMini_Tools) - A collection of tools for Miyoo Mini tinkerers !
@@ -1370,6 +1369,7 @@
 - [standardebooks/tools](https://github.com/standardebooks/tools) - The Standard Ebooks toolset for producing our ebook files.
 - [quay/quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
 - [robballou/sublimetext-sshconfig](https://github.com/robballou/sublimetext-sshconfig) - SSH Config language and completions
+- [haiwen/seahub](https://github.com/haiwen/seahub) - The web end of seafile server.
 - [varunsridharan/github-gitea-mirror](https://github.com/varunsridharan/github-gitea-mirror) - Simple Python Script To Mirror Repository From Github To Gitea
 - [blackjack4494/yt-dlc](https://github.com/blackjack4494/yt-dlc) - media downloader and library for various sites.
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
@@ -1532,7 +1532,7 @@
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
 - [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-- [edera-dev/krata](https://github.com/edera-dev/krata) - krata is a prototype of a single-host hypervisor service built for OCI-compliant containers.
+- [edera-dev/krata](https://github.com/edera-dev/krata) - krata is an isolation engine built for securing workloads
 - [baskerville/plato](https://github.com/baskerville/plato) - Document reader
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
