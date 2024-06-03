@@ -88,7 +88,7 @@
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
 - [purplesyringa/docker-boot](https://github.com/purplesyringa/docker-boot) - Like `execve`, but for userspace
 - [strongtz/i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support
-- [steward-fu/sdl2](https://github.com/steward-fu/sdl2) - SDL v2.0 Library with Virtual GPU Support for Miyoo Mini (Plus) and TRIMUI SMART
+- [steward-fu/sdl2](https://github.com/steward-fu/sdl2) - SDL2 with Virtual GPU Support for Miyoo Mini (Plus), TRIMUI SMART and F(x)tec QX1000
 - [devbis/z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware
 - [mrhpearson/ecreg-dump](https://github.com/mrhpearson/ecreg-dump) - Utility to simplify dumping EC registers
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -337,6 +337,7 @@
 
 ## Go 
 
+- [AccentDesign/gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily
 - [ipv6rslimited/delorean](https://github.com/ipv6rslimited/delorean) - A reverse IPv4 to IPv6 TLS SNI and HTTP proxy written in GoLang
