@@ -337,6 +337,7 @@
 
 ## Go 
 
+- [piqoni/hn-text](https://github.com/piqoni/hn-text) - A text-first HN client.
 - [AccentDesign/gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) - Grab your files periodically from a remote FTP or SFTP server easily
@@ -1865,7 +1866,7 @@
 
 ## Tcl 
 
-- [Azathothas/Static-Binaries](https://github.com/Azathothas/Static-Binaries) - Cross Compiled Statically Linked Binaries for Android Linux macOS Windows & More
+- [Azathothas/Static-Binaries](https://github.com/Azathothas/Static-Binaries) - Moved to https://github.com/Azathothas/Toolpacks
 
 ## Twig 
 
