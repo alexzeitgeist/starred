@@ -337,6 +337,7 @@
 
 ## Go 
 
+- [NextChapterSoftware/chissl](https://github.com/NextChapterSoftware/chissl) - A tool to create HTTPS reverse tunnels
 - [EwenQuim/entropy](https://github.com/EwenQuim/entropy) - Entropy is a CLI tool that will scan your codebase for high entropy lines, which are often secrets.
 - [piqoni/hn-text](https://github.com/piqoni/hn-text) - A text-first HN client.
 - [AccentDesign/gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go
