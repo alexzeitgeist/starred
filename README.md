@@ -225,7 +225,7 @@
 - [solemnwarning/rehex](https://github.com/solemnwarning/rehex) - Reverse Engineers' Hex Editor
 - [VKCOM/kphp](https://github.com/VKCOM/kphp) - KPHP — a PHP compiler
 - [google/bloaty](https://github.com/google/bloaty) - Bloaty: a size profiler for binaries
-- [keur/prettyeq](https://github.com/keur/prettyeq) - prettyeq is a system-wide paramateric equalizer for pulseaudio
+- [kkuehlz/prettyeq](https://github.com/kkuehlz/prettyeq) - prettyeq is a system-wide paramateric equalizer for pulseaudio
 - [MantechUser/aes-finder](https://github.com/MantechUser/aes-finder) - Utility to find AES keys in running processes
 - [mhogomchungu/sirikali](https://github.com/mhogomchungu/sirikali) - A Qt/C++ GUI front end to sshfs, ecryptfs-simple, cryfs, gocryptfs, securefs, fscrypt and encfs
 - [duncanthrax/scream](https://github.com/duncanthrax/scream) - Virtual network sound card for Microsoft Windows
@@ -257,7 +257,6 @@
 
 ## CSS 
 
-- [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui) - Clean, modern and beautiful Tailwind CSS components.
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
@@ -745,6 +744,7 @@
 
 ## HTML 
 
+- [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [daduckMSFT/WiFiProfileGenerator](https://github.com/daduckMSFT/WiFiProfileGenerator) - Client-side web-app that will generate Android, iOS and Windows profiles in their raw format
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
@@ -1060,7 +1060,7 @@
 - [f500/ansible-project_deploy](https://github.com/f500/ansible-project_deploy) - 
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [agis/git-style-guide](https://github.com/agis/git-style-guide) - A Git Style Guide
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - move to https://spacevim.org/git/repos/SpaceVim/
 - [ansible/ansible-lockdown](https://github.com/ansible/ansible-lockdown) - Archived, new content in https://github.com/ansible-lockdown
 - [robertdebock/ansible-role-update](https://github.com/robertdebock/ansible-role-update) - Install updates on your system.
 - [Pungyeon/clean-go-article](https://github.com/Pungyeon/clean-go-article) - A reference for the Go community that covers the fundamentals of writing clean code and discusses concrete refactoring examples specific to Go.
