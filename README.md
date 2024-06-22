@@ -1543,7 +1543,7 @@
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
 - [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-- [edera-dev/krata](https://github.com/edera-dev/krata) - krata is an isolation engine built for securing computing workloads
+- [edera-dev/krata](https://github.com/edera-dev/krata) - krata is an isolation engine for securing compute workloads
 - [baskerville/plato](https://github.com/baskerville/plato) - Document reader
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
