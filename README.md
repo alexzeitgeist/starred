@@ -809,7 +809,7 @@
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [charles2gan/GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool) - the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leakin
 - [ViRb3/TrustMeAlready](https://github.com/ViRb3/TrustMeAlready) - 🔓 Disable SSL verification and pinning on Android, system-wide
-- [google/data-transfer-project](https://github.com/google/data-transfer-project) - The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direc
+- [google-admin/data-transfer-project](https://github.com/google-admin/data-transfer-project) - The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direc
 - [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 
 ## JavaScript 
@@ -1060,7 +1060,6 @@
 - [f500/ansible-project_deploy](https://github.com/f500/ansible-project_deploy) - 
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [agis/git-style-guide](https://github.com/agis/git-style-guide) - A Git Style Guide
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [ansible/ansible-lockdown](https://github.com/ansible/ansible-lockdown) - Archived, new content in https://github.com/ansible-lockdown
 - [robertdebock/ansible-role-update](https://github.com/robertdebock/ansible-role-update) - Install updates on your system.
 - [Pungyeon/clean-go-article](https://github.com/Pungyeon/clean-go-article) - A reference for the Go community that covers the fundamentals of writing clean code and discusses concrete refactoring examples specific to Go.
@@ -1964,6 +1963,7 @@
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - A plugin for profiling Vim and Neovim startup time.
 - [lunacookies/vim-colors-xcode](https://github.com/lunacookies/vim-colors-xcode) - Xcode 11’s dark and light colourschemes for Vim
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 
 ## Vue 
 
