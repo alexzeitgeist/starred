@@ -339,6 +339,8 @@
 
 ## Go 
 
+- [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) - CLI to perform various actions on CIDR ranges
+- [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 - [zdarovich/hetzner-freezer](https://github.com/zdarovich/hetzner-freezer) - 
 - [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop) - A top-like tool for your Kubernetes clusters
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
@@ -1277,6 +1279,7 @@
 
 ## Python 
 
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [p0dalirius/smbclient-ng](https://github.com/p0dalirius/smbclient-ng) - smbclient-ng, a fast and user friendly way to interact with SMB shares.
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
