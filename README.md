@@ -488,7 +488,7 @@
 - [stgarf/paperless-cli](https://github.com/stgarf/paperless-cli) - A golang command line binary to interact with a Paperless instance
 - [fabpot/local-php-security-checker](https://github.com/fabpot/local-php-security-checker) - PHP security vulnerabilities checker
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
+- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [mvdan/corpus](https://github.com/mvdan/corpus) - A corpus of popular Go modules
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
@@ -1598,7 +1598,7 @@
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
 - [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
+- [Eugeny/warpgate](https://github.com/Eugeny/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
