@@ -1314,7 +1314,7 @@
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate, Groq (100+ LLMs)
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) - 
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
@@ -1708,7 +1708,7 @@
 - [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [Mint-System/Ansible-Build](https://github.com/Mint-System/Ansible-Build) - The Mint System collection of Ansible playbooks and roles.
-- [bokysan/docker-postfix](https://github.com/bokysan/docker-postfix) - Simple SMTP server / postfix null relay host for your Docker and Kubernetes containers. Based on Alpine Linux.
+- [bokysan/docker-postfix](https://github.com/bokysan/docker-postfix) - Multi architecture simple SMTP server (postfix null relay) host for your Docker and Kubernetes containers. Based on Debian/Ubuntu/Alpine.
 - [yesolutions/mirror-action](https://github.com/yesolutions/mirror-action) - A GitHub Action for mirroring your repository to a different remote repository
 - [juanluisbaptiste/docker-postfix](https://github.com/juanluisbaptiste/docker-postfix) - Simple SMTP relay docker image.
 - [actions-x/commit](https://github.com/actions-x/commit) - 
