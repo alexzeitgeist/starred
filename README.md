@@ -1687,6 +1687,7 @@
 
 ## Shell 
 
+- [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [Jamesits/nginx-config-boilerplate](https://github.com/Jamesits/nginx-config-boilerplate) - Modular Nginx config for modern, secure sites in 2023.
 - [cyyself/wg-bench](https://github.com/cyyself/wg-bench) - WireGuard Benchmark using netns and iperf3
 - [ryanwoodsmall/static-binaries](https://github.com/ryanwoodsmall/static-binaries) - some static binaries for linux, maybe useful for bootstrapping, no big deal
