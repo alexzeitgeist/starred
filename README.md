@@ -308,6 +308,7 @@
 - [librenms/docker](https://github.com/librenms/docker) - LibreNMS Docker image
 - [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) - 
 - [hexops-graveyard/dockerfile](https://github.com/hexops-graveyard/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
+- [wemake-services/caddy-gen](https://github.com/wemake-services/caddy-gen) - Automated Caddy reverse proxy for docker containers
 - [lightswitch05/wireguard-docker](https://github.com/lightswitch05/wireguard-docker) - A simple docker wireguard client
 - [sander1/docker-xtables](https://github.com/sander1/docker-xtables) - Docker image with xtables addons used to build GeoIP tables
 - [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification
@@ -1113,7 +1114,7 @@
 
 ## PHP 
 
-- [maelgangloff/domain-watchdog](https://github.com/maelgangloff/domain-watchdog) - An app that utilizes RDAP to gather publicly accessible information about domain names, track their history, and automatically purchase them
+- [maelgangloff/domain-watchdog](https://github.com/maelgangloff/domain-watchdog) - An app that uses RDAP to collect publicly available information about domain names, track their history, and automatically purchase them
 - [corcel/corcel](https://github.com/corcel/corcel) - Use WordPress backend with Laravel or any PHP application
 - [laravel/reverb](https://github.com/laravel/reverb) - Laravel Reverb provides a real-time WebSocket communication backend for Laravel applications.
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - The PHP framework that gets out of your way 🌊
@@ -1773,7 +1774,6 @@
 - [burghardt/easy-wg-quick](https://github.com/burghardt/easy-wg-quick) - Creates Wireguard configuration for hub and peers with ease
 - [aind-containers/aind](https://github.com/aind-containers/aind) - AinD: Android in Docker. Ain't an emulator.
 - [ckardaris/ucollage](https://github.com/ckardaris/ucollage) - An extensible command line image viewer inspired by vim
-- [wemake-services/caddy-gen](https://github.com/wemake-services/caddy-gen) - Automated Caddy reverse proxy for docker containers
 - [felixSchl/git-fiddle](https://github.com/felixSchl/git-fiddle) - Edit commit messages, authors, and timestamps during git-rebase
 - [mbucc/shmig](https://github.com/mbucc/shmig) - Database migration tool written in BASH.
 - [internetwache/GitTools](https://github.com/internetwache/GitTools) - A repository with 3 tools for pwn'ing websites with .git repositories available
