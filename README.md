@@ -343,6 +343,7 @@
 
 ## Go 
 
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [runZeroInc/sshamble](https://github.com/runZeroInc/sshamble) - SSHamble: Unexpected Exposures in SSH
 - [jhillyerd/enmime](https://github.com/jhillyerd/enmime) - MIME mail encoding and decoding package for Go
 - [dhth/act3](https://github.com/dhth/act3) - Glance at the last 3 runs of your Github Actions
@@ -1295,6 +1296,7 @@
 
 ## Python 
 
+- [Aran404/SpotAPI](https://github.com/Aran404/SpotAPI) - A python wrapper for the public & private Spotify API
 - [royreznik/rexi](https://github.com/royreznik/rexi) - Terminal UI for Regex Testing
 - [sp34rh34d/Smasher](https://github.com/sp34rh34d/Smasher) - Forensic tool to analyze eml files
 - [keystone-engine/keypatch](https://github.com/keystone-engine/keypatch) - Multi-architecture assembler for IDA Pro. Powered by Keystone Engine.
