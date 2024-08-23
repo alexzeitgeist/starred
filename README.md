@@ -64,7 +64,6 @@
 - [Vue](#vue)
 - [YAML](#yaml)
 - [Zig](#zig)
-- [templ](#templ)
 
 ## Assembly 
 
@@ -347,6 +346,7 @@
 - [runZeroInc/sshamble](https://github.com/runZeroInc/sshamble) - SSHamble: Unexpected Exposures in SSH
 - [jhillyerd/enmime](https://github.com/jhillyerd/enmime) - MIME mail encoding and decoding package for Go
 - [dhth/act3](https://github.com/dhth/act3) - Glance at the last 3 runs of your Github Actions
+- [valyentdev/ferdinand](https://github.com/valyentdev/ferdinand) - Open-source email delivery service for developers.
 - [AkashRajpurohit/git-sync](https://github.com/AkashRajpurohit/git-sync) - 🔄 A tool to backup and sync your git repositories
 - [miekg/gitopper](https://github.com/miekg/gitopper) - Gitops for non-Kubernetes folks
 - [facundoolano/ngtop](https://github.com/facundoolano/ngtop) - Request analytics from the nginx access logs
@@ -2029,10 +2029,6 @@
 ## Zig 
 
 - [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
-
-## templ 
-
-- [valyentdev/ferdinand](https://github.com/valyentdev/ferdinand) - Open-source email delivery service for developers.
 
 
 ## License
