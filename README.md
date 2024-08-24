@@ -342,6 +342,7 @@
 
 ## Go 
 
+- [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [runZeroInc/sshamble](https://github.com/runZeroInc/sshamble) - SSHamble: Unexpected Exposures in SSH
 - [jhillyerd/enmime](https://github.com/jhillyerd/enmime) - MIME mail encoding and decoding package for Go
@@ -810,6 +811,8 @@
 
 ## Java 
 
+- [vaccovecrana/frag-falcon](https://github.com/vaccovecrana/frag-falcon) - Firecracker VM management
+- [w3c/epubcheck](https://github.com/w3c/epubcheck) - The conformance checker for EPUB publications
 - [mendhak/gpslogger](https://github.com/mendhak/gpslogger) - :satellite: Lightweight GPS Logging Application For Android.
 - [apk-editor/APK-Explorer-Editor](https://github.com/apk-editor/APK-Explorer-Editor) - Source code of APK Explorer & Editor (AEE),  an open-source tool to explore the contents of an installed APK!
 - [neva-dev/felix-search-webconsole-plugin](https://github.com/neva-dev/felix-search-webconsole-plugin) - Search Web Console Plugin for Apache Felix
@@ -1296,6 +1299,7 @@
 
 ## Python 
 
+- [ptrsr/pi-ci](https://github.com/ptrsr/pi-ci) - Prepare Raspberry Pi 3, 4 & 5 configurations using a virtual machine.
 - [Aran404/SpotAPI](https://github.com/Aran404/SpotAPI) - A python wrapper for the public & private Spotify API
 - [royreznik/rexi](https://github.com/royreznik/rexi) - Terminal UI for Regex Testing
 - [sp34rh34d/Smasher](https://github.com/sp34rh34d/Smasher) - Forensic tool to analyze eml files
