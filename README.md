@@ -899,7 +899,7 @@
 - [luisfarzati/chromda](https://github.com/luisfarzati/chromda) - λ 🖼️ Chromda is an AWS Lambda function for capturing screenshots of websites.
 - [risk3sixty/geoapi](https://github.com/risk3sixty/geoapi) - Lightweight API service to get geolocation data from IP addresses.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 Browse the web from a web page. Remote browser isolation. For security, privacy and more! By https://github.com/dosyago
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 Browse the web from a web page. Remote browser isolation. For security, privacy and more! By https://dosyago.com
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
 - [localtunnel/server](https://github.com/localtunnel/server) - server for localtunnel.me
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories.
@@ -1563,6 +1563,8 @@
 
 ## Rust 
 
+- [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
+- [ReagentX/Logria](https://github.com/ReagentX/Logria) - A powerful CLI tool that puts log aggregation at your fingertips.
 - [drdo/redu](https://github.com/drdo/redu) - ncdu for your restic repository
 - [tuna-f1sh/cyme](https://github.com/tuna-f1sh/cyme) - List system USB buses and devices; a lib and modern cross-platform lsusb that attempts to maintain compatibility with, but also add new features
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
@@ -1715,6 +1717,7 @@
 
 ## Shell 
 
+- [Danilop95/Proxmox-Enhanced-Configuration-Utility](https://github.com/Danilop95/Proxmox-Enhanced-Configuration-Utility) - Proxmox Scripts: Repos Update and GPU Passthrough
 - [mailserver2/mailserver](https://github.com/mailserver2/mailserver) - Simple and full-featured mail server using Docker
 - [micahkepe/vimtutor-sequel](https://github.com/micahkepe/vimtutor-sequel) - Vimtutor Sequel - Advanced Vim Tutor Lessons
 - [andrew-d/static-binaries](https://github.com/andrew-d/static-binaries) - Various *nix tools built as statically-linked binaries
