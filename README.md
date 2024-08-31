@@ -1564,6 +1564,7 @@
 
 ## Rust 
 
+- [dspearson/librespot-auth](https://github.com/dspearson/librespot-auth) - 
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
 - [ReagentX/Logria](https://github.com/ReagentX/Logria) - A powerful CLI tool that puts log aggregation at your fingertips.
 - [drdo/redu](https://github.com/drdo/redu) - ncdu for your restic repository
