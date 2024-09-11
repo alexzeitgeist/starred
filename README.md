@@ -344,6 +344,8 @@
 
 ## Go 
 
+- [blacknon/lssh](https://github.com/blacknon/lssh) - lssh: A list-based SSH/SCP/SFTP client supporting single and parallel connections, local bashrc usage on remote machines, and advanced proxying. Written in Go.
+- [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
@@ -779,7 +781,6 @@
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
-- [alivx/CIS-Ubuntu-20.04-Ansible](https://github.com/alivx/CIS-Ubuntu-20.04-Ansible) - Ansible Role to Automate CIS v1.1.0 Ubuntu Linux 18.04 LTS, 20.04 LTS Remediation
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [russellsamora/scrollama](https://github.com/russellsamora/scrollama) - Scrollytelling with IntersectionObserver.
@@ -1571,6 +1572,8 @@
 
 ## Rust 
 
+- [reemus-dev/gitnr](https://github.com/reemus-dev/gitnr) - Create `.gitignore` files using one or more templates from TopTal, GitHub or your own collection
+- [mbecker20/komodo](https://github.com/mbecker20/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [Etto48/HexPatch](https://github.com/Etto48/HexPatch) - HexPatch: a binary patcher and editor written in Rust with terminal user interface (TUI).
 - [fioncat/otree](https://github.com/fioncat/otree) - A command line tool to view objects (JSON/YAML/TOML) in TUI tree widget.
 - [dspearson/librespot-auth](https://github.com/dspearson/librespot-auth) - 
@@ -1650,7 +1653,6 @@
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [cyphar/paperback](https://github.com/cyphar/paperback) - Paper backup generator suitable for long-term storage.
 - [Julien-R44/fast-ssh](https://github.com/Julien-R44/fast-ssh) - ⌨️ FastSSH is a TUI that allows you to quickly connect to your services by navigating through your SSH config.
-- [oSumAtrIX/DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot) - 🎧 A Spotify music and playlist downloader working with free Spotify accounts written in Rust
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -1728,6 +1730,8 @@
 
 ## Shell 
 
+- [Wowu/docker-rollout](https://github.com/Wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose
+- [Mexit/MultiOS-USB](https://github.com/Mexit/MultiOS-USB) - Boot operating systems directly from ISO files
 - [Danilop95/Proxmox-Enhanced-Configuration-Utility](https://github.com/Danilop95/Proxmox-Enhanced-Configuration-Utility) - Is a comprehensive and versatile Bash script designed to simplify and optimize the configuration and management of Proxmox Virtual Environment (VE) systems.
 - [mailserver2/mailserver](https://github.com/mailserver2/mailserver) - Simple and full-featured mail server using Docker
 - [micahkepe/vimtutor-sequel](https://github.com/micahkepe/vimtutor-sequel) - Vimtutor Sequel - Advanced Vim Tutor Lessons
@@ -2011,7 +2015,7 @@
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. BSL licensed.
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [matrix-org/matrix-appservice-irc](https://github.com/matrix-org/matrix-appservice-irc) - Node.js IRC bridge for Matrix
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
