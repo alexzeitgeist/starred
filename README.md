@@ -301,7 +301,8 @@
 
 ## Dockerfile 
 
-- [jauderho/dockerfiles](https://github.com/jauderho/dockerfiles) - Dockerfiles for various things
+- [OWASP/API-Security](https://github.com/OWASP/API-Security) - OWASP API Security Project
+- [jauderho/dockerfiles](https://github.com/jauderho/dockerfiles) - Dockerfiles of things
 - [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple.
 - [Wonderfall/docker-nextcloud](https://github.com/Wonderfall/docker-nextcloud) - All-in-one Nextcloud Docker image, based on Alpine Linux. Aims at being simple and hardened.
 - [exaco/laravel-octane-dockerfile](https://github.com/exaco/laravel-octane-dockerfile) - Production-ready Dockerfile for Laravel Octane (FrankenPHP, Swoole, RoadRunner) powered web services and microservices. Done right.
@@ -344,6 +345,7 @@
 
 ## Go 
 
+- [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
 - [blacknon/lssh](https://github.com/blacknon/lssh) - lssh: A list-based SSH/SCP/SFTP client supporting single and parallel connections, local bashrc usage on remote machines, and advanced proxying. Written in Go.
 - [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
@@ -1951,7 +1953,7 @@
 
 ## TypeScript 
 
-- [yaakapp/app](https://github.com/yaakapp/app) - The most intuitive desktop API client
+- [yaakapp/app](https://github.com/yaakapp/app) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
 - [seadfeng/redirect-checker](https://github.com/seadfeng/redirect-checker) - 
 - [TimWitzdam/GitSave](https://github.com/TimWitzdam/GitSave) - GitSave is a self-hosted and open-source application that backs up your Git repositories.
 - [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
