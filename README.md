@@ -345,6 +345,7 @@
 
 ## Go 
 
+- [noperator/sol](https://github.com/noperator/sol) - A de-minifier (formatter, exploder, beautifier) for shell one-liners
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
 - [blacknon/lssh](https://github.com/blacknon/lssh) - lssh: A list-based SSH/SCP/SFTP client supporting single and parallel connections, local bashrc usage on remote machines, and advanced proxying. Written in Go.
@@ -853,6 +854,7 @@
 
 ## JavaScript 
 
+- [rodyherrera/Quantum](https://github.com/rodyherrera/Quantum) - 🚀 Hackable & Self-hosted Open-Source alternative to Vercel, Heroku, Netlify, etc. All your applications, just in one place. Develop and deploy with your favorite tools, and enjoy continuous deployment
 - [sapics/ip-location-db](https://github.com/sapics/ip-location-db) - ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2
 - [Explosion-Scratch/apple-intelligence-prompts](https://github.com/Explosion-Scratch/apple-intelligence-prompts) - System prompts from Apple's new Apple Intelligence on MacOS Sequoia
 - [remorses/docker-phobia](https://github.com/remorses/docker-phobia) - Analyze Docker images size
@@ -1094,7 +1096,6 @@
 - [0xdidu/Reverse-Engineering-Intel-x64-101](https://github.com/0xdidu/Reverse-Engineering-Intel-x64-101) - Material for a RE 101 class on Intel x64 binaries
 - [alphaSeclab/awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos)
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [xrkk/awesome-ida](https://github.com/xrkk/awesome-ida) - moved to: https://github.com/alphaSeclab/awesome-reverse-engineering
 - [RedHatOfficial/ansible-role-rhel7-stig](https://github.com/RedHatOfficial/ansible-role-rhel7-stig) - DISA STIG for Red Hat Enterprise Linux 7 - Ansible role generated from ComplianceAsCode Project
 - [getify/Incomplete-JS](https://github.com/getify/Incomplete-JS) - "The Incomplete Guide to JavaScript" (book). @IncompleteJS on twitter.
 - [psibi/rust-book-summary](https://github.com/psibi/rust-book-summary) - Summary of the Rust book
@@ -1575,6 +1576,11 @@
 
 ## Rust 
 
+- [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that translates JSON or logfmt logs into a pretty human-readable format.
+- [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
+- [jacek-kurlit/pik](https://github.com/jacek-kurlit/pik) - Process Interactive Kill
+- [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
+- [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [reemus-dev/gitnr](https://github.com/reemus-dev/gitnr) - Create `.gitignore` files using one or more templates from TopTal, GitHub or your own collection
 - [mbecker20/komodo](https://github.com/mbecker20/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
