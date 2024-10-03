@@ -367,7 +367,7 @@
 - [AkashRajpurohit/git-sync](https://github.com/AkashRajpurohit/git-sync) - 🔄 A simple tool to backup and sync your git repositories
 - [miekg/gitopper](https://github.com/miekg/gitopper) - Gitops for non-Kubernetes folks
 - [facundoolano/ngtop](https://github.com/facundoolano/ngtop) - Request analytics from the nginx access logs
-- [henrygd/beszel](https://github.com/henrygd/beszel) - A lightweight server monitoring hub with historical data, docker stats, and alerts.
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) - HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) - Simplifies IPv4/IPv6 CIDR network prefix management with counting, overlap checking, explanation, and subdivision.
@@ -1454,7 +1454,7 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [CERT-Polska/hfinger](https://github.com/CERT-Polska/hfinger) - Hfinger - fingerprinting HTTP requests
 - [blackjack4494/youtube-dlc](https://github.com/blackjack4494/youtube-dlc) - Command-line program to download various media from YouTube.com and other sites
-- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:
+- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide :snake: :snake: :snake:
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [axcore/tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
