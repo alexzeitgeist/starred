@@ -91,7 +91,7 @@
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [purplesyringa/docker-boot](https://github.com/purplesyringa/docker-boot) - Like `execve`, but for userspace
 - [strongtz/i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support
-- [steward-fu/sdl2](https://github.com/steward-fu/sdl2) - SDL2 with Virtual GPU Support for Miyoo Mini (Plus), TRIMUI SMART and F(x)tec QX1000
+- [steward-fu/sdl2](https://github.com/steward-fu/sdl2) - SDL v2.0 with Virtual GPU Support for Miyoo Mini (Plus), TRIMUI SMART and F(x)tec QX1000
 - [devbis/z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware
 - [mrhpearson/ecreg-dump](https://github.com/mrhpearson/ecreg-dump) - Utility to simplify dumping EC registers
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
