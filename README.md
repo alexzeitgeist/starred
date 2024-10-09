@@ -302,6 +302,7 @@
 
 ## Dockerfile 
 
+- [onedr0p/containers](https://github.com/onedr0p/containers) - My collection of container images
 - [OWASP/API-Security](https://github.com/OWASP/API-Security) - OWASP API Security Project
 - [jauderho/dockerfiles](https://github.com/jauderho/dockerfiles) - Dockerfiles of things
 - [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple.
@@ -1759,6 +1760,7 @@
 
 ## Shell 
 
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [ading2210/shimboot](https://github.com/ading2210/shimboot) - Boot a desktop Linux distribution from a Chrome OS RMA shim.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [wowu/docker-rollout](https://github.com/wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose
