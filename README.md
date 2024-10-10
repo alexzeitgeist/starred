@@ -1984,7 +1984,7 @@
 ## TypeScript 
 
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces
-- [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
+- [clinebot/cline](https://github.com/clinebot/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 - [pulkitsharma07/OnlyHumans-Proxy](https://github.com/pulkitsharma07/OnlyHumans-Proxy) - An experimental AntiBot, AntiCrawl reverse proxy for serving simple static content.
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
