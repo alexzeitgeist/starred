@@ -20,6 +20,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
+- [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
 - [FreeMarker](#freemarker)
 - [Go](#go)
@@ -336,6 +337,10 @@
 
 - [pentacent/keila](https://github.com/pentacent/keila) - Open Source Newsletter Tool.
 - [Nebo15/annon.api](https://github.com/Nebo15/annon.api) - Configurable API gateway that acts as a reverse proxy with a plugin system.
+
+## Elm 
+
+- [frectonz/octopod](https://github.com/frectonz/octopod) - A UI for Docker Registries
 
 ## Emacs Lisp 
 
@@ -1331,6 +1336,7 @@
 
 ## Python 
 
+- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [querylab/lazywarden](https://github.com/querylab/lazywarden) - Automatic Bitwarden Backup
 - [paulrobello/par_scrape](https://github.com/paulrobello/par_scrape) - 
 - [ptrsr/pi-ci](https://github.com/ptrsr/pi-ci) - Prepare Raspberry Pi 3, 4 & 5 configurations using a virtual machine.
