@@ -207,6 +207,7 @@
 
 ## C++ 
 
+- [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen) - Mirror a portion of your screen to a virtual monitor for easier screen sharing.
 - [kimci86/bkcrack](https://github.com/kimci86/bkcrack) - Crack legacy zip encryption with Biham and Kocher's known plaintext attack.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
@@ -352,6 +353,7 @@
 
 ## Go 
 
+- [xhd2015/xgo](https://github.com/xhd2015/xgo) - All-in-one go testing library
 - [andrearaponi/dito](https://github.com/andrearaponi/dito) - an advanced Layer 7 reverse proxy server written in Go
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
