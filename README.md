@@ -1101,7 +1101,7 @@
 - [mcinglis/c-style](https://github.com/mcinglis/c-style) - My favorite C programming practices.
 - [Hoo-Cognito/Miyoo-Repo](https://github.com/Hoo-Cognito/Miyoo-Repo) - A fast clickity clicky Repository of all things Miyoo
 - [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you pass system design interview and become good at work 👇
-- [bpc-clone/bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) - 
+- [bpc-clone/bpc_chrome_support](https://github.com/bpc-clone/bpc_chrome_support) - 
 - [kevin9985/notification-infrastructure-providers](https://github.com/kevin9985/notification-infrastructure-providers) - List of notification infrastructure providers for developers
 - [zhaodice/proxmox-ve-anti-detection](https://github.com/zhaodice/proxmox-ve-anti-detection) - A patch to hide PVE itself
 - [bol-van/bins](https://github.com/bol-van/bins) - precompiled static binaries for android
@@ -1189,6 +1189,7 @@
 
 ## PHP 
 
+- [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions
 - [imliam/cpx](https://github.com/imliam/cpx) - Run any command from any composer package, even if it's not installed in your project.
 - [hampel/xenforo-test-framework](https://github.com/hampel/xenforo-test-framework) - 
@@ -1652,6 +1653,7 @@
 
 ## Rust 
 
+- [cdown/tzupdate](https://github.com/cdown/tzupdate) - Set the system timezone based on IP geolocation.
 - [ifd3f/caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
 - [sectordistrict/intentrace](https://github.com/sectordistrict/intentrace) - intentrace is strace with intent, it goes all the way for you instead of half the way. intentrace is currently in beta
@@ -1832,6 +1834,7 @@
 
 ## Shell 
 
+- [WhatsApp/proxy](https://github.com/WhatsApp/proxy) - This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP is not currently supported)
 - [un1t/appimage-desktop-entry](https://github.com/un1t/appimage-desktop-entry) - 
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [sarat1kyan/suDROID](https://github.com/sarat1kyan/suDROID) - This script provides a convenient and automated way to patch the boot image of an Android device, saving the user time and effort compared to manually patching the image.
