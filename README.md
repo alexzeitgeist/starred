@@ -358,6 +358,7 @@
 
 ## Go 
 
+- [acidvegas/elastop](https://github.com/acidvegas/elastop) - HTOP for Elasticsearch
 - [tailscale/setec](https://github.com/tailscale/setec) - A secrets management service that uses Tailscale for access control
 - [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
 - [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend
@@ -556,7 +557,7 @@
 - [stgarf/paperless-cli](https://github.com/stgarf/paperless-cli) - A golang command line binary to interact with a Paperless instance
 - [fabpot/local-php-security-checker](https://github.com/fabpot/local-php-security-checker) - PHP security vulnerabilities checker
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
+- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [mvdan/corpus](https://github.com/mvdan/corpus) - A corpus of popular Go modules
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
@@ -1024,7 +1025,7 @@
 
 ## Kotlin 
 
-- [Rics-Dev/uRead](https://github.com/Rics-Dev/uRead) - 
+- [Rics-Dev/uRead](https://github.com/Rics-Dev/uRead) - eBook and audiobook reader for Android
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
 - [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to control android system via shizuku.
 - [MarioNoll/WG-Auto-Connect](https://github.com/MarioNoll/WG-Auto-Connect) - Auto connect to a WireGuard tunnel
@@ -1094,6 +1095,8 @@
 
 ## Others 
 
+- [ansilove/BlockZone](https://github.com/ansilove/BlockZone) - A faithful recreation of the original DOS font.
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [t18d/nG-SetEnvIf](https://github.com/t18d/nG-SetEnvIf) - Fast nG Firewall fork for nginx and Apache httpd
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
