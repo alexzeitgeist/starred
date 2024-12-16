@@ -211,6 +211,7 @@
 
 ## C++ 
 
+- [KasperskyLab/hrtng](https://github.com/KasperskyLab/hrtng) - IDA Pro plugin with a rich set of features: decryption, deobfuscation, patching, lib code recognition and various pseudocode transformations
 - [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs) - 
 - [kimci86/bkcrack](https://github.com/kimci86/bkcrack) - Crack legacy zip encryption with Biham and Kocher's known plaintext attack.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
@@ -359,6 +360,8 @@
 
 ## Go 
 
+- [guackamolly/zero-monitor](https://github.com/guackamolly/zero-monitor) - (beta) One-click lightweight server monitor tool based on ZeroMQ protocol. Works on Windows, Linux, macOS, Raspberry PI (x32, x64, arm, arm64). Inspired by nezhahq/nezha, zabbix, prometheus. Takes no 
+- [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) - TUI for journalctl, file system logs, as well Docker and Podman containers for quick viewing and filtering with fuzzy find and regex support (like fzf and grep), written in Go with the gocui library.
 - [crazywolf132/secretfetch](https://github.com/crazywolf132/secretfetch) - Your secrets deserve better than hardcoding. SecretFetch makes secret management a breeze!
 - [patrickhener/goshs](https://github.com/patrickhener/goshs) - A SimpleHTTPServer written in Go, enhanced with features and with a nice design - https://goshs.de
 - [acidvegas/elastop](https://github.com/acidvegas/elastop) - HTOP for Elasticsearch
@@ -807,7 +810,7 @@
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [trumail/trumail](https://github.com/trumail/trumail) - :email: :white_check_mark: A Fast and Free Email Verification API written in Go
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [heyitsanthony/etcdircd](https://github.com/heyitsanthony/etcdircd) - An ircd backed by etcd
@@ -860,7 +863,6 @@
 
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [dustin/gopro](https://github.com/dustin/gopro) - Tools for making the most out of GoPro Plus.
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## JSON 
@@ -1040,6 +1042,7 @@
 - [wttech/gradle-aem-plugin](https://github.com/wttech/gradle-aem-plugin) - Swiss army knife for Adobe Experience Manager related automation. Environment setup & incremental AEM application build which takes seconds, not minutes.
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
 
 ## Less 
@@ -1099,6 +1102,7 @@
 
 ## Others 
 
+- [Olshansk/postgres_for_everything](https://github.com/Olshansk/postgres_for_everything) - How to reduce complexity and move faster? Just Postgres for everything.
 - [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) - A curated list of Model Context Protocol (MCP) servers
 - [ansilove/BlockZone](https://github.com/ansilove/BlockZone) - A faithful recreation of the original DOS font.
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
@@ -1117,6 +1121,7 @@
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [php-fig/per-coding-style](https://github.com/php-fig/per-coding-style) - PER coding style
+- [AnalogJ/lexicon](https://github.com/AnalogJ/lexicon) - Manipulate DNS records on various DNS providers in a standardized way.
 - [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes) - My notes of Clean Code book
 - [Feller-AG/wiser-api](https://github.com/Feller-AG/wiser-api) - 
 - [Feller-AG/wiser-tutorial](https://github.com/Feller-AG/wiser-tutorial) - 
@@ -1383,6 +1388,10 @@
 
 ## Python 
 
+- [roshanlam/iFetch](https://github.com/roshanlam/iFetch) - 🚀 Bulk download your iCloud Drive files and folders with a simple command line tool
+- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly (con)text to paste into any LLM
+- [kortix-ai/fast-apply](https://github.com/kortix-ai/fast-apply) - 
+- [TheProxyCompany/proxy-structuring-engine](https://github.com/TheProxyCompany/proxy-structuring-engine) - Ensure AI-generated output follows predefined schemas without compromising creativity, speed, or context.
 - [danhilse/notion_mcp](https://github.com/danhilse/notion_mcp) - A simple MCP integration that allows Claude to read and manage a personal Notion todo list
 - [jjleng/copilot-more](https://github.com/jjleng/copilot-more) - $10/month GPT-4o and Claude-3.5-Sonnet APIs for coding and beyond.
 - [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) - [EMNLP'23, ACL'24] To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
@@ -1455,7 +1464,6 @@
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
-- [AnalogJ/lexicon](https://github.com/AnalogJ/lexicon) - Manipulate DNS records on various DNS providers in a standardized way.
 - [androguard/androguard](https://github.com/androguard/androguard) - Reverse engineering and pentesting for Android applications
 - [nccgroup/idahunt](https://github.com/nccgroup/idahunt) - idahunt is a framework to analyze binaries with IDA Pro and hunt for things in IDA Pro
 - [lukew3/mathgenerator](https://github.com/lukew3/mathgenerator) - A math problem generator, created for the purpose of giving self-studying students and teaching organizations the means to easily get access to high-quality, generated math problems to suit their need
@@ -1663,6 +1671,8 @@
 
 ## Rust 
 
+- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS Runtime, Auth, and Admin UI built on Rust, SQLite & V8.
 - [kardwen/passepartui](https://github.com/kardwen/passepartui) - A TUI for pass
 - [zed-extensions/postgres-context-server](https://github.com/zed-extensions/postgres-context-server) - An extension providing a Model Context Server extension for PostgreSQL
 - [cdown/tzupdate](https://github.com/cdown/tzupdate) - Set the system timezone based on IP geolocation.
@@ -1846,6 +1856,8 @@
 
 ## Shell 
 
+- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A comprehensive, up-to-date list of Android apps that require or utilize root privileges.
+- [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way!
 - [WhatsApp/proxy](https://github.com/WhatsApp/proxy) - This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP is not currently supported)
 - [un1t/appimage-desktop-entry](https://github.com/un1t/appimage-desktop-entry) - 
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
@@ -2079,8 +2091,10 @@
 
 ## TypeScript 
 
+- [chrox/readest](https://github.com/chrox/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
+- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 - [bmewburn/vscode-intelephense](https://github.com/bmewburn/vscode-intelephense) - PHP intellisense for Visual Studio Code
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes!
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes! [In Beta]
 - [lee88688/aider-composer](https://github.com/lee88688/aider-composer) - Aider's VSCode extension, seamlessly integrated into VSCode
 - [watzon/postpilot](https://github.com/watzon/postpilot) - Local SMTP testing made easy
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
@@ -2151,7 +2165,7 @@
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
