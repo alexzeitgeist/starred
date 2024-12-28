@@ -174,7 +174,6 @@
 - [koct9i/ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
 - [mikebrady/shairport-sync](https://github.com/mikebrady/shairport-sync) - AirPlay and AirPlay 2 audio player
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
-- [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [troglobit/inadyn](https://github.com/troglobit/inadyn) - In-a-Dyn is a dynamic DNS client with multiple SSL/TLS library support
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
@@ -250,6 +249,7 @@
 - [google/brunsli](https://github.com/google/brunsli) - Practical JPEG Repacker
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows.
+- [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [RolfRolles/HexRaysDeob](https://github.com/RolfRolles/HexRaysDeob) - Hex-Rays microcode API plugin for breaking an obfuscating compiler
 - [cseagle/sk3wldbg](https://github.com/cseagle/sk3wldbg) - Debugger plugin for IDA Pro backed by the Unicorn Engine
 - [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
@@ -300,7 +300,7 @@
 
 ## Dart 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End to End Encrypted alternative to Google Photos and Apple Photos
 - [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A feature-rich Hacker News client.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client.
@@ -361,11 +361,15 @@
 
 ## Go 
 
+- [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
+- [skariel/keypub](https://github.com/skariel/keypub) - the public ssh public key registry!
+- [RamboRogers/netventory](https://github.com/RamboRogers/netventory) - Netventory is a fast single binary network scanning tool with a beautiful TUI and WebUI that runs on Linux, Mac or Windows.
+- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [SenseUnit/dumbproxy](https://github.com/SenseUnit/dumbproxy) - Simple, scriptable, secure forward proxy
 - [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 - [bevane/repocheck](https://github.com/bevane/repocheck) - A CLI tool that provides an overview of local git repos with useful info such as last modified date, branch status etc.
 - [guackamolly/zero-monitor](https://github.com/guackamolly/zero-monitor) - (beta) One-click lightweight server monitor tool based on ZeroMQ protocol. Works on Windows, Linux, macOS, Raspberry PI (x32, x64, arm, arm64). Inspired by nezhahq/nezha, zabbix, prometheus. Takes no 
-- [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) - TUI for journalctl, file system logs, as well Docker and Podman containers for quick viewing and filtering with fuzzy find and regex support (like fzf and grep), written in Go with the gocui library.
+- [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) - TUI for journalctl, file system logs, as well Docker and Podman containers for quick viewing and filtering with fuzzy find, regex support (like fzf and grep) and coloring the output, written in Go wit
 - [crazywolf132/secretfetch](https://github.com/crazywolf132/secretfetch) - Your secrets deserve better than hardcoding. SecretFetch makes secret management a breeze!
 - [patrickhener/goshs](https://github.com/patrickhener/goshs) - A SimpleHTTPServer written in Go, enhanced with features and with a nice design - https://goshs.de
 - [acidvegas/elastop](https://github.com/acidvegas/elastop) - HTOP for Elasticsearch
@@ -918,6 +922,7 @@
 - [itcon-pty-au/typingmind-cloud-backup](https://github.com/itcon-pty-au/typingmind-cloud-backup) - This is a Typing mind extension to backup & restore Typingmind data to your AWS S3 bucket
 - [rodyherrera/Quantum](https://github.com/rodyherrera/Quantum) - 🚀 Hackable & Self-hosted Open-Source alternative to Vercel, Heroku, Netlify, etc. All your applications, just in one place. Develop and deploy with your favorite tools, and enjoy continuous deployment
 - [sapics/ip-location-db](https://github.com/sapics/ip-location-db) - ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Explosion-Scratch/apple-intelligence-prompts](https://github.com/Explosion-Scratch/apple-intelligence-prompts) - System prompts from Apple's new Apple Intelligence on MacOS Sequoia
 - [remorses/docker-phobia](https://github.com/remorses/docker-phobia) - Analyze Docker images size
 - [ray-lothian/UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - A User-Agent spoofer browser extension that is highly configurable
@@ -1043,7 +1048,7 @@
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - Simple-ish app using Shizuku to install APKs on-device with advanced options
 - [Splitties/ComposeOClock](https://github.com/Splitties/ComposeOClock) - Draw Wear OS Watch Faces with Compose Canvas (& runtime)
-- [zaneschepke/wgtunnel](https://github.com/zaneschepke/wgtunnel) - An alternative Android client app for WireGuard VPN
+- [zaneschepke/wgtunnel](https://github.com/zaneschepke/wgtunnel) - An alternative Android client app for WireGuard® and AmneziaWG
 - [wttech/gradle-aem-plugin](https://github.com/wttech/gradle-aem-plugin) - Swiss army knife for Adobe Experience Manager related automation. Environment setup & incremental AEM application build which takes seconds, not minutes.
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
@@ -1056,7 +1061,7 @@
 
 ## Lua 
 
-- [ricardoraposo/nightwolf.nvim](https://github.com/ricardoraposo/nightwolf.nvim) - 🦊 Neovim theme based of nightwolf
+- [ricardoraposo/nightwolf.nvim](https://github.com/ricardoraposo/nightwolf.nvim) - 🐺 Neovim theme based of nightwolf
 - [SmartThingsCommunity/SmartThingsEdgeDrivers](https://github.com/SmartThingsCommunity/SmartThingsEdgeDrivers) - 
 - [Mariano-Github/Edge-Drivers-Beta](https://github.com/Mariano-Github/Edge-Drivers-Beta) - Edge Driver Beta Modified for Created
 - [veonua/SmartThingsEdge-Xiaomi](https://github.com/veonua/SmartThingsEdge-Xiaomi) - SmartThings Edge drivers for XIaomi and Aqara devices
@@ -1208,6 +1213,7 @@
 
 ## PHP 
 
+- [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
 - [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions
@@ -1395,9 +1401,12 @@
 
 ## Python 
 
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
+- [arjun-ms/cursor-chat-exporter](https://github.com/arjun-ms/cursor-chat-exporter) - 
+- [fabriziosalmi/patterns](https://github.com/fabriziosalmi/patterns) - Automated OWASP CRS and Bad Bot Detection for Caddy, Nginx, Apache, Traefik and HaProxy
 - [travisvn/gptree](https://github.com/travisvn/gptree) - A CLI tool to provide LLM context for coding projects by combining project files into a single text file (or clipboard text) with directory tree structure.
 - [roshanlam/iFetch](https://github.com/roshanlam/iFetch) - 🚀 Bulk download your iCloud Drive files and folders with a simple command line tool
-- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly (con)text to paste into any LLM
+- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
 - [kortix-ai/fast-apply](https://github.com/kortix-ai/fast-apply) - 
 - [TheProxyCompany/proxy-structuring-engine](https://github.com/TheProxyCompany/proxy-structuring-engine) - Ensure AI-generated output follows predefined schemas without compromising creativity, speed, or context.
 - [danhilse/notion_mcp](https://github.com/danhilse/notion_mcp) - A simple MCP integration that allows Claude to read and manage a personal Notion todo list
@@ -1528,7 +1537,6 @@
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [0-duke/wdpassport-utils](https://github.com/0-duke/wdpassport-utils) - WD Passport Ultra Linux Utilities
 - [polymorf/findcrypt-yara](https://github.com/polymorf/findcrypt-yara) - IDA pro plugin to find crypto constants (and more)
-- [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [vagnum08/cpupower-gui](https://github.com/vagnum08/cpupower-gui) - cpupower-gui is a graphical program that is used to change the scaling frequency limits of the cpu, similar to cpupower.
 - [standardebooks/tools](https://github.com/standardebooks/tools) - The Standard Ebooks toolset for producing our ebook files.
@@ -1679,6 +1687,8 @@
 
 ## Rust 
 
+- [Canop/rhit](https://github.com/Canop/rhit) - A nginx log explorer
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
 - [wcampbell0x2a/heretek](https://github.com/wcampbell0x2a/heretek) - Yet Another GDB TUI Frontend
 - [edmocosta/tuistash](https://github.com/edmocosta/tuistash) - A terminal user interface for Logstash 🪵
@@ -2085,7 +2095,6 @@
 
 ## Svelte 
 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [proofrock/pupcloud](https://github.com/proofrock/pupcloud) - [SUSPENDED] A portable web file manager and gallery
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
@@ -2101,8 +2110,9 @@
 
 ## TypeScript 
 
+- [liriliri/aya](https://github.com/liriliri/aya) - Android adb desktop app
 - [LuisReinoso/github-stars-semantic-search](https://github.com/LuisReinoso/github-stars-semantic-search) - Find your GitHub stars easily with natural language search
-- [chrox/readest](https://github.com/chrox/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
+- [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 - [bmewburn/vscode-intelephense](https://github.com/bmewburn/vscode-intelephense) - PHP intellisense for Visual Studio Code
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes! [In Beta]
@@ -2122,7 +2132,7 @@
 - [TimWitzdam/GitSave](https://github.com/TimWitzdam/GitSave) - GitSave is a self-hosted and open-source application that backs up your Git repositories.
 - [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
 - [Vali-98/ChatterUI](https://github.com/Vali-98/ChatterUI) - Simple frontend for LLMs built in react-native.
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, cod
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlight
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
