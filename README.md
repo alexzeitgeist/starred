@@ -1444,6 +1444,7 @@
 
 ## Python 
 
+- [Techlm77/LinuxPlay](https://github.com/Techlm77/LinuxPlay) - Remote Desktop for Linux only
 - [US-Artificial-Intelligence/ScrapeServ](https://github.com/US-Artificial-Intelligence/ScrapeServ) - A self-hosted API that takes a URL and returns a file with browser screenshots.
 - [daniel-lxs/mcp-perplexity](https://github.com/daniel-lxs/mcp-perplexity) - 
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
@@ -1507,7 +1508,7 @@
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [p0dalirius/smbclient-ng](https://github.com/p0dalirius/smbclient-ng) - smbclient-ng, a fast and user friendly way to interact with SMB shares.
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
-- [yaroslavyaroslav/OpenAI-sublime-text](https://github.com/yaroslavyaroslav/OpenAI-sublime-text) - First class Sublime Text AI assistant with GPT-o1 and ollama support!
+- [yaroslavyaroslav/OpenAI-sublime-text](https://github.com/yaroslavyaroslav/OpenAI-sublime-text) - First class Sublime Text AI assistant with o1, o3-mini and ollama support!
 - [soyersoyer/cameractrls](https://github.com/soyersoyer/cameractrls) - Camera controls for Linux
 - [schmurtzm/MiyooMini_Tools](https://github.com/schmurtzm/MiyooMini_Tools) - A collection of tools for Miyoo Mini tinkerers !
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
@@ -2198,6 +2199,7 @@
 
 ## TypeScript 
 
+- [11notes/docker-immich-share-proxy](https://github.com/11notes/docker-immich-share-proxy) - Expose your Immich shares publicly without exposing Immich!
 - [kleneway/awesome-cursor-mpc-server](https://github.com/kleneway/awesome-cursor-mpc-server) - Example of an MCP server with custom tools that can be called directly from cursor
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [AirswitchAsa/icloudpd-web](https://github.com/AirswitchAsa/icloudpd-web) - 
