@@ -3276,7 +3276,7 @@
 - [zed-extensions/postgres-context-server](https://github.com/zed-extensions/postgres-context-server) - An extension providing a Model Context Server extension for PostgreSQL
 - [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) - A curated list of Model Context Protocol (MCP) servers
 - [danhilse/notion_mcp](https://github.com/danhilse/notion_mcp) - A simple MCP integration that allows Claude to read and manage a personal Notion todo list
-- [jjleng/copilot-more](https://github.com/jjleng/copilot-more) - $10/month GPT-4o and Claude-3.5-Sonnet APIs for coding and beyond.
+- [jjleng/copilot-more](https://github.com/jjleng/copilot-more) - GPT-4o and Claude-3.7-Sonnet APIs for coding and beyond.
 - [oppiliappan/lurker](https://github.com/oppiliappan/lurker) - selfhostable, read-only reddit client
 - [WhatsApp/proxy](https://github.com/WhatsApp/proxy) - This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP is not currently supported)
 - [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
