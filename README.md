@@ -1482,6 +1482,7 @@
 
 ## Python 
 
+- [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [corenting/eddrit](https://github.com/corenting/eddrit) - A lightweight alternative frontend for Reddit.
 - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
