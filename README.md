@@ -391,7 +391,7 @@
 - [cohesion-org/deepseek-go](https://github.com/cohesion-org/deepseek-go) - A Deepseek client written for Go supporting R-1, Chat V3, and Coder. Also supports external providers like Azure, OpenRouter and Local Ollama.
 - [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt.
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [yushangxiao/claude2api](https://github.com/yushangxiao/claude2api) - 将Claude 的网页服务转为 Api 服务，支持识图，文件上传，思考输出……
 - [copilot-extensions/rag-extension](https://github.com/copilot-extensions/rag-extension) - An example extension in go using retrevial-augmented generation
 - [flohoss/gocron](https://github.com/flohoss/gocron) - A go based task scheduler with GUI
@@ -916,7 +916,6 @@
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [stefansundin/traceroute-mapper](https://github.com/stefansundin/traceroute-mapper) - Map your traceroutes easily.
-- [vpietri/magento2-developer-quickdevbar](https://github.com/vpietri/magento2-developer-quickdevbar) - Developer Toolbar for Magento2
 - [subspacecloud/subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -985,6 +984,8 @@
 
 ## JavaScript 
 
+- [Oct4Pie/toolbridge](https://github.com/Oct4Pie/toolbridge) - Enable tool/function calling for any LLM, in OpenAI and Ollama API formats, adding universal function calling to models without native support. Use local or cloud models with full agent capabilities.
+- [DumbWareio/DumbTerm](https://github.com/DumbWareio/DumbTerm) - A stupidly simple web-based terminal emulator, with common tools and Starship enabled (via Docker)! 🚀
 - [DaInfernalCoder/perplexity-mcp](https://github.com/DaInfernalCoder/perplexity-mcp) - A Model Context Protocol (MCP) server for research and documentation assistance using Perplexity AI. Won 1st @ Cline Hackathon
 - [maxnowack/anthropic-proxy](https://github.com/maxnowack/anthropic-proxy) - Proxy server that converts Anthropic API requests to OpenAI format and sends it to OpenRouter. It's used to use Claude Code with OpenRouter instead of the Anthropic API
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
@@ -1120,6 +1121,7 @@
 
 ## Kotlin 
 
+- [Stream29/ProxyAsLocalModel](https://github.com/Stream29/ProxyAsLocalModel) - Proxy remote LLM API as Ollama and LM Studio, for using them in JetBrains AI Assistant
 - [plateaukao/einkbro](https://github.com/plateaukao/einkbro) - A small, fast web browser based on Android WebView. It's tailored for E-Ink devices but also works great on normal android devices.
 - [KieronQuinn/uTag](https://github.com/KieronQuinn/uTag) - Use Samsung Galaxy SmartTags on any Android device
 - [AndraxDev/speak-gpt](https://github.com/AndraxDev/speak-gpt) - Your personal voice assistant based on OpenAI ChatGPT.
@@ -1380,6 +1382,7 @@
 - [beyondcode/laravel-server-timing](https://github.com/beyondcode/laravel-server-timing) - Add Server-Timing header information from within your Laravel apps.
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager) - Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager
+- [vpietri/magento2-developer-quickdevbar](https://github.com/vpietri/magento2-developer-quickdevbar) - Developer Toolbar for Magento2
 - [ash-jc-allen/short-url](https://github.com/ash-jc-allen/short-url) - A Laravel package for creating shortened URLs for your web apps.
 - [punkstar/mageconfigsync](https://github.com/punkstar/mageconfigsync) - 🔧 A utility to aid the storing of Magento configuration in version control
 - [magento/magento-coding-standard](https://github.com/magento/magento-coding-standard) - Magento Coding Standard
@@ -1508,6 +1511,8 @@
 
 ## Python 
 
+- [ernestofgonzalez/epub-utils](https://github.com/ernestofgonzalez/epub-utils) - A Python library and CLI tool for inspecting ePub from the terminal
+- [shobrook/suss](https://github.com/shobrook/suss) - AI-powered bug finder that knows your codebase
 - [zoner72/Datavizion-RAG](https://github.com/zoner72/Datavizion-RAG) - Retrieval-augmented generation (RAG) for remote & local LLM use
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) - A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
@@ -1520,7 +1525,7 @@
 - [stuzero/pg-mcp-server](https://github.com/stuzero/pg-mcp-server) - 
 - [SunneV/OpenRegex](https://github.com/SunneV/OpenRegex) - OpenRegex is a simple, self-hosted, web-based regular expression (regex) tester and debugger.
 - [1rgs/claude-code-proxy](https://github.com/1rgs/claude-code-proxy) - Run Claude Code on OpenAI models
-- [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
+- [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [corenting/eddrit](https://github.com/corenting/eddrit) - A lightweight alternative frontend for Reddit.
 - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
@@ -1841,6 +1846,7 @@
 
 ## Rust 
 
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and execute GitHub Actions workflows locally.
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
 - [walles/riff](https://github.com/walles/riff) - A diff filter highlighting which line parts have changed
 - [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
@@ -1857,7 +1863,7 @@
 - [chrivers/bifrost](https://github.com/chrivers/bifrost) - Hue Bridge Emulator
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
-- [Automattic/harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [seatedro/glimpse](https://github.com/seatedro/glimpse) - Copy code from your codebase to clipboard instantly for LLM context!
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
@@ -1866,7 +1872,7 @@
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
 - [wcampbell0x2a/heretek](https://github.com/wcampbell0x2a/heretek) - GDB TUI Dashboard for the understanding of vast knowledge
 - [edmocosta/tuistash](https://github.com/edmocosta/tuistash) - A Terminal User Interface for Logstash 🪵
-- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions
+- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - Static analysis for GitHub Actions
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8.
 - [kardwen/passepartui](https://github.com/kardwen/passepartui) - A TUI for pass
 - [zed-extensions/postgres-context-server](https://github.com/zed-extensions/postgres-context-server) - An extension providing a Model Context Server extension for PostgreSQL
@@ -2290,17 +2296,18 @@
 
 ## TypeScript 
 
+- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab Repositories
 - [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, wi
 - [ymichael/open-codex](https://github.com/ymichael/open-codex) - Lightweight coding agent that runs in your terminal
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) - MCP server for working with 3rd party library documentation
+- [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) - Docs MCP Server: Enhance Your AI Coding Assistant
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [digitarald/mcp-frontend-starter](https://github.com/digitarald/mcp-frontend-starter) - 
-- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first (coming soon). Join the discord: https://discord.gg/0email
+- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
 - [btahir/auntie-pdf](https://github.com/btahir/auntie-pdf) - Your all-knowing guide that unpacks every PDF into clear, actionable insights.
 - [zueai/create-mcp](https://github.com/zueai/create-mcp) - CLI to set up and deploy MCP Servers to Cloudflare Workers in seconds. Just write TypeScript functions to make Cursor MCP tools.
-- [hotovo/aider-desk](https://github.com/hotovo/aider-desk) - Desktop application for Aider AI assistant
+- [hotovo/aider-desk](https://github.com/hotovo/aider-desk) - Desktop application for Aider AI assistant and much more
 - [11notes/docker-immich-share-proxy](https://github.com/11notes/docker-immich-share-proxy) - Expose your Immich shares publicly without exposing Immich!
 - [kleneway/awesome-cursor-mpc-server](https://github.com/kleneway/awesome-cursor-mpc-server) - Example of an MCP server with custom tools that can be called directly from cursor
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
