@@ -252,16 +252,15 @@
 
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) - A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-- [pietrozullo/mcp-use](https://github.com/pietrozullo/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [lmnr-ai/index](https://github.com/lmnr-ai/index) - The SOTA Open-Source Browser Agent for autonomously performing complex tasks on the web
 - [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) - Develop software autonomously.
 - [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release) - Feedback on GitHub Copilot Chat UX in Visual Studio Code.
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
-- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first (coming soon). Join the discord: https://discord.gg/0email
-- [dnakov/anon-kode](https://github.com/dnakov/anon-kode) - koding with any LLMs
+- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
 - [zueai/create-mcp](https://github.com/zueai/create-mcp) - CLI to set up and deploy MCP Servers to Cloudflare Workers in seconds. Just write TypeScript functions to make Cursor MCP tools.
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
-- [hotovo/aider-desk](https://github.com/hotovo/aider-desk) - Desktop application for Aider AI assistant
+- [hotovo/aider-desk](https://github.com/hotovo/aider-desk) - Desktop application for Aider AI assistant and much more
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source AI framework for semantic search, LLM orchestration and language model workflows
 - [Tanq16/ai-context](https://github.com/Tanq16/ai-context) - CLI tool to produce MD context files from many sources, to help interact with LLMs (ChatGPT, Llama3, Claude, etc.).
 - [deepseek-php/deepseek-php-client](https://github.com/deepseek-php/deepseek-php-client) - ⚡️ supercharged community-maintained PHP API client that allows you to interact with deepseek API
@@ -590,6 +589,7 @@
 
 ## bash 
 
+- [DumbWareio/DumbTerm](https://github.com/DumbWareio/DumbTerm) - A stupidly simple web-based terminal emulator, with common tools and Starship enabled (via Docker)! 🚀
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
 - [jvalcher/termfu](https://github.com/jvalcher/termfu) - Multi-language TUI debugger with custom layouts
 - [mag37/dockcheck](https://github.com/mag37/dockcheck) - CLI tool to automate docker image updates. Selective, notifications, autoprune, no pre-pulling.
@@ -772,6 +772,7 @@
 
 ## cli 
 
+- [ernestofgonzalez/epub-utils](https://github.com/ernestofgonzalez/epub-utils) - A Python library and CLI tool for inspecting ePub from the terminal
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [knqyf263/sou](https://github.com/knqyf263/sou) - A tool for exploring files in container image layers
@@ -950,7 +951,6 @@
 
 ## code 
 
-- [dnakov/anon-kode](https://github.com/dnakov/anon-kode) - koding with any LLMs
 - [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [quasilyte/phpgrep](https://github.com/quasilyte/phpgrep) - Syntax-aware grep for PHP code.
@@ -971,7 +971,7 @@
 
 ## coding 
 
-- [hotovo/aider-desk](https://github.com/hotovo/aider-desk) - Desktop application for Aider AI assistant
+- [hotovo/aider-desk](https://github.com/hotovo/aider-desk) - Desktop application for Aider AI assistant and much more
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
 ## compiler 
@@ -984,7 +984,7 @@
 
 ## computer-science 
 
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help busy software engineers become good at system design 👇
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - Newsletter to help busy software engineers become good at system design 👇
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
@@ -1173,7 +1173,7 @@
 ## development 
 
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API : )  (Don't need API KEY)
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help busy software engineers become good at system design 👇
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - Newsletter to help busy software engineers become good at system design 👇
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
@@ -1236,6 +1236,7 @@
 
 ## docker 
 
+- [DumbWareio/DumbTerm](https://github.com/DumbWareio/DumbTerm) - A stupidly simple web-based terminal emulator, with common tools and Starship enabled (via Docker)! 🚀
 - [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers
 - [flohoss/gocron](https://github.com/flohoss/gocron) - A go based task scheduler with GUI
@@ -2844,6 +2845,7 @@
 
 ## llm 
 
+- [zoner72/Datavizion-RAG](https://github.com/zoner72/Datavizion-RAG) - Retrieval-augmented generation (RAG) for remote & local LLM use
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) - A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)
 - [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
 - [lmnr-ai/index](https://github.com/lmnr-ai/index) - The SOTA Open-Source Browser Agent for autonomously performing complex tasks on the web
@@ -2852,7 +2854,6 @@
 - [maxnowack/anthropic-proxy](https://github.com/maxnowack/anthropic-proxy) - Proxy server that converts Anthropic API requests to OpenAI format and sends it to OpenRouter. It's used to use Claude Code with OpenRouter instead of the Anthropic API
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
-- [dnakov/anon-kode](https://github.com/dnakov/anon-kode) - koding with any LLMs
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source AI framework for semantic search, LLM orchestration and language model workflows
 - [Tanq16/ai-context](https://github.com/Tanq16/ai-context) - CLI tool to produce MD context files from many sources, to help interact with LLMs (ChatGPT, Llama3, Claude, etc.).
@@ -3227,7 +3228,6 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [DevEmperor/Dictate](https://github.com/DevEmperor/Dictate) - A powerful Whisper AI keyboard for reliable speech transcription
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
-- [dnakov/anon-kode](https://github.com/dnakov/anon-kode) - koding with any LLMs
 - [deepseek-php/deepseek-laravel](https://github.com/deepseek-php/deepseek-laravel) - Laravel wrapper for Deepseek PHP client, to seamless deepseek API integration with laravel applications.
 - [enoch3712/ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
@@ -3279,6 +3279,11 @@
 
 ## others 
 
+- [Stream29/ProxyAsLocalModel](https://github.com/Stream29/ProxyAsLocalModel) - Proxy remote LLM API as Ollama and LM Studio, for using them in JetBrains AI Assistant
+- [shobrook/suss](https://github.com/shobrook/suss) - AI-powered bug finder that knows your codebase
+- [Oct4Pie/toolbridge](https://github.com/Oct4Pie/toolbridge) - Enable tool/function calling for any LLM, in OpenAI and Ollama API formats, adding universal function calling to models without native support. Use local or cloud models with full agent capabilities.
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and execute GitHub Actions workflows locally.
+- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab Repositories
 - [cosock/lustre](https://github.com/cosock/lustre) - Websockets for cosock
 - [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Debian-based Linux distributions
 - [uint23/sxwm](https://github.com/uint23/sxwm) - tiling window managers dont have to be difficult
@@ -3290,7 +3295,7 @@
 - [walles/riff](https://github.com/walles/riff) - A diff filter highlighting which line parts have changed
 - [hongtat/smartthings-capabilities](https://github.com/hongtat/smartthings-capabilities) - SmartThings Capabilities
 - [Heaust-ops/rauxy](https://github.com/Heaust-ops/rauxy) - A reverse proxy manager written in go, to convert exposed ports into token-based auth protected ports
-- [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) - MCP server for working with 3rd party library documentation
+- [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) - Docs MCP Server: Enhance Your AI Coding Assistant
 - [DaInfernalCoder/perplexity-mcp](https://github.com/DaInfernalCoder/perplexity-mcp) - A Model Context Protocol (MCP) server for research and documentation assistance using Perplexity AI. Won 1st @ Cline Hackathon
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
 - [ujisati/claude-code-provider-proxy](https://github.com/ujisati/claude-code-provider-proxy) - claude-code-provider-proxy
@@ -3309,7 +3314,7 @@
 - [ppl-ai/modelcontextprotocol](https://github.com/ppl-ai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
 - [digitarald/mcp-frontend-starter](https://github.com/digitarald/mcp-frontend-starter) - 
 - [copilot-extensions/rag-extension](https://github.com/copilot-extensions/rag-extension) - An example extension in go using retrevial-augmented generation
-- [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
+- [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [0xCope/typingmind-sync-s3](https://github.com/0xCope/typingmind-sync-s3) - 
 - [aconz2/program-explorer](https://github.com/aconz2/program-explorer) - 
 - [btahir/auntie-pdf](https://github.com/btahir/auntie-pdf) - Your all-knowing guide that unpacks every PDF into clear, actionable insights.
@@ -4268,7 +4273,7 @@
 
 - [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
-- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first (coming soon). Join the discord: https://discord.gg/0email
+- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [benbusby/yeetfile](https://github.com/benbusby/yeetfile) - An encrypted file sharing and vault service for web and CLI
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
@@ -4303,7 +4308,7 @@
 
 ## programming 
 
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help busy software engineers become good at system design 👇
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - Newsletter to help busy software engineers become good at system design 👇
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
@@ -4328,6 +4333,8 @@
 
 ## python 
 
+- [ernestofgonzalez/epub-utils](https://github.com/ernestofgonzalez/epub-utils) - A Python library and CLI tool for inspecting ePub from the terminal
+- [zoner72/Datavizion-RAG](https://github.com/zoner72/Datavizion-RAG) - Retrieval-augmented generation (RAG) for remote & local LLM use
 - [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
 - [corenting/eddrit](https://github.com/corenting/eddrit) - A lightweight alternative frontend for Reddit.
 - [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
@@ -4580,7 +4587,7 @@
 - [ddoemonn/ur-commit-mentor](https://github.com/ddoemonn/ur-commit-mentor) - A CLI tool that analyzes git commits and provides AI-powered code review insights (for now only works with Claude API)
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
-- [Automattic/harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
 - [Canop/rhit](https://github.com/Canop/rhit) - A nginx log explorer
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -4704,13 +4711,13 @@
 
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers
-- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first (coming soon). Join the discord: https://discord.gg/0email
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
+- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
 - [dvershinin/gixy](https://github.com/dvershinin/gixy) - NGINX configuration static analyzer
 - [M3rcuryLake/Nyxelf](https://github.com/M3rcuryLake/Nyxelf) - Nyxelf is a highly effective tool tailored for analyzing malicious Linux ELF binaries, offering comprehensive support for both static and dynamic analysis techniques.
 - [cyberagiinc/DevDocs](https://github.com/cyberagiinc/DevDocs) - Completely free, private, UI based Tech Documentation MCP server. Designed for coders and software developers in mind. Easily integrate into Cursor, Windsurf, Cline, Roo Code, Claude Desktop App
 - [RamboRogers/netventory](https://github.com/RamboRogers/netventory) - Netventory is a fast single binary network scanning tool with a beautiful TUI and WebUI that runs on Linux, Mac or Windows.
-- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions
+- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - Static analysis for GitHub Actions
 - [google/go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go.
 - [edoardottt/pwdsafety](https://github.com/edoardottt/pwdsafety) - 🔒command line tool checking password safety🔒
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization and synthetic data generation tool
@@ -4801,7 +4808,7 @@
 ## security-tools 
 
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
-- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions
+- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - Static analysis for GitHub Actions
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [edoardottt/pwdsafety](https://github.com/edoardottt/pwdsafety) - 🔒command line tool checking password safety🔒
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization and synthetic data generation tool
@@ -5062,6 +5069,7 @@
 
 ## terminal 
 
+- [DumbWareio/DumbTerm](https://github.com/DumbWareio/DumbTerm) - A stupidly simple web-based terminal emulator, with common tools and Starship enabled (via Docker)! 🚀
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
 - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
