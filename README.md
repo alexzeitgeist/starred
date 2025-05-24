@@ -323,7 +323,7 @@
 
 ## Dart 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - ✨ End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A feature-rich Hacker News client.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client.
@@ -385,6 +385,7 @@
 
 ## Go 
 
+- [savedra1/clipse](https://github.com/savedra1/clipse) - Configurable TUI clipboard manager for Unix
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [mvisonneau/gpcd](https://github.com/mvisonneau/gpcd) - GoPro Cloud Downloader
 - [nil0x42/dnsanity](https://github.com/nil0x42/dnsanity) - High-performance DNS validator using template-based verification
@@ -413,7 +414,7 @@
 - [Tanq16/ai-context](https://github.com/Tanq16/ai-context) - CLI tool to produce MD context files from many sources, to help interact with LLMs (ChatGPT, Llama3, Claude, etc.).
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
-- [benbusby/yeetfile](https://github.com/benbusby/yeetfile) - An encrypted file sharing and vault service for web and CLI
+- [benbusby/yeetfile](https://github.com/benbusby/yeetfile) - A self-hosted service for encrypted file sharing and storage
 - [ekristen/aws-nuke](https://github.com/ekristen/aws-nuke) - Remove all the resources from an AWS account
 - [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper's color scheme / palette, image to pixel art, color palette extraction,  image upsacling with Adversarial Networks  and more image processing features
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
@@ -625,13 +626,13 @@
 - [adelolmo/hd-idle](https://github.com/adelolmo/hd-idle) - Hard Disk Idle Spin-Down Utility
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 - [slok/agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [benjojo/sping](https://github.com/benjojo/sping) - Split ping, see what direction the loss or latency is on
 - [dwisiswant0/stargather](https://github.com/dwisiswant0/stargather) - A fast GitHub stargazers information gathering tool
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 - [skanehira/github-tui](https://github.com/skanehira/github-tui) - TUI client for GitHub
 - [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
-- [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
+- [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Track stocks, crypto, and derivatives prices and positions in real time from your terminal
 - [stgarf/paperless-cli](https://github.com/stgarf/paperless-cli) - A golang command line binary to interact with a Paperless instance
 - [fabpot/local-php-security-checker](https://github.com/fabpot/local-php-security-checker) - PHP security vulnerabilities checker
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
@@ -1113,7 +1114,7 @@
 ## Jupyter Notebook 
 
 - [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
-- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 11 Lessons to Get Started Building AI Agents
 - [therealoliver/Deepdive-llama3-from-scratch](https://github.com/therealoliver/Deepdive-llama3-from-scratch) - Achieve the llama3 inference step-by-step, grasp the core concepts, master the process derivation, implement the code.
 - [mytechnotalent/rea](https://github.com/mytechnotalent/rea) - A Reverse Engineering Assistant leveraging Retrieval-Augmented Generation (RAG) and the LLaMA-3.1-8B-Instant Large Language Model (LLM). This tool is designed to revolutionize reverse engineering task
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸
@@ -1515,10 +1516,12 @@
 
 ## Python 
 
+- [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable email domains
+- [gelbphoenix/autocaliweb](https://github.com/gelbphoenix/autocaliweb) - :books: Web managing platform for eBooks, eComics and PDFs
 - [pySmartThings/pysmartthings](https://github.com/pySmartThings/pysmartthings) - A python library for interacting with the SmartThings cloud API build with asyncio and aiohttp.
 - [quinneden/acmsg](https://github.com/quinneden/acmsg) - AI generated git commit messages using the OpenRouter API.
-- [cased/kit](https://github.com/cased/kit) - 🛠️ The toolkit for codebase mapping, symbol extraction, and many kinds of code search. Build AI-powered devtools!
-- [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) - gemini轮询代理服务
+- [cased/kit](https://github.com/cased/kit) - The toolkit for codebase mapping, symbol extraction, and many kinds of code search. Build AI-powered devtools :ship:
+- [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
 - [Syonix/ha-wiser-by-feller](https://github.com/Syonix/ha-wiser-by-feller) - Home Assistant integration for Wiser by Feller smart home system
 - [ernestofgonzalez/epub-utils](https://github.com/ernestofgonzalez/epub-utils) - A Python library and CLI tool for inspecting ePub from the terminal
 - [shobrook/suss](https://github.com/shobrook/suss) - AI-powered bug finder that knows your codebase
@@ -1877,7 +1880,7 @@
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [seatedro/glimpse](https://github.com/seatedro/glimpse) - Copy code from your codebase to clipboard instantly for LLM context!
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
+- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [Canop/rhit](https://github.com/Canop/rhit) - A nginx log explorer
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
@@ -1950,7 +1953,7 @@
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [cortex/ripasso](https://github.com/cortex/ripasso) - A simple password manager written in Rust
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
-- [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+- [yujqiao/rathole](https://github.com/yujqiao/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [todoesverso/logss](https://github.com/todoesverso/logss) - A simple cli for logs splitting
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
@@ -1978,7 +1981,7 @@
 - [evilsocket/sauron](https://github.com/evilsocket/sauron) - A minimalistic cross-platform malware scanner with non-blocking realtime filesystem monitoring using YARA rules.
 - [io12/unf](https://github.com/io12/unf) - UNixize Filename -- replace annoying anti-unix characters in filenames
 - [foresterre/imagineer](https://github.com/foresterre/imagineer) - 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image. Formerly 'sic'
-- [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process
+- [yujqiao/catp](https://github.com/yujqiao/catp) - Print the output of a running process
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
 - [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli
@@ -2077,7 +2080,7 @@
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
-- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android Root Apps (Apps that use root permission), Magisk modules, LSPosed modules and comprehensive rooting & troubleshooting guides.
+- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - ⚡ Supercharge your Android! Your go-to awesome list for top root apps, Magisk & LSPosed modules, essential tools & guides for enhanced control and ultimate device customization.
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
 - [WhatsApp/proxy](https://github.com/WhatsApp/proxy) - This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP is not currently supported)
 - [un1t/appimage-desktop-entry](https://github.com/un1t/appimage-desktop-entry) - 
