@@ -3242,6 +3242,7 @@
 
 ## openai 
 
+- [antinomyhq/forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [DevEmperor/Dictate](https://github.com/DevEmperor/Dictate) - A powerful Whisper AI keyboard for reliable speech transcription
@@ -3324,7 +3325,7 @@
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 11 Lessons to Get Started Building AI Agents
 - [ujisati/claude-code-provider-proxy](https://github.com/ujisati/claude-code-provider-proxy) - claude-code-provider-proxy
 - [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt.
-- [hail-hydrant/zxc](https://github.com/hail-hydrant/zxc) - Terminal based intercepting proxy written in rust with tmux and vim as user interface.
+- [heil-hydrant/zxc](https://github.com/heil-hydrant/zxc) - Terminal based intercepting proxy written in rust with tmux and vim as user interface.
 - [stuzero/pg-mcp-server](https://github.com/stuzero/pg-mcp-server) - 
 - [SunneV/OpenRegex](https://github.com/SunneV/OpenRegex) - OpenRegex is a simple, self-hosted, web-based regular expression (regex) tester and debugger.
 - [yushangxiao/claude2api](https://github.com/yushangxiao/claude2api) - 将Claude 的网页服务转为 Api 服务，支持识图，文件上传，思考输出……
@@ -4952,6 +4953,7 @@
 
 ## shell 
 
+- [antinomyhq/forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
