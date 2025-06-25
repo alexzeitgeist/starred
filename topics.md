@@ -256,7 +256,7 @@
 
 ## ai 
 
-- [oraios/serena](https://github.com/oraios/serena) - a powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)
+- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [helixml/kodit](https://github.com/helixml/kodit) - MCP server to index external repositories
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
@@ -397,7 +397,7 @@
 
 ## angular 
 
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
@@ -432,7 +432,7 @@
 - [cohesion-org/deepseek-go](https://github.com/cohesion-org/deepseek-go) - A Deepseek client written for Go supporting R-1, Chat V3, and Coder. Also supports external providers like Azure, OpenRouter and Local Ollama.
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [tailscale/setec](https://github.com/tailscale/setec) - A secrets management service that uses Tailscale for access control
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Open-Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes!
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API : )  (Don't need API KEY)
 - [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
@@ -485,7 +485,7 @@
 - [Tanq16/backhub](https://github.com/Tanq16/backhub) - Backhub helps maintain backups of multiple GitHub repos as full local mirrors.
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Open-Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes!
 - [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
 - [sarat1kyan/suDROID](https://github.com/sarat1kyan/suDROID) - This script provides a convenient and automated way to patch the boot image of an Android device, saving the user time and effort compared to manually patching the image.
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization and synthetic data generation tool
@@ -1262,7 +1262,7 @@
 
 ## django 
 
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [kanishka-linux/reminiscence](https://github.com/kanishka-linux/reminiscence) - Self-Hosted Bookmark And Archive Manager
@@ -2986,7 +2986,7 @@
 - [enoch3712/ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
 - [mytechnotalent/rea](https://github.com/mytechnotalent/rea) - A Reverse Engineering Assistant leveraging Retrieval-Augmented Generation (RAG) and the LLaMA-3.1-8B-Instant Large Language Model (LLM). This tool is designed to revolutionize reverse engineering task
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -3231,7 +3231,7 @@
 
 ## no-code 
 
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Open-Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes!
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## node 
@@ -3271,6 +3271,7 @@
 
 ## npm 
 
+- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [sandoche/Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds
@@ -3360,6 +3361,7 @@
 
 ## others 
 
+- [dkarv/ha-bwt-perla](https://github.com/dkarv/ha-bwt-perla) - Custom HA integration for BWT Perla devices
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit
 - [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code + [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one.
 - [RchGrav/claudebox](https://github.com/RchGrav/claudebox) - The Ultimate Claude Code Docker Development Environment - Run Claude AI's coding assistant in a fully containerized, reproducible environment with pre-configured development profiles.
@@ -3449,7 +3451,7 @@
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [Raskoll2/LLMcalc](https://github.com/Raskoll2/LLMcalc) - A tool to determine whether or not your PC can run a given LLM
 - [revenate/actionate](https://github.com/revenate/actionate) - GitHub Actions for JetBrains IDEs
-- [shaggy2626/typingmind-themes-extensions](https://github.com/shaggy2626/typingmind-themes-extensions) - 
+- [shaggy2626/typingmind-themes-extensions](https://github.com/shaggy2626/typingmind-themes-extensions) - Supercharge your TypingMind experience with custom extensions and themes by Ken Harris
 - [Doriandarko/RAT-retrieval-augmented-thinking](https://github.com/Doriandarko/RAT-retrieval-augmented-thinking) - RAT is a powerful tool that improves AI responses by leveraging DeepSeek's reasoning capabilities to guide other models through a structured thinking process.
 - [MicrosoftDocs/azure-devops-docs](https://github.com/MicrosoftDocs/azure-devops-docs) - This repo is the home of the official Azure DevOps documentation for Microsoft. GitHub Issues filed in this repository should be for problems with the documentation.
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
@@ -4421,7 +4423,7 @@
 
 ## programming 
 
-- [oraios/serena](https://github.com/oraios/serena) - a powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)
+- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)
 - [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - Newsletter to help busy software engineers become good at system design 👇
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
@@ -4968,7 +4970,7 @@
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
 - [yusing/godoxy](https://github.com/yusing/godoxy) - Easy to use reverse proxy with docker integration
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Open-Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes!
 - [mag37/dockcheck](https://github.com/mag37/dockcheck) - CLI tool to automate docker image updates. Selective, notifications, autoprune, no pre-pulling.
 - [onedr0p/containers](https://github.com/onedr0p/containers) - My collection of container images
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
