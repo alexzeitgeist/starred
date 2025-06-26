@@ -83,7 +83,7 @@
 
 ## Batchfile 
 
-- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome and Firefox.
+- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [joshuacline/windick](https://github.com/joshuacline/windick) - Windows Deployment Image Customization Kit
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
@@ -396,7 +396,7 @@
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Domain Availability Research Tool
 - [goforj/godump](https://github.com/goforj/godump) - A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper.
-- [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI agents like Claude Code, Aider, Codex, OpenCode, and Amp.
+- [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.
 - [savedra1/clipse](https://github.com/savedra1/clipse) - Configurable TUI clipboard manager for Unix
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [mvisonneau/gpcd](https://github.com/mvisonneau/gpcd) - GoPro Cloud Downloader
@@ -1346,7 +1346,7 @@
 - [maelgangloff/domain-watchdog](https://github.com/maelgangloff/domain-watchdog) - An app that uses RDAP to collect publicly available info about domains, track their history, and purchase them
 - [corcel/corcel](https://github.com/corcel/corcel) - Use WordPress backend with Laravel or any PHP application
 - [laravel/reverb](https://github.com/laravel/reverb) - Laravel Reverb provides a real-time WebSocket communication backend for Laravel applications.
-- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - The PHP framework that gets out of your way  🌊
+- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - The PHP framework that gets out of your way
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binaries on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
 - [openai-php/laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
