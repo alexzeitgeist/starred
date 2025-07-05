@@ -257,6 +257,8 @@
 
 ## ai 
 
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Here is a full guide on claude tips and tricks and how you can optimise your claude code the best  full guides and every command possible even hidden ones!
+- [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
 - [peteryuqin/Claude-Collab](https://github.com/peteryuqin/Claude-Collab) - The AI collaboration framework that prevents echo chambers - Real-time   multi-agent coordination with enforced diversity and anti-groupthink   protection
 - [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - The AI browser automation framework
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)
@@ -466,7 +468,6 @@
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [agherzan/yubikey-full-disk-encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS partition
 
 ## artificial-intelligence 
@@ -725,6 +726,7 @@
 
 ## chatbot 
 
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [AndraxDev/speak-gpt](https://github.com/AndraxDev/speak-gpt) - Your personal voice assistant based on OpenAI ChatGPT.
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
@@ -798,6 +800,7 @@
 
 ## cli 
 
+- [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers
@@ -986,6 +989,7 @@
 
 ## code 
 
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Here is a full guide on claude tips and tricks and how you can optimise your claude code the best  full guides and every command possible even hidden ones!
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -1190,7 +1194,6 @@
 ## deno 
 
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 
 ## deployment 
 
@@ -1274,6 +1277,8 @@
 
 ## docker 
 
+- [clemcer/loggifly](https://github.com/clemcer/loggifly) - Get Alerts from your Docker Container Logs
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub) - A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly   through pull requests and issues. This integration allows Claude to analyze repositor
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [DumbWareio/DumbTerm](https://github.com/DumbWareio/DumbTerm) - A stupidly simple web-based terminal emulator, with common tools and Starship enabled (via Docker)! 🚀
@@ -1377,7 +1382,6 @@
 - [axl89/s3cr3t](https://github.com/axl89/s3cr3t) - A supercharged S3 reverse proxy
 - [rust-av/Av1an](https://github.com/rust-av/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
 - [composerize/composerize](https://github.com/composerize/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
@@ -1501,8 +1505,8 @@
 
 ## electron 
 
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [alexkim205/G-Desktop-Suite](https://github.com/alexkim205/G-Desktop-Suite) - Google Suite as a desktop app. Made possible with Electron.
@@ -1866,7 +1870,6 @@
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [ryo-ma/lazyhub](https://github.com/ryo-ma/lazyhub) - :octocat: lazyhub - Terminal UI Client for GitHub using gocui.
 - [yuuki/lstf](https://github.com/yuuki/lstf) - The aggregated TCP flows printer in Linux
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [ynqa/diffy](https://github.com/ynqa/diffy) - Print colored diff more readable
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [carvel-dev/kapp](https://github.com/carvel-dev/kapp) - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label
@@ -1944,6 +1947,7 @@
 
 ## golang 
 
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [lfaoro/ssm](https://github.com/lfaoro/ssm) - Streamline SSH connections with a simple Terminal UI
 - [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Domain Availability Research Tool
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
@@ -2078,7 +2082,6 @@
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [ryo-ma/lazyhub](https://github.com/ryo-ma/lazyhub) - :octocat: lazyhub - Terminal UI Client for GitHub using gocui.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [gbrlsnchs/pilgo](https://github.com/gbrlsnchs/pilgo) - Configuration-based dotfiles manager
 - [tj/gobinaries](https://github.com/tj/gobinaries) - Golang binaries compiled on-demand for your system
@@ -2386,7 +2389,6 @@
 - [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) - Simplifies IPv4/IPv6 CIDR network prefix management with counting, overlap checking, explanation, and subdivision.
 - [MarioCatuogno/Clean-macOS](https://github.com/MarioCatuogno/Clean-macOS) - 💻 A script to set up a clean macOS environment.
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh) - 🗑️ Cleanup script for macOS (DEPRECATED)
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀 by @miguelmota
 
@@ -2500,6 +2502,7 @@
 
 ## iot 
 
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [pySmartThings/pysmartthings](https://github.com/pySmartThings/pysmartthings) - A python library for interacting with the SmartThings cloud API build with asyncio and aiohttp.
 - [technyon/nuki_hub](https://github.com/technyon/nuki_hub) - Use an ESP32 as a Hub between a NUKI Lock and your smarthome.
 - [seashell/drago](https://github.com/seashell/drago) - ☁️ Securely connect anything with WireGuard® and manage all your networks from a single place.
@@ -2922,8 +2925,10 @@
 
 ## llm 
 
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
+- [antinomyhq/forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [zoner72/Datavizion-RAG](https://github.com/zoner72/Datavizion-RAG) - Retrieval-augmented generation (RAG) for remote & local LLM use
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) - A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)
 - [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
@@ -3132,6 +3137,7 @@
 
 ## monitoring 
 
+- [clemcer/loggifly](https://github.com/clemcer/loggifly) - Get Alerts from your Docker Container Logs
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [subtrace/subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
@@ -3283,6 +3289,7 @@
 
 ## npm 
 
+- [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
@@ -3315,6 +3322,7 @@
 
 ## openai 
 
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [antinomyhq/forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
@@ -3373,6 +3381,10 @@
 
 ## others 
 
+- [jaw9c/awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers) - Remote MCP Servers
+- [tkaufmann/claude-gemini-bridge](https://github.com/tkaufmann/claude-gemini-bridge) - 🤖 Intelligent integration between Claude Code and Google Gemini for large-scale code analysis
+- [RichardAtCT/claude-code-openai-wrapper](https://github.com/RichardAtCT/claude-code-openai-wrapper) - OpenAI API-compatible wrapper for Claude Code
+- [Rustring/MsOffice-On-WineBottles-Improved](https://github.com/Rustring/MsOffice-On-WineBottles-Improved) - Use Microsoft Office in Linux using WINE and Bottles (IMPROVED)
 - [carlrobertoh/ProxyAI](https://github.com/carlrobertoh/ProxyAI) - The leading open-source AI copilot for JetBrains. Connect to any model in any environment, and customize your coding experience in any way you like.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [dkarv/ha-bwt-perla](https://github.com/dkarv/ha-bwt-perla) - Custom HA integration for BWT Perla devices
@@ -4393,7 +4405,6 @@
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [EU-EDPS/website-evidence-collector](https://github.com/EU-EDPS/website-evidence-collector) - Project moved to https://code.europa.eu/EDPS/website-evidence-collector ! The tool Website Evidence Collector (WEC) automates the website evidence collection of storage and transfer of personal data. 
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Monitor Network Traffic Per Executable, Beautifully Visualized
@@ -4716,6 +4727,7 @@
 
 ## rust 
 
+- [7ritn/VaulTLS](https://github.com/7ritn/VaulTLS) - Selfhostable web app to make managing mTLS certificates a breeze
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
@@ -4820,7 +4832,6 @@
 - [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
 - [rust-av/Av1an](https://github.com/rust-av/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
@@ -4971,6 +4982,7 @@
 
 ## self-hosted 
 
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
@@ -5353,6 +5365,7 @@
 
 ## typescript 
 
+- [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
 - [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - The AI browser automation framework
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
 - [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub) - A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly   through pull requests and issues. This integration allows Claude to analyze repositor
@@ -5469,6 +5482,7 @@
 
 ## vue 
 
+- [7ritn/VaulTLS](https://github.com/7ritn/VaulTLS) - Selfhostable web app to make managing mTLS certificates a breeze
 - [flohoss/gocron](https://github.com/flohoss/gocron) - A go based task scheduler with GUI
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
@@ -5613,7 +5627,6 @@
 - [jcalabro/uscope](https://github.com/jcalabro/uscope) - μscope 🔬
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 
 
 ## License
