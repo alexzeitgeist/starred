@@ -218,7 +218,6 @@
 - [uxmal/reko](https://github.com/uxmal/reko) - Reko is a binary decompiler.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Remove Ads From Various Places Around Windows 11
-- [revenz/FileFlows](https://github.com/revenz/FileFlows) - FileFlows is a file processing application that can execute actions against a file in a tree flow structure.
 - [volodymyrsmirnov/MalwareMultiScan](https://github.com/volodymyrsmirnov/MalwareMultiScan) - Self-hosted VirusTotal / MetaDefender wannabe with API, demo UI and Scanners running in Docker.
 - [jamesbrindle/YTMusicUploader](https://github.com/jamesbrindle/YTMusicUploader) - Automatically upload your music library and playlists to YouTube Music .Net Application. Upload songs to YouTube Music and bulk delete music and playlists from YouTube Music. C#.
 - [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
@@ -454,7 +453,7 @@
 - [bevane/repocheck](https://github.com/bevane/repocheck) - A CLI tool that provides an overview of local git repos with useful info such as last modified date, branch status etc.
 - [joaomagfreitas/zero-monitor](https://github.com/joaomagfreitas/zero-monitor) - (beta) One-click lightweight server monitor tool based on ZeroMQ protocol. Works on Windows, Linux, macOS, Raspberry PI (x32, x64, arm, arm64). Inspired by nezhahq/nezha, zabbix, prometheus. Takes no 
 - [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) - A TUI for reading logs from journald, auditd, file system, Docker containers, Podman and Kubernetes pods for quick viewing, coloring output and filtering with fuzzy find, regex support and timestamp.
-- [crazywolf132/secretfetch](https://github.com/crazywolf132/secretfetch) - Your secrets deserve better than hardcoding. SecretFetch makes secret management a breeze!
+- [binbandit/secretfetch](https://github.com/binbandit/secretfetch) - Your secrets deserve better than hardcoding. SecretFetch makes secret management a breeze!
 - [patrickhener/goshs](https://github.com/patrickhener/goshs) - A SimpleHTTPServer written in Go, enhanced with features and with a nice design - https://goshs.de
 - [acidvegas/elastop](https://github.com/acidvegas/elastop) - HTOP for Elasticsearch
 - [tailscale/setec](https://github.com/tailscale/setec) - A secrets management service that uses Tailscale for access control
@@ -871,7 +870,7 @@
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
-- [docker/app](https://github.com/docker/app) - Make your Docker Compose applications reusable, and share them on Docker Hub
+- [docker-archive-public/docker.app](https://github.com/docker-archive-public/docker.app) - Make your Docker Compose applications reusable, and share them on Docker Hub
 - [khlieng/dispatch](https://github.com/khlieng/dispatch) - Web-based IRC client in Go.
 - [sidkshatriya/dontbug](https://github.com/sidkshatriya/dontbug) - Dontbug is a reverse debugger for PHP
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
@@ -916,6 +915,7 @@
 
 ## HTML 
 
+- [badlogic/lemmy](https://github.com/badlogic/lemmy) - Wrapper around tool using LLMs for agentic workflows
 - [jon6fingrs/ghostboard](https://github.com/jon6fingrs/ghostboard) - a dead simple way to share text between computers via web or cli
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [daduckMSFT/WiFiProfileGenerator](https://github.com/daduckMSFT/WiFiProfileGenerator) - Client-side web-app that will generate Android, iOS and Windows profiles in their raw format
@@ -1006,7 +1006,6 @@
 ## JavaScript 
 
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
-- [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
 - [andycufari/ClaudePoint](https://github.com/andycufari/ClaudePoint) - 
 - [Oct4Pie/toolbridge](https://github.com/Oct4Pie/toolbridge) - Enable tool/function calling for any LLM, in OpenAI and Ollama API formats, adding universal function calling to models without native support. Use local or cloud models with full agent capabilities.
 - [DumbWareio/DumbTerm](https://github.com/DumbWareio/DumbTerm) - A stupidly simple web-based terminal emulator, with common tools and Starship enabled (via Docker)! 🚀
@@ -1478,7 +1477,7 @@
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [thedevdojo/voyager](https://github.com/thedevdojo/voyager) - Voyager - The Missing Laravel Admin
-- [docker/labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
+- [docker-archive-public/docker.labs](https://github.com/docker-archive-public/docker.labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [rialto-php/puphpeteer](https://github.com/rialto-php/puphpeteer) - A Puppeteer bridge for PHP, supporting the entire API.
 - [in2code-de/powermail](https://github.com/in2code-de/powermail) - This is the official repository of the TYPO3 extension powermail! Powermail is a well-known, editor-friendly, powerful and easy mailform extension for TYPO3
 - [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord) - A pure PHP library for reading and writing word processing documents
@@ -1539,9 +1538,10 @@
 
 ## Python 
 
+- [mozilla-ai/any-llm](https://github.com/mozilla-ai/any-llm) - Communicate with an LLM provider using a single interface
+- [ericbuess/claude-code-docs](https://github.com/ericbuess/claude-code-docs) - 
 - [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience
 - [paulrobello/par_cc_usage](https://github.com/paulrobello/par_cc_usage) - Claude Code usage monitor
-- [ericbuess/claude-code-docs](https://github.com/ericbuess/claude-code-docs) - 
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 - [RichardAtCT/claude-code-openai-wrapper](https://github.com/RichardAtCT/claude-code-openai-wrapper) - OpenAI API-compatible wrapper for Claude Code
 - [clemcer/loggifly](https://github.com/clemcer/loggifly) - Get Alerts from your Docker Container Logs
@@ -2359,8 +2359,12 @@
 
 ## TypeScript 
 
-- [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - A Claude Code hook that enforces Test-Driven Development principles by monitoring agent actions in real-time and blocking violations before they occur
+- [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
+- [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source AI agent that brings the power of Grok directly into your terminal.
+- [Pimzino/claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow) - Automated spec-driven workflow for Claude Code. Transform feature ideas into complete implementations through Requirements → Design → Tasks → Implementation.
+- [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
+- [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [Vision-Empower/Claude-Collab](https://github.com/Vision-Empower/Claude-Collab) - The AI collaboration framework that prevents echo chambers - Real-time   multi-agent coordination with enforced diversity and anti-groupthink   protection
@@ -2369,7 +2373,6 @@
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub) - A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly   through pull requests and issues. This integration allows Claude to analyze repositor
 - [possibilities/claude-composer](https://github.com/possibilities/claude-composer) - 
-- [badlogic/lemmy](https://github.com/badlogic/lemmy) - Wrapper around tool using LLMs for agentic workflows
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
