@@ -813,7 +813,7 @@
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers
 - [telecter/cmd-launcher](https://github.com/telecter/cmd-launcher) - A minimal command line Minecraft launcher + API with in-built support for mod loaders.
-- [lfaoro/ssm](https://github.com/lfaoro/ssm) - Streamline SSH connections with a simple Terminal UI
+- [lfaoro/ssm](https://github.com/lfaoro/ssm) - Your terminal SSH connection manager
 - [HenrikBengtsson/brother-ptouch-label-printer-on-linux](https://github.com/HenrikBengtsson/brother-ptouch-label-printer-on-linux) - How to print to a Brother P-touch (PT) label printer on Linux
 - [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Domain Availability Research Tool
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.
@@ -1284,7 +1284,7 @@
 
 ## devops 
 
-- [lfaoro/ssm](https://github.com/lfaoro/ssm) - Streamline SSH connections with a simple Terminal UI
+- [lfaoro/ssm](https://github.com/lfaoro/ssm) - Your terminal SSH connection manager
 - [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn) - KubeVPN offers a Cloud Native Dev Environment that connects to kubernetes cluster network.
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [laktak/rsyncy](https://github.com/laktak/rsyncy) - A status/progress bar for rsync
@@ -1840,7 +1840,7 @@
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
 - [zachlatta/sshtron](https://github.com/zachlatta/sshtron) - $ ssh sshtron.zachlatta.com
 - [telecter/cmd-launcher](https://github.com/telecter/cmd-launcher) - A minimal command line Minecraft launcher + API with in-built support for mod loaders.
-- [lfaoro/ssm](https://github.com/lfaoro/ssm) - Streamline SSH connections with a simple Terminal UI
+- [lfaoro/ssm](https://github.com/lfaoro/ssm) - Your terminal SSH connection manager
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [cohesion-org/deepseek-go](https://github.com/cohesion-org/deepseek-go) - A Deepseek client written for Go supporting R-1, Chat V3, and Coder. Also supports external providers like Azure, OpenRouter and Local Ollama.
 - [Tanq16/backhub](https://github.com/Tanq16/backhub) - Backhub helps maintain backups of multiple GitHub repos as full local mirrors.
@@ -2012,7 +2012,7 @@
 ## golang 
 
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
-- [lfaoro/ssm](https://github.com/lfaoro/ssm) - Streamline SSH connections with a simple Terminal UI
+- [lfaoro/ssm](https://github.com/lfaoro/ssm) - Your terminal SSH connection manager
 - [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Domain Availability Research Tool
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [nil0x42/dnsanity](https://github.com/nil0x42/dnsanity) - High-performance DNS validator using template-based verification
@@ -3446,6 +3446,7 @@
 
 ## others 
 
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
 - [starbased-co/claude-code-proxy](https://github.com/starbased-co/claude-code-proxy) - 
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [contains-studio/agents](https://github.com/contains-studio/agents) - sharing current agents in use
