@@ -305,6 +305,7 @@
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [travisvn/gptree](https://github.com/travisvn/gptree) - A CLI tool to provide LLM context for coding projects by combining project files into a single text file (or clipboard text) with directory tree structure.
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
+- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [lee88688/aider-composer](https://github.com/lee88688/aider-composer) - Aider's VSCode extension, seamlessly integrated into VSCode
 - [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API : )  (Don't need API KEY) (ChatGPT, Claude, DeeepSeek, Grok and more)
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
@@ -372,7 +373,7 @@
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [legendsayantan/ShizuTools](https://github.com/legendsayantan/ShizuTools) - Contains many tools to control android system via shizuku.
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
-- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
 - [mendhak/gpslogger](https://github.com/mendhak/gpslogger) - :satellite: Lightweight GPS Logging Application For Android.
 - [bol-van/bins](https://github.com/bol-van/bins) - precompiled static binaries for android
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
@@ -381,7 +382,7 @@
 - [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client.
 - [androguard/androguard](https://github.com/androguard/androguard) - Reverse engineering and pentesting for Android applications
 - [ax/apk.sh](https://github.com/ax/apk.sh) - Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.
-- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
+- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
 - [user1342/AutoDroid](https://github.com/user1342/AutoDroid) - A tool for automating interactions with Android devices - including ADB, AndroGuard, and Frida interactivity.
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
@@ -866,7 +867,7 @@
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [reemus-dev/gitnr](https://github.com/reemus-dev/gitnr) - Create `.gitignore` files using one or more templates from TopTal, GitHub or your own collection
-- [fioncat/otree](https://github.com/fioncat/otree) - A command line tool to view objects (JSON/YAML/TOML) in TUI tree widget.
+- [fioncat/otree](https://github.com/fioncat/otree) - A command line tool to view objects (JSON/YAML/TOML/XML) in TUI tree widget.
 - [facundoolano/ngtop](https://github.com/facundoolano/ngtop) - nginx access logs analytics
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -1033,7 +1034,7 @@
 
 ## code-review 
 
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍 (For more advanced: check Qodo Merge)
 - [enlightn/enlightn](https://github.com/enlightn/enlightn) - Your performance & security consultant, an artisan command away.
 
 ## coding 
@@ -1346,7 +1347,7 @@
 
 ## discord 
 
-- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
 - [Bios-Marcel/cordless](https://github.com/Bios-Marcel/cordless) - The Discord terminal client you never knew you wanted.
 
@@ -1359,6 +1360,7 @@
 
 ## docker 
 
+- [vuiodev/vuio](https://github.com/vuiodev/vuio) - DLNA Media Server written in Rust, x64/ARM, Linux, Mac, Windows and Docker support
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [clemcer/loggifly](https://github.com/clemcer/loggifly) - Get Alerts from your Docker Container Logs
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
@@ -2328,7 +2330,6 @@
 - [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 - [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui) - Subscribe to a MQTT Topic or publish something quickly from the terminal
-- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [pulkitsharma07/OnlyHumans-Proxy](https://github.com/pulkitsharma07/OnlyHumans-Proxy) - An experimental AntiBot, AntiCrawl reverse proxy for serving simple static content.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
@@ -2603,7 +2604,7 @@
 
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [devoxx/DevoxxGenieIDEAPlugin](https://github.com/devoxx/DevoxxGenieIDEAPlugin) - DevoxxGenie is a plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All, Jan and Llama.cpp) and Cloud based LLMs to help review, test, explain your project code.
-- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
 - [mendhak/gpslogger](https://github.com/mendhak/gpslogger) - :satellite: Lightweight GPS Logging Application For Android.
 - [wttech/gradle-aem-plugin](https://github.com/wttech/gradle-aem-plugin) - Swiss army knife for Adobe Experience Manager related automation. Environment setup & incremental AEM application build which takes seconds, not minutes.
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
@@ -2694,7 +2695,7 @@
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch
-- [fioncat/otree](https://github.com/fioncat/otree) - A command line tool to view objects (JSON/YAML/TOML) in TUI tree widget.
+- [fioncat/otree](https://github.com/fioncat/otree) - A command line tool to view objects (JSON/YAML/TOML/XML) in TUI tree widget.
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
@@ -2718,10 +2719,10 @@
 - [plateaukao/einkbro](https://github.com/plateaukao/einkbro) - A small, fast web browser based on Android WebView. It's tailored for E-Ink devices but also works great on normal android devices.
 - [AndraxDev/speak-gpt](https://github.com/AndraxDev/speak-gpt) - Your personal voice assistant based on OpenAI ChatGPT.
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Keyguard is an alternative client for the Bitwarden® platform, created to provide the best user experience possible.
-- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
 - [wgtunnel/wgtunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling.
 - [wttech/gradle-aem-plugin](https://github.com/wttech/gradle-aem-plugin) - Swiss army knife for Adobe Experience Manager related automation. Environment setup & incremental AEM application build which takes seconds, not minutes.
-- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
+- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
 - [amitshekhariitbhu/android-developer-roadmap](https://github.com/amitshekhariitbhu/android-developer-roadmap) - Android Developer Roadmap - A complete roadmap to learn Android App Development
 - [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
@@ -2857,6 +2858,7 @@
 
 ## linux 
 
+- [vuiodev/vuio](https://github.com/vuiodev/vuio) - DLNA Media Server written in Rust, x64/ARM, Linux, Mac, Windows and Docker support
 - [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience
 - [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Free & Open source macOS Cursors.
 - [HenrikBengtsson/brother-ptouch-label-printer-on-linux](https://github.com/HenrikBengtsson/brother-ptouch-label-printer-on-linux) - How to print to a Brother P-touch (PT) label printer on Linux
@@ -3108,6 +3110,7 @@
 
 ## macos 
 
+- [vuiodev/vuio](https://github.com/vuiodev/vuio) - DLNA Media Server written in Rust, x64/ARM, Linux, Mac, Windows and Docker support
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [OpenRakis/Spice86](https://github.com/OpenRakis/Spice86) - Reverse engineer and rewrite real mode DOS programs!
 - [stigoleg/keep-alive](https://github.com/stigoleg/keep-alive) - Keep-Alive is a lightweight, cross-platform utility to prevent your system from sleeping. Perfect for uninterrupted downloads, active connections, or long-running tasks.
@@ -3195,7 +3198,7 @@
 
 ## material-design 
 
-- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
+- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -3238,7 +3241,7 @@
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
 - [joaomagfreitas/zero-monitor](https://github.com/joaomagfreitas/zero-monitor) - (beta) One-click lightweight server monitor tool based on ZeroMQ protocol. Works on Windows, Linux, macOS, Raspberry PI (x32, x64, arm, arm64). Inspired by nezhahq/nezha, zabbix, prometheus. Takes no 
 - [acidvegas/elastop](https://github.com/acidvegas/elastop) - HTOP for Elasticsearch
-- [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
+- [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [blacknon/hwatch](https://github.com/blacknon/hwatch) - A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
 - [Owloops/updo](https://github.com/Owloops/updo) - Uptime monitoring CLI tool with alerting and advanced settings
@@ -3401,6 +3404,7 @@
 
 ## open-source 
 
+- [vuiodev/vuio](https://github.com/vuiodev/vuio) - DLNA Media Server written in Rust, x64/ARM, Linux, Mac, Windows and Docker support
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
 - [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation
@@ -3446,7 +3450,7 @@
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍 (For more advanced: check Qodo Merge)
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlight
@@ -4850,6 +4854,7 @@
 
 ## rust 
 
+- [vuiodev/vuio](https://github.com/vuiodev/vuio) - DLNA Media Server written in Rust, x64/ARM, Linux, Mac, Windows and Docker support
 - [luis-ota/swaptop](https://github.com/luis-ota/swaptop) - swap usage monitor written in rust
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative.
 - [7ritn/VaulTLS](https://github.com/7ritn/VaulTLS) - Selfhostable web app to make managing mTLS certificates a breeze
@@ -5131,7 +5136,7 @@
 - [rodyherrera/Quantum](https://github.com/rodyherrera/Quantum) - 🚀 Hackable & Self-hosted Open-Source alternative to Vercel, Heroku, Netlify, etc. All your applications, just in one place. Develop and deploy with your favorite tools, and enjoy continuous deployment
 - [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
 - [TimWitzdam/GitSave](https://github.com/TimWitzdam/GitSave) - GitSave is a self-hosted and open-source application that backs up your Git repositories.
-- [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
+- [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
 - [maelgangloff/domain-watchdog](https://github.com/maelgangloff/domain-watchdog) - An app that uses RDAP to collect publicly available info about domains, track their history, and purchase them
@@ -5178,6 +5183,7 @@
 
 ## server 
 
+- [vuiodev/vuio](https://github.com/vuiodev/vuio) - DLNA Media Server written in Rust, x64/ARM, Linux, Mac, Windows and Docker support
 - [dvershinin/gixy](https://github.com/dvershinin/gixy) - NGINX configuration static analyzer
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
@@ -5683,6 +5689,7 @@
 
 ## windows 
 
+- [vuiodev/vuio](https://github.com/vuiodev/vuio) - DLNA Media Server written in Rust, x64/ARM, Linux, Mac, Windows and Docker support
 - [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Free & Open source macOS Cursors.
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
 - [OpenRakis/Spice86](https://github.com/OpenRakis/Spice86) - Reverse engineer and rewrite real mode DOS programs!
@@ -5756,6 +5763,7 @@
 ## xml 
 
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
+- [fioncat/otree](https://github.com/fioncat/otree) - A command line tool to view objects (JSON/YAML/TOML/XML) in TUI tree widget.
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
