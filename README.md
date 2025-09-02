@@ -387,12 +387,14 @@
 
 ## Go 
 
+- [ubiquiti-community/unifi-api](https://github.com/ubiquiti-community/unifi-api) - OpenAPI Definition for Unifi Controller API
 - [Deep-ai-inc/ch.at](https://github.com/Deep-ai-inc/ch.at) - Universal Basic Chat
 - [berbyte/sinkzone](https://github.com/berbyte/sinkzone) - Block everything. Allow only what matters. A DNS tool for productivity, focus, and child safety. Allowlist-only internet for distraction-free work.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [emilburzo/pushbulleter](https://github.com/emilburzo/pushbulleter) - A modern Go-based Pushbullet client specifically designed for Linux with XFCE desktop environment.
 - [nmakod/codecontext](https://github.com/nmakod/codecontext) - 
 - [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers
@@ -1163,6 +1165,7 @@
 - [wttech/gradle-aem-plugin](https://github.com/wttech/gradle-aem-plugin) - Swiss army knife for Adobe Experience Manager related automation. Environment setup & incremental AEM application build which takes seconds, not minutes.
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 - [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template) - 👋🧩Template repository for ReVanced Patches
+- [JakeWharton/gitout](https://github.com/JakeWharton/gitout) - A command-line tool and Docker image to automatically backup Git repositories from GitHub or anywhere
 - [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
 
 ## Less 
@@ -1347,7 +1350,7 @@
 ## PHP 
 
 - [laravel/boost](https://github.com/laravel/boost) - Laravel-focused MCP server for augmenting your AI powered local development experience.
-- [Automattic/wordpress-mcp](https://github.com/Automattic/wordpress-mcp) - Make your WordPress site into a simple MCP server, exposing functionality to LLMs and AI agents.
+- [Automattic/wordpress-mcp](https://github.com/Automattic/wordpress-mcp) - WordPress MCP — This repository will be deprecated as stable releases of mcp-adapter become available. Please use https://github.com/WordPress/mcp-adapter for ongoing development and support.
 - [deepseek-php/deepseek-laravel](https://github.com/deepseek-php/deepseek-laravel) - Laravel wrapper for Deepseek PHP client, to seamless deepseek API integration with laravel applications.
 - [deepseek-php/deepseek-php-client](https://github.com/deepseek-php/deepseek-php-client) - ⚡️ A robust and developer-friendly, and community-driven PHP Client that provides a clean, extensible interface for integrating with the DeepSeek AI API.
 - [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib) - PHP Secure Communications Library
@@ -1365,7 +1368,7 @@
 - [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
 - [openai-php/laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
 - [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - h-m-m, or Hackers Mind Map, is a simple, fast, keyboard-centric terminal-based tool for working with mind maps.
-- [BinarCode/laravel-restify](https://github.com/BinarCode/laravel-restify) - The fastest way to make a powerful JSON:API compatible Rest API with Laravel.
+- [BinarCode/laravel-restify](https://github.com/BinarCode/laravel-restify) - Laravel API for Ai Agents and humans.
 - [DaveLiddament/sarb](https://github.com/DaveLiddament/sarb) - Static Analysis Results Baseliner
 - [aimeos/map](https://github.com/aimeos/map) - PHP arrays and collections made easy
 - [RobiNN1/phpCacheAdmin](https://github.com/RobiNN1/phpCacheAdmin) - Web GUI for managing Redis, Memcached, APCu, OPCache and Realpath with data management.
@@ -2084,7 +2087,6 @@
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [gsquire/topngx](https://github.com/gsquire/topngx) - top for NGINX
 - [DNSCrypt/doh-server](https://github.com/DNSCrypt/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
-- [JakeWharton/gitout](https://github.com/JakeWharton/gitout) - A command-line tool and Docker image to automatically backup Git repositories from GitHub or anywhere
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
 - [rust-av/Av1an](https://github.com/rust-av/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
@@ -2389,7 +2391,6 @@
 - [Pimzino/claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow) - Automated workflows for Claude Code. Features spec-driven development for new features (Requirements → Design → Tasks → Implementation) and streamlined bug fix workflow for quick issue resolution (Rep
 - [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
