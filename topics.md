@@ -36,6 +36,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [cloud](#cloud)
 - [cms](#cms)
 - [code](#code)
 - [code-quality](#code-quality)
@@ -238,6 +239,7 @@
 - [termux](#termux)
 - [terraform](#terraform)
 - [testing](#testing)
+- [text-to-speech](#text-to-speech)
 - [trading](#trading)
 - [twitter](#twitter)
 - [typescript](#typescript)
@@ -822,6 +824,7 @@
 
 ## cli 
 
+- [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Text-to-Speech
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [Owloops/claude-powerline](https://github.com/Owloops/claude-powerline) - Beautiful vim-style powerline statusline for Claude Code
 - [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools) - Collection of practical productivity tools for Claude Code
@@ -1014,6 +1017,27 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+
+## cloud 
+
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
+- [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
+- [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) - An android cloud file manager, powered by rclone. Visit https://roundsync.com for more information!
+- [rodyherrera/Quantum](https://github.com/rodyherrera/Quantum) - 🚀 Hackable & Self-hosted Open-Source alternative to Vercel, Heroku, Netlify, etc. All your applications, just in one place. Develop and deploy with your favorite tools, and enjoy continuous deployment
+- [dustin/gopro](https://github.com/dustin/gopro) - Tools for making the most out of GoPro Plus.
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [seashell/drago](https://github.com/seashell/drago) - ☁️ Securely connect anything with WireGuard® and manage all your networks from a single place.
+- [claffin/cloudproxy](https://github.com/claffin/cloudproxy) - Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+- [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
+- [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
+- [sdslabs/gasper](https://github.com/sdslabs/gasper) - Your Cloud in a Binary
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+- [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## cms 
 
@@ -1451,7 +1475,7 @@
 - [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution featuring a user-friendly web interface for easy device management and connectivity.
 - [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
-- [exaco/laravel-octane-dockerfile](https://github.com/exaco/laravel-octane-dockerfile) - Production-ready Docker setup for Laravel Octane (FrankenPHP, Swoole, RoadRunner) powered web services and microservices. Done right.
+- [exaco/laravel-docktane](https://github.com/exaco/laravel-docktane) - Production-ready Docker setup for Laravel Octane (FrankenPHP, Swoole, RoadRunner) powered web services and microservices. Done right.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [theomessin/laravel-devcontainer](https://github.com/theomessin/laravel-devcontainer) - 🐋 Fully-Dockerised Laravel development in Visual Studio Code
 - [filiparag/hetzner_ddns](https://github.com/filiparag/hetzner_ddns) - Hetzner Dynamic DNS (DDNS, DynDNS) daemon
@@ -1895,7 +1919,7 @@
 - [wneessen/go-mail](https://github.com/wneessen/go-mail) - 📧 Easy to use, yet comprehensive library for sending mails with Go
 - [connet-dev/connet](https://github.com/connet-dev/connet) - A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok
 - [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
-- [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) - A TUI for reading logs from journald, auditd, file system, Docker (including Swarm) containers, Podman and Kubernetes pods with support for output coloring and multiple filtering modes.
+- [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) - A TUI for reading logs from journald, auditd, file system, Docker containers, Compose stacks, Podman and Kubernetes pods with support for output coloring and multiple filtering modes.
 - [patrickhener/goshs](https://github.com/patrickhener/goshs) - A SimpleHTTPServer written in Go, enhanced with features and with a nice design - https://goshs.de
 - [tailscale/setec](https://github.com/tailscale/setec) - A secrets management service that uses Tailscale for access control
 - [JFryy/qq](https://github.com/JFryy/qq) - jq, but with many interoperable configuration format transcodings and interactive querying.
@@ -2355,6 +2379,7 @@
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 - [corcel/corcel](https://github.com/corcel/corcel) - Use WordPress backend with Laravel or any PHP application
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
@@ -2461,6 +2486,7 @@
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [thephpleague/commonmark](https://github.com/thephpleague/commonmark) - Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 - [beyondcode/laravel-query-detector](https://github.com/beyondcode/laravel-query-detector) - Laravel N+1 Query Detector
+- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [georgringer/news](https://github.com/georgringer/news) - TYPO3 Extension news
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
@@ -2520,7 +2546,7 @@
 
 ## http 
 
-- [SenseUnit/dumbproxy](https://github.com/SenseUnit/dumbproxy) - Simple, scriptable, secure forward proxy
+- [SenseUnit/dumbproxy](https://github.com/SenseUnit/dumbproxy) - Simple, scriptable, secure HTTP/SOCKS5 forward proxy
 - [google/go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go.
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
@@ -2548,7 +2574,7 @@
 
 ## https 
 
-- [SenseUnit/dumbproxy](https://github.com/SenseUnit/dumbproxy) - Simple, scriptable, secure forward proxy
+- [SenseUnit/dumbproxy](https://github.com/SenseUnit/dumbproxy) - Simple, scriptable, secure HTTP/SOCKS5 forward proxy
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [unblocked/chissl](https://github.com/unblocked/chissl) - A tool to create HTTPS reverse tunnels
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for nginx
@@ -2829,7 +2855,7 @@
 - [kitloong/laravel-migrations-generator](https://github.com/kitloong/laravel-migrations-generator) - Laravel Migrations Generator: Automatically generate your migrations from an existing database schema.
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
-- [exaco/laravel-octane-dockerfile](https://github.com/exaco/laravel-octane-dockerfile) - Production-ready Docker setup for Laravel Octane (FrankenPHP, Swoole, RoadRunner) powered web services and microservices. Done right.
+- [exaco/laravel-docktane](https://github.com/exaco/laravel-docktane) - Production-ready Docker setup for Laravel Octane (FrankenPHP, Swoole, RoadRunner) powered web services and microservices. Done right.
 - [theomessin/laravel-devcontainer](https://github.com/theomessin/laravel-devcontainer) - 🐋 Fully-Dockerised Laravel development in Visual Studio Code
 - [enlightn/enlightn](https://github.com/enlightn/enlightn) - Your performance & security consultant, an artisan command away.
 - [msztorc/laravel-env](https://github.com/msztorc/laravel-env) - Managing Laravel environment variables from the CLI
@@ -3514,6 +3540,7 @@
 
 ## others 
 
+- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [kagisearch/ask](https://github.com/kagisearch/ask) - A lightweight bash script for querying AI models via the OpenRouter API, optimized for direct, executable output.
 - [mlapaglia/Borgitory](https://github.com/mlapaglia/Borgitory) - Web UI for managing BorgBackup repositories with scheduling, monitoring, and cloud sync
 - [yayasoumah/pocket-server](https://github.com/yayasoumah/pocket-server) - An OS for your agents, built for your pocket.
@@ -3563,7 +3590,7 @@
 - [ChuckPa/DBRepair](https://github.com/ChuckPa/DBRepair) - Database repair utility for Plex Media Server databases
 - [goforj/godump](https://github.com/goforj/godump) - A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper.
 - [andycufari/ClaudePoint](https://github.com/andycufari/ClaudePoint) - 
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [savedra1/clipse](https://github.com/savedra1/clipse) - Configurable TUI clipboard manager for Unix
 - [gelbphoenix/autocaliweb](https://github.com/gelbphoenix/autocaliweb) - :books: Web managing platform for eBooks, eComics and PDFs
@@ -3927,7 +3954,6 @@
 - [Cloudef/bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
 - [pentacent/keila](https://github.com/pentacent/keila) - Open Source Newsletter Tool.
 - [YoRyan/mailrise](https://github.com/YoRyan/mailrise) - An SMTP gateway for Apprise notifications.
-- [claffin/cloudproxy](https://github.com/claffin/cloudproxy) - Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
 - [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
 - [detectify/page-fetch](https://github.com/detectify/page-fetch) - Fetch web pages using headless Chrome, storing all fetched resources including JavaScript files. Run arbitrary JavaScript on many web pages and see the returned values
@@ -5408,6 +5434,7 @@
 
 ## terminal 
 
+- [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Text-to-Speech
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [paulrobello/par_cc_usage](https://github.com/paulrobello/par_cc_usage) - Claude Code usage monitor
 - [mkasberg/ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu) - Ubuntu/Debian (.deb) packages for Ghostty
@@ -5532,6 +5559,10 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [rialto-php/puphpeteer](https://github.com/rialto-php/puphpeteer) - A Puppeteer bridge for PHP, supporting the entire API.
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
+
+## text-to-speech 
+
+- [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Text-to-Speech
 
 ## trading 
 
