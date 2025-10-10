@@ -870,7 +870,7 @@
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [dreadl0ck/netcap](https://github.com/dreadl0ck/netcap) - A framework for secure and scalable network traffic analysis - https://netcap.io
 - [microsoft/ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
-- [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers.
+- [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is an experimental/abandoned GPU rendered terminal emulator designed for tiling window managers.
 - [buzzfeed/sso](https://github.com/buzzfeed/sso) - sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [bpicode/fritzctl](https://github.com/bpicode/fritzctl) - A lightweight, easy to use console client for the AVM FRITZ!Box Home Automation.
@@ -1134,7 +1134,7 @@
 - [Oefenweb/ansible-postfix](https://github.com/Oefenweb/ansible-postfix) - Ansible role to set up postfix in Debian-like systems
 - [Freekers/ansible-adguard](https://github.com/Freekers/ansible-adguard) - Ansible playbook to setup AdGuard Home with Unbound, including DoH, DoT & Let's Encrypt, based on Docker
 - [florianutz/Ubuntu1604-CIS](https://github.com/florianutz/Ubuntu1604-CIS) - Ubuntu CIS Hardening Ansible Role
-- [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.
+- [githubixx/ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora, openSUSE Leap and some Redhat ES variants.
 - [githubixx/ansible-role-harden-linux](https://github.com/githubixx/ansible-role-harden-linux) - Ansible role for hardening Linux
 - [openstack/ansible-hardening](https://github.com/openstack/ansible-hardening) - Ansible role for security hardening. Mirror of code maintained at opendev.org.
 - [florianutz/Ubuntu1804-CIS](https://github.com/florianutz/Ubuntu1804-CIS) - Ubuntu CIS Hardening Ansible Role
@@ -2394,6 +2394,7 @@
 
 ## TypeScript 
 
+- [joseairosa/recall](https://github.com/joseairosa/recall) - Give Claude perfect recall - Redis-powered persistent memory for LLMs
 - [yayasoumah/pocket-server](https://github.com/yayasoumah/pocket-server) - An OS for your agents, built for your pocket.
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [LukeGus/Termix](https://github.com/LukeGus/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
