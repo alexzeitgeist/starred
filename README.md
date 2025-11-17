@@ -393,6 +393,7 @@
 
 ## Go 
 
+- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
@@ -655,7 +656,7 @@
 - [v-byte-cpu/sx](https://github.com/v-byte-cpu/sx) - :vulcan_salute: Fast, modern, easy-to-use network scanner
 - [Snawoot/opera-proxy](https://github.com/Snawoot/opera-proxy) - Standalone client for proxies of Opera VPN
 - [irevenko/octotui](https://github.com/irevenko/octotui) - 🐙🐱🖥️ GitHub stats in your terminal
-- [Elbandi/proxmox-spice-quickconnect](https://github.com/Elbandi/proxmox-spice-quickconnect) - Proxmox spice quickconnect
+- [elbandi/proxmox-spice-quickconnect](https://github.com/elbandi/proxmox-spice-quickconnect) - Proxmox spice quickconnect
 - [adelolmo/hd-idle](https://github.com/adelolmo/hd-idle) - Hard Disk Idle Spin-Down Utility
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 - [slok/agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool
@@ -934,6 +935,7 @@
 
 ## HTML 
 
+- [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist) - An up-to-date blacklist of phishing and scam domains, automatically updated by the PhishDestroy system. A reliable threat intelligence source for integration into security systems.
 - [jon6fingrs/ghostboard](https://github.com/jon6fingrs/ghostboard) - a dead simple way to share text between computers via web or cli
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [daduckMSFT/WiFiProfileGenerator](https://github.com/daduckMSFT/WiFiProfileGenerator) - Client-side web-app that will generate Android, iOS and Windows profiles in their raw format
@@ -981,6 +983,7 @@
 
 ## Java 
 
+- [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
@@ -1162,6 +1165,7 @@
 
 ## Kotlin 
 
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [carlrobertoh/ProxyAI](https://github.com/carlrobertoh/ProxyAI) - The leading open-source AI copilot for JetBrains. Connect to any model in any environment, and customize your coding experience in any way you like.
 - [Stream29/ProxyAsLocalModel](https://github.com/Stream29/ProxyAsLocalModel) - Proxy remote LLM API as Ollama and LM Studio, for using them in JetBrains AI Assistant
 - [plateaukao/einkbro](https://github.com/plateaukao/einkbro) - A small, fast web browser based on Android WebView. It's tailored for E-Ink devices but also works great on normal android devices.
@@ -1262,7 +1266,6 @@
 - [hongtat/smartthings-capabilities](https://github.com/hongtat/smartthings-capabilities) - SmartThings Capabilities
 - [willccbb/claude-deep-research](https://github.com/willccbb/claude-deep-research) - Claude Deep Research config for Claude Code.
 - [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release) - Feedback on GitHub Copilot Chat UX in Visual Studio Code.
-- [revenate/actionate](https://github.com/revenate/actionate) - GitHub Actions for JetBrains IDEs
 - [bitsper2nd/merge-monokai-theme](https://github.com/bitsper2nd/merge-monokai-theme) - Monokai theme for Sublime Merge.
 - [techcow2/cursor-agent-tracking](https://github.com/techcow2/cursor-agent-tracking) - A repository that provides a structured system for maintaining context and tracking changes in Cursor's AGENT mode conversations through template files, enabling better continuity and organization of 
 - [Olshansk/postgres_for_everything](https://github.com/Olshansk/postgres_for_everything) - How to reduce complexity and move faster? Just Postgres for everything.
@@ -1274,7 +1277,7 @@
 - [microsoft/prompts-for-edu](https://github.com/microsoft/prompts-for-edu) - 
 - [mcinglis/c-style](https://github.com/mcinglis/c-style) - My favorite C programming practices.
 - [Hoo-Cognito/Miyoo-Repo](https://github.com/Hoo-Cognito/Miyoo-Repo) - A fast clickity clicky Repository of all things Miyoo
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - Newsletter to help busy software engineers become good at system design 👇
+- [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) - Newsletter to help busy software engineers become good at system design 👇
 - [bpc-clone/bpc_chrome_support](https://github.com/bpc-clone/bpc_chrome_support) - 
 - [kevin9985/notification-infrastructure-providers](https://github.com/kevin9985/notification-infrastructure-providers) - List of notification infrastructure providers for developers
 - [zhaodice/proxmox-ve-anti-detection](https://github.com/zhaodice/proxmox-ve-anti-detection) - A patch to hide PVE itself
@@ -1375,7 +1378,7 @@
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions
 - [imliam/cpx](https://github.com/imliam/cpx) - Run any command from any composer package, even if it's not installed in your project.
 - [hampel/xenforo-test-framework](https://github.com/hampel/xenforo-test-framework) - 
-- [maelgangloff/domain-watchdog](https://github.com/maelgangloff/domain-watchdog) - An app that uses RDAP to collect publicly available info about domains, track their history, and purchase them
+- [maelgangloff/domain-watchdog](https://github.com/maelgangloff/domain-watchdog) - 🔍 An app that monitors domain names using RDAP, tracks their history, and helps you acquire them when they expire
 - [corcel/corcel](https://github.com/corcel/corcel) - Use WordPress backend with Laravel or any PHP application
 - [laravel/reverb](https://github.com/laravel/reverb) - Laravel Reverb provides a real-time WebSocket communication backend for Laravel applications.
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - The PHP framework that gets out of your way
@@ -1564,11 +1567,12 @@
 
 ## Python 
 
+- [mvfc/backvault](https://github.com/mvfc/backvault) - Docker container to backup Bitwarden/Vaultwarden vaults to password protected json files
+- [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent) - A minimal yet professional single agent demo project that showcases the core execution pipeline and production-grade features of agents.
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
-- [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Text-to-Speech
+- [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Audiobook-Quality Text-to-Speech — Supports EPUB, PDF, DOC, DOCX, HTML, RTF, TXT, and MD.
 - [mlapaglia/Borgitory](https://github.com/mlapaglia/Borgitory) - Web UI for managing BorgBackup repositories with scheduling, monitoring, and cloud sync
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
-- [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist) - An up-to-date blacklist of phishing and scam domains, automatically updated by the PhishDestroy system. A reliable threat intelligence source for integration into security systems.
 - [starbased-co/ccproxy](https://github.com/starbased-co/ccproxy) - Customize and Extend Claude Code with ccproxy: Route to OpenAI, Gemini, Qwen, OpenRouter, and Ollama. Gain full control of your Claude Max/Pro Subscription with your own router.
 - [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools) - Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.
 - [mozilla-ai/any-llm](https://github.com/mozilla-ai/any-llm) - Communicate with an LLM provider using a single interface
@@ -1623,7 +1627,6 @@
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!
 - [suwi-lanji/auto-commit](https://github.com/suwi-lanji/auto-commit) - Have GEMINI stage and write commit for you
 - [Raskoll2/LLMcalc](https://github.com/Raskoll2/LLMcalc) - A tool to determine whether or not your PC can run a given LLM
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [Doriandarko/RAT-retrieval-augmented-thinking](https://github.com/Doriandarko/RAT-retrieval-augmented-thinking) - RAT is a powerful tool that improves AI responses by leveraging DeepSeek's reasoning capabilities to guide other models through a structured thinking process.
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
@@ -1705,7 +1708,7 @@
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) - 
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
@@ -1907,7 +1910,6 @@
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [darkbitio/k8s-mirror](https://github.com/darkbitio/k8s-mirror) - Creates a local mirror of a Kubernetes cluster in a docker container to support offline reviewing
-- [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker!
 - [matt-harvey/git_curate](https://github.com/matt-harvey/git_curate) - ✂️ Peruse and delete git branches ergonomically
 - [EugenMayer/docker-sync](https://github.com/EugenMayer/docker-sync) - Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/*Linux
 - [ninoseki/ukemi](https://github.com/ninoseki/ukemi) - A CLI tool for querying passive DNS services
@@ -1937,7 +1939,7 @@
 - [luis-ota/swaptop](https://github.com/luis-ota/swaptop) - swap usage monitor written in rust
 - [bartolli/codanna](https://github.com/bartolli/codanna) - 
 - [Xerxes-2/clewdr](https://github.com/Xerxes-2/clewdr) - High Performance LLM Reverse Proxy
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x Faster than MinIO for 4K Small Files.  RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such
 - [7ritn/VaulTLS](https://github.com/7ritn/VaulTLS) - Selfhostable web app to make managing mTLS certificates a breeze
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
@@ -1945,7 +1947,7 @@
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User or AI-Generated Code
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - self-hosted plaform for secure execution of untrusted user or AI-generated code
 - [antinomyhq/forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [al13n321/nnd](https://github.com/al13n321/nnd) - A debugger for Linux
 - [probelabs/probe](https://github.com/probelabs/probe) - Probe is an AI-friendly, fully local, semantic code search engine which which works with for large codebases. The final missing building block for next generation of AI coding tools.
@@ -2157,6 +2159,7 @@
 
 ## SCSS 
 
+- [revenate/actionate](https://github.com/revenate/actionate) - GitHub Actions for JetBrains IDEs
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ## Shell 
@@ -2270,6 +2273,7 @@
 - [FarrowStrange/hetzner-api-dyndns](https://github.com/FarrowStrange/hetzner-api-dyndns) - A small script to dynamically update DNS records using the Hetzner DNS-API.
 - [0xC45/homelab-setup](https://github.com/0xC45/homelab-setup) - 
 - [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and isync with a simple interface and safe passwords
+- [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker!
 - [frameable/aviary.sh](https://github.com/frameable/aviary.sh) - Minimal distributed configuration management in bash
 - [Checksum/critic.sh](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
 - [greizgh/vaultwarden-debian](https://github.com/greizgh/vaultwarden-debian) - vaultwarden_rs packaging tool
@@ -2431,7 +2435,7 @@
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard®
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [Vision-Empower/Claude-Collab](https://github.com/Vision-Empower/Claude-Collab) - The AI collaboration framework that prevents echo chambers - Real-time   multi-agent coordination with enforced diversity and anti-groupthink   protection
 - [sagekit/magnitude](https://github.com/sagekit/magnitude) - Open-source, vision-first browser agent
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -2457,9 +2461,10 @@
 - [hotovo/aider-desk](https://github.com/hotovo/aider-desk) - Desktop application for Aider AI assistant and much more
 - [11notes/docker-immich-share-proxy](https://github.com/11notes/docker-immich-share-proxy) - Expose your Immich shares publicly without exposing Immich!
 - [kleneway/awesome-cursor-mpc-server](https://github.com/kleneway/awesome-cursor-mpc-server) - Example of an MCP server with custom tools that can be called directly from cursor
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
-- [AirswitchAsa/icloudpd-web](https://github.com/AirswitchAsa/icloudpd-web) - 
+- [AirswitchAsa/icloudpd-web](https://github.com/AirswitchAsa/icloudpd-web) - icloudpd-web is a self-hosting wrapper of @icloud-photos-downloader/icloud_photos_downloader with a web client.
 - [jellydn/zed-101-setup](https://github.com/jellydn/zed-101-setup) - Your ultimate guide to setting up Zed with Vim mode, tailored settings, and key bindings for a seamless coding experience
 - [cyberagiinc/DevDocs](https://github.com/cyberagiinc/DevDocs) - Completely free, private, UI based Tech Documentation MCP server. Designed for coders and software developers in mind. Easily integrate into Cursor, Windsurf, Cline, Roo Code, Claude Desktop App
 - [composecraft/composecraft](https://github.com/composecraft/composecraft) - 
@@ -2470,7 +2475,7 @@
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 - [bmewburn/vscode-intelephense](https://github.com/bmewburn/vscode-intelephense) - PHP intellisense for Visual Studio Code
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet ⚡
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet
 - [lee88688/aider-composer](https://github.com/lee88688/aider-composer) - Aider's VSCode extension, seamlessly integrated into VSCode
 - [watzon/postpilot](https://github.com/watzon/postpilot) - Local SMTP testing made easy
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
@@ -2498,7 +2503,7 @@
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [kamranahmedse/local-ses](https://github.com/kamranahmedse/local-ses) - Trap and test AWS SES emails locally
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
-- [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
+- [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) - A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
