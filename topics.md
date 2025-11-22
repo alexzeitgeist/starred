@@ -294,6 +294,7 @@
 - [probelabs/probe](https://github.com/probelabs/probe) - Probe is an AI-friendly, fully local, semantic code search engine which which works with for large codebases. The final missing building block for next generation of AI coding tools.
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) - A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [lmnr-ai/index](https://github.com/lmnr-ai/index) - The SOTA Open-Source Browser Agent for autonomously performing complex tasks on the web
 - [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) - Develop software autonomously.
@@ -1206,6 +1207,7 @@
 
 - [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist) - An up-to-date blacklist of phishing and scam domains, automatically updated by the PhishDestroy system. A reliable threat intelligence source for integration into security systems.
 - [sp34rh34d/Smasher](https://github.com/sp34rh34d/Smasher) - Forensic tool to analyze eml files
+- [maelgangloff/domain-watchdog](https://github.com/maelgangloff/domain-watchdog) - 🔍 An app that monitors domain names using RDAP, tracks their history, and helps you acquire them when they expire
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [ansible-lockdown/UBUNTU20-CIS](https://github.com/ansible-lockdown/UBUNTU20-CIS) - Automated CIS Benchmark Compliance Remediation for Ubuntu 20 with Ansible
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -3673,7 +3675,7 @@
 - [Oct4Pie/toolbridge](https://github.com/Oct4Pie/toolbridge) - Enable tool/function calling for any LLM, in OpenAI and Ollama API formats, adding universal function calling to models without native support. Use local or cloud models with full agent capabilities.
 - [cosock/lustre](https://github.com/cosock/lustre) - Websockets for cosock
 - [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Debian-based Linux distributions
-- [uint23/sxwm](https://github.com/uint23/sxwm) - simple feature-rich dynamic tiling window manager
+- [uint23/sxwm](https://github.com/uint23/sxwm) - a simple feature-rich dynamic tiling window manager
 - [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, wi
 - [ymichael/open-codex](https://github.com/ymichael/open-codex) - Lightweight coding agent that runs in your terminal
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
