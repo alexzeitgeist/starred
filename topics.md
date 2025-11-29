@@ -3727,6 +3727,7 @@
 
 ## others 
 
+- [afiodorov/hn-search](https://github.com/afiodorov/hn-search) - Vector search over Hacker News comments and RAG pipeline with a simple web ui
 - [HayesBarber/spaced-repetition-learning](https://github.com/HayesBarber/spaced-repetition-learning) - 
 - [Hydra0xetc/NeovimConfig](https://github.com/Hydra0xetc/NeovimConfig) - 
 - [sahaj-b/tymr](https://github.com/sahaj-b/tymr) - 
