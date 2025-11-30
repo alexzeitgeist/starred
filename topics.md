@@ -414,6 +414,7 @@
 
 ## android 
 
+- [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) - Frida scripts to rewrite mobile applications at runtime to directly MitM all HTTPS traffic
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
@@ -2819,6 +2820,7 @@
 
 ## java 
 
+- [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [devoxx/DevoxxGenieIDEAPlugin](https://github.com/devoxx/DevoxxGenieIDEAPlugin) - DevoxxGenie is a plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All, Jan and Llama.cpp) and Cloud based LLMs to help review, test, explain your project code.
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
@@ -3727,6 +3729,7 @@
 
 ## others 
 
+- [zippoxer/recall](https://github.com/zippoxer/recall) - Full-text search and resume for Claude/Codex conversations
 - [afiodorov/hn-search](https://github.com/afiodorov/hn-search) - Vector search over Hacker News comments and RAG pipeline with a simple web ui
 - [HayesBarber/spaced-repetition-learning](https://github.com/HayesBarber/spaced-repetition-learning) - 
 - [Hydra0xetc/NeovimConfig](https://github.com/Hydra0xetc/NeovimConfig) - 
