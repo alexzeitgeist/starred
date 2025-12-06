@@ -210,6 +210,7 @@
 - [pytorch](#pytorch)
 - [qt](#qt)
 - [r](#r)
+- [rag](#rag)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
@@ -443,7 +444,7 @@
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
 - [mendhak/gpslogger](https://github.com/mendhak/gpslogger) - :satellite: Lightweight GPS Logging Application For Android.
 - [bol-van/bins](https://github.com/bol-van/bins) - precompiled static binaries for android
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
 - [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A feature-rich Hacker News client.
 - [wgtunnel/wgtunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
 - [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client.
@@ -468,7 +469,7 @@
 - [amitshekhariitbhu/android-developer-roadmap](https://github.com/amitshekhariitbhu/android-developer-roadmap) - Android Developer Roadmap - A complete roadmap to learn Android App Development
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
-- [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.
+- [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smal
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [ViRb3/TrustMeAlready](https://github.com/ViRb3/TrustMeAlready) - 🔓 Disable SSL verification and pinning on Android, system-wide
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
@@ -881,6 +882,7 @@
 
 ## cli 
 
+- [frankdierolf/whis](https://github.com/frankdierolf/whis) - Voice-to-text CLI for terminal users
 - [harehare/mq](https://github.com/harehare/mq) - jq-like command-line tool for markdown processing
 - [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Audiobook-Quality Text-to-Speech — Supports EPUB, PDF, DOC, DOCX, HTML, RTF, TXT, and MD.
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
@@ -1865,7 +1867,7 @@
 ## flutter 
 
 - [edde746/plezy](https://github.com/edde746/plezy) - Modern cross-platform Plex client built with Flutter
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
 - [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A feature-rich Hacker News client.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client.
@@ -2289,7 +2291,7 @@
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
 - [cvilsmeier/go-sqlite-bench](https://github.com/cvilsmeier/go-sqlite-bench) - Benchmarks for Golang SQLite Drivers
@@ -2597,7 +2599,7 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [th3r00t/pyShelf](https://github.com/th3r00t/pyShelf) - A simple terminal based ebook server
 - [blackjack4494/youtube-dlc](https://github.com/blackjack4494/youtube-dlc) - Command-line program to download various media from YouTube.com and other sites
-- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide :snake: :snake: :snake:
+- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide 🐍 🐍 🐍
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
@@ -2789,7 +2791,7 @@
 
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [unixzii/ibackupextractor](https://github.com/unixzii/ibackupextractor) - A simple tool for extracting files from iOS backup archive.
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
 - [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A feature-rich Hacker News client.
 - [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client.
 - [pennersr/shove](https://github.com/pennersr/shove) - Asynchronous & persistent push notification service, supporting APNS, FCM, Web Push, Telegram and Email. Written in Go (Golang). Mirror of https://codeberg.org/pennersr/shove
@@ -2834,7 +2836,7 @@
 - [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 - [amitshekhariitbhu/android-developer-roadmap](https://github.com/amitshekhariitbhu/android-developer-roadmap) - Android Developer Roadmap - A complete roadmap to learn Android App Development
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
-- [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.
+- [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smal
 - [docker-archive-public/docker.labs](https://github.com/docker-archive-public/docker.labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 
 ## javafx 
@@ -3082,6 +3084,7 @@
 
 ## linux 
 
+- [frankdierolf/whis](https://github.com/frankdierolf/whis) - Voice-to-text CLI for terminal users
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
@@ -3141,7 +3144,7 @@
 - [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
-- [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A TUI bluetooth manager for Linux.
+- [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A cross-platform TUI bluetooth manager.
 - [Neverous/efibooteditor](https://github.com/Neverous/efibooteditor) - Boot Editor for (U)EFI based systems
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
@@ -3362,6 +3365,7 @@
 - [saucelabs/forwarder](https://github.com/saucelabs/forwarder) - Forwarder is a production-ready, fast MITM proxy with PAC support. It's suitable for debugging, intercepting and manipulating HTTP traffic. It's used as a core component of Sauce Labs Sauce Connect Pr
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
+- [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A cross-platform TUI bluetooth manager.
 - [AlexSSD7/linsk](https://github.com/AlexSSD7/linsk) - 📂 Access Linux-native file systems (including LVM and LUKS) on Windows and macOS with help of a lightweight Alpine Linux VM. x86/ARM supported.
 - [Neverous/efibooteditor](https://github.com/Neverous/efibooteditor) - Boot Editor for (U)EFI based systems
 - [MarioCatuogno/Clean-macOS](https://github.com/MarioCatuogno/Clean-macOS) - 💻 A script to set up a clean macOS environment.
@@ -3668,6 +3672,7 @@
 
 ## openai 
 
+- [frankdierolf/whis](https://github.com/frankdierolf/whis) - Voice-to-text CLI for terminal users
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [starbased-co/ccproxy](https://github.com/starbased-co/ccproxy) - Customize and Extend Claude Code with ccproxy: Route to OpenAI, Gemini, Qwen, OpenRouter, and Ollama. Gain full control of your Claude Max/Pro Subscription with your own router.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
@@ -3774,7 +3779,7 @@
 - [Xerxes-2/clewdr](https://github.com/Xerxes-2/clewdr) - High Performance LLM Reverse Proxy
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
 - [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
-- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
+- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 - [jaw9c/awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers) - Remote MCP Servers
 - [tkaufmann/claude-gemini-bridge](https://github.com/tkaufmann/claude-gemini-bridge) - 🤖 Intelligent integration between Claude Code and Google Gemini for large-scale code analysis
 - [RichardAtCT/claude-code-openai-wrapper](https://github.com/RichardAtCT/claude-code-openai-wrapper) - OpenAI API-compatible wrapper for Claude Code
@@ -3783,7 +3788,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [dkarv/ha-bwt-perla](https://github.com/dkarv/ha-bwt-perla) - Custom HA integration for BWT Perla devices
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit
-- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
+- [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 - [RchGrav/claudebox](https://github.com/RchGrav/claudebox) - The Ultimate Claude Code Docker Development Environment - Run Claude AI's coding assistant in a fully containerized, reproducible environment with pre-configured development profiles.
 - [possibilities/claude-composer](https://github.com/possibilities/claude-composer) - 
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
@@ -3831,7 +3836,6 @@
 - [0xideas/dirscribe](https://github.com/0xideas/dirscribe) - 
 - [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - The official MCP server implementation for the Perplexity API Platform
 - [digitarald/mcp-frontend-starter](https://github.com/digitarald/mcp-frontend-starter) - 
-- [copilot-extensions/rag-extension](https://github.com/copilot-extensions/rag-extension) - An example extension in go using retrevial-augmented generation
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [0xCope/typingmind-sync-s3](https://github.com/0xCope/typingmind-sync-s3) - 
 - [aconz2/program-explorer](https://github.com/aconz2/program-explorer) - 
@@ -3900,7 +3904,6 @@
 - [roshanlam/iFetch](https://github.com/roshanlam/iFetch) - 🚀 Bulk download your iCloud Drive files and folders with a simple command line tool
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 - [kortix-ai/fast-apply](https://github.com/kortix-ai/fast-apply) - 
-- [TheProxyCompany/proxy-structuring-engine](https://github.com/TheProxyCompany/proxy-structuring-engine) - Guaranteed Structured Output from any Language Model via Hierarchical State Machines
 - [Olshansk/postgres_for_everything](https://github.com/Olshansk/postgres_for_everything) - How to reduce complexity and move faster? Just Postgres for everything.
 - [binbandit/secretfetch](https://github.com/binbandit/secretfetch) - Your secrets deserve better than hardcoding. SecretFetch makes secret management a breeze!
 - [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs) - 
@@ -4782,7 +4785,7 @@
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [benbusby/yeetfile](https://github.com/benbusby/yeetfile) - A self-hosted service for encrypted file sharing and storage
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
@@ -4839,7 +4842,7 @@
 ## programming-language 
 
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
-- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide :snake: :snake: :snake:
+- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide 🐍 🐍 🐍
 
 ## project-management 
 
@@ -4913,7 +4916,7 @@
 - [haiwen/seahub](https://github.com/haiwen/seahub) - The web end of seafile server.
 - [varunsridharan/action-gitea-mirror](https://github.com/varunsridharan/action-gitea-mirror) - Simple Python Script To Auto Trigger Gitea Mirror Using Github Action
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
-- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide :snake: :snake: :snake:
+- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide 🐍 🐍 🐍
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -4958,7 +4961,7 @@
 - [vagnum08/cpupower-gui](https://github.com/vagnum08/cpupower-gui) - cpupower-gui is a graphical program that is used to change the scaling frequency limits of the cpu, similar to cpupower.
 - [th3r00t/pyShelf](https://github.com/th3r00t/pyShelf) - A simple terminal based ebook server
 - [alexdelorenzo/cast_control](https://github.com/alexdelorenzo/cast_control) - 📺 Control Chromecasts from Linux and D-Bus
-- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide :snake: :snake: :snake:
+- [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide 🐍 🐍 🐍
 - [m3047/trualias](https://github.com/m3047/trualias) - Mentally computable verification codes for email aliases implemented as a postfix tcp table; uses asyncio.
 - [chr0mag/geoipsets](https://github.com/chr0mag/geoipsets) - Python package to generate country-specific IP network ranges consumable by both iptables/ipset and nftables.
 - [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
@@ -4977,11 +4980,31 @@
 - [soramimi/Guitar](https://github.com/soramimi/Guitar) - Git GUI Client
 - [setvisible/ArrowDL](https://github.com/setvisible/ArrowDL) - ArrowDL (Arrow Downloader) is a download manager for Windows, MacOS and Linux
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
-- [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.
+- [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smal
 
 ## r 
 
 - [mkearney/tweetbotornot](https://github.com/mkearney/tweetbotornot) - 🤖 R package for detecting Twitter bots via machine learning
+
+## rag 
+
+- [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+- [zoner72/Datavizion-RAG](https://github.com/zoner72/Datavizion-RAG) - Retrieval-augmented generation (RAG) for remote & local LLM use
+- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+- [copilot-extensions/rag-extension](https://github.com/copilot-extensions/rag-extension) - An example extension in go using retrevial-augmented generation
+- [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
+- [potpie-ai/potpie](https://github.com/potpie-ai/potpie) - Prompt-To-Agent : Create custom engineering agents for your codebase
+- [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source AI framework for semantic search, LLM orchestration and language model workflows
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
+- [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation
+- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
+- [meysamhadeli/codai](https://github.com/meysamhadeli/codai) - AI coding agent for your terminal.
+- [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [mytechnotalent/rea](https://github.com/mytechnotalent/rea) - A Reverse Engineering Assistant leveraging Retrieval-Augmented Generation (RAG) and the LLaMA-3.1-8B-Instant Large Language Model (LLM). This tool is designed to revolutionize reverse engineering task
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
 ## raspberry-pi 
 
@@ -5102,7 +5125,7 @@
 - [vaib25vicky/awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
 - [alphaSeclab/awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos)
 - [tmr232/Sark](https://github.com/tmr232/Sark) - IDAPython Made Easy
-- [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.
+- [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smal
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [REDasmOrg/REDasm](https://github.com/REDasmOrg/REDasm) - The OpenSource Disassembler
 - [radareorg/awesome-radare2](https://github.com/radareorg/awesome-radare2) - A curated list of awesome projects, articles and the other materials powered by Radare2
@@ -5120,6 +5143,8 @@
 
 ## rust 
 
+- [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage) - (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage
+- [frankdierolf/whis](https://github.com/frankdierolf/whis) - Voice-to-text CLI for terminal users
 - [harehare/mq](https://github.com/harehare/mq) - jq-like command-line tool for markdown processing
 - [alejandroqh/term39](https://github.com/alejandroqh/term39) - A modern, retro-styled terminal multiplexer built with Rust.
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
@@ -5641,6 +5666,7 @@
 
 ## terminal 
 
+- [frankdierolf/whis](https://github.com/frankdierolf/whis) - Voice-to-text CLI for terminal users
 - [alejandroqh/term39](https://github.com/alejandroqh/term39) - A modern, retro-styled terminal multiplexer built with Rust.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, add custom themes/thinking verbs/spinner, input box style, user message display, sign-in ASCII art, fix bugs (frozen spinner), and add f
@@ -5805,7 +5831,7 @@
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
@@ -6003,6 +6029,7 @@
 - [saucelabs/forwarder](https://github.com/saucelabs/forwarder) - Forwarder is a production-ready, fast MITM proxy with PAC support. It's suitable for debugging, intercepting and manipulating HTTP traffic. It's used as a core component of Sauce Labs Sauce Connect Pr
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
+- [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A cross-platform TUI bluetooth manager.
 - [AlexSSD7/linsk](https://github.com/AlexSSD7/linsk) - 📂 Access Linux-native file systems (including LVM and LUKS) on Windows and macOS with help of a lightweight Alpine Linux VM. x86/ARM supported.
 - [ElliotKillick/Mido](https://github.com/ElliotKillick/Mido) - The Secure Microsoft Windows Downloader
 - [Neverous/efibooteditor](https://github.com/Neverous/efibooteditor) - Boot Editor for (U)EFI based systems
