@@ -2956,6 +2956,7 @@
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - 🎵 Provides a composer plugin for normalizing composer.json.
+- [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [saschpe/libvirt-hook-qemu](https://github.com/saschpe/libvirt-hook-qemu) - Libvirt hook for setting up iptables port-forwarding rules when using NAT-ed networking.
 
@@ -4559,7 +4560,6 @@
 - [janbar/noson-app](https://github.com/janbar/noson-app) - The essential to control music from your SONOS devices on Linux platforms
 - [SoCo/socos](https://github.com/SoCo/socos) - Commandline tool for controlling Sonos devices
 - [ms217/typo3_patches](https://github.com/ms217/typo3_patches) - Provides mainly security patches for TYPO3 versions where the support has reached EOL
-- [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [microsoft/ethr](https://github.com/microsoft/ethr) - Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP.
 - [iliana/dockerfiles](https://github.com/iliana/dockerfiles) - [WHALE EMOJI] [PEACH EMOJI]
 - [jessfraz/branch-cleanup-action](https://github.com/jessfraz/branch-cleanup-action) - A GitHub action to automatically delete the branch after a pull request has been merged.
