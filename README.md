@@ -233,7 +233,7 @@
 
 ## C++ 
 
-- [trvon/yams](https://github.com/trvon/yams) - Content addressable  storage with excellent search
+- [trvon/yams](https://github.com/trvon/yams) - Persistent memory for LLMs and apps. Content-addressed storage with dedupe, compression, full-text and vector search.
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
 - [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN.
 - [KasperskyLab/hrtng](https://github.com/KasperskyLab/hrtng) - IDA Pro plugin with a rich set of features: decryption, deobfuscation, patching, lib code recognition and various pseudocode transformations
@@ -1167,6 +1167,8 @@
 
 ## Kotlin 
 
+- [mlm-games/flicky](https://github.com/mlm-games/flicky) - Yet Another FDroid Client (wide screen / TV friendly)
+- [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [carlrobertoh/ProxyAI](https://github.com/carlrobertoh/ProxyAI) - The leading open-source AI copilot for JetBrains. Connect to any model in any environment, and customize your coding experience in any way you like.
 - [Stream29/ProxyAsLocalModel](https://github.com/Stream29/ProxyAsLocalModel) - Proxy remote LLM API as Ollama and LM Studio, for using them in JetBrains AI Assistant
@@ -1370,6 +1372,7 @@
 
 ## PHP 
 
+- [hyvor/relay](https://github.com/hyvor/relay) - ✉️ Open-Source Email API for Developers. Self-hosted Alternative to SES, Mailgun, SendGrid.
 - [laravel/mcp](https://github.com/laravel/mcp) - Rapidly build MCP servers for your Laravel applications.
 - [laravel/boost](https://github.com/laravel/boost) - Laravel-focused MCP server for augmenting your AI powered local development experience.
 - [Automattic/wordpress-mcp](https://github.com/Automattic/wordpress-mcp) - WordPress MCP — This repository will be deprecated as stable releases of mcp-adapter become available. Please use https://github.com/WordPress/mcp-adapter for ongoing development and support.
@@ -1572,6 +1575,7 @@
 
 ## Python 
 
+- [dwash96/aider-ce](https://github.com/dwash96/aider-ce) - Aider-CE - (a.k.a Cecli, Aider's Daughter)
 - [jMerta/codex-skills](https://github.com/jMerta/codex-skills) - Codex CLI skills catalog
 - [SunnyTamang/pygitzen](https://github.com/SunnyTamang/pygitzen) - A Python-native Terminal-Based Git Client - Navigate and manage your Git repositories with a beautiful TUI interface inspired by LazyGit.
 - [afiodorov/hn-search](https://github.com/afiodorov/hn-search) - Vector search over Hacker News comments and RAG pipeline with a simple web ui
@@ -1654,7 +1658,7 @@
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [shobrook/termite](https://github.com/shobrook/termite) - Generative UI in your terminal
 - [QaisarRajput/codebase_to_text](https://github.com/QaisarRajput/codebase_to_text) - For GenAI and LLM usage. This package converts codebase (folder structure with files) into a single text file or a Microsoft Word document (.docx), preserving folder structure and file contents. The t
-- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [arjun-ms/cursor-chat-exporter](https://github.com/arjun-ms/cursor-chat-exporter) - 
 - [fabriziosalmi/patterns](https://github.com/fabriziosalmi/patterns) - Automated OWASP CRS and Bad Bot Detection for Nginx, Apache, Traefik and HaProxy
 - [travisvn/gptree](https://github.com/travisvn/gptree) - A CLI tool to provide LLM context for coding projects by combining project files into a single text file (or clipboard text) with directory tree structure.
