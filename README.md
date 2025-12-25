@@ -392,6 +392,7 @@
 
 ## Go 
 
+- [jamierpond/yapi](https://github.com/jamierpond/yapi) - 
 - [docker/cagent](https://github.com/docker/cagent) - Agent Builder and Runtime by Docker Engineering
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
@@ -992,6 +993,7 @@
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
 - [DevEmperor/Dictate](https://github.com/DevEmperor/Dictate) - A powerful Whisper AI keyboard for reliable speech transcription
 - [calin-darie/gentle-glow-onyx-boox](https://github.com/calin-darie/gentle-glow-onyx-boox) - Frontlight control for Onyx Boox e-readers
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [LaurieWired/Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler
 - [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) - An android cloud file manager, powered by rclone. Visit https://roundsync.com for more information!
 - [devoxx/DevoxxGenieIDEAPlugin](https://github.com/devoxx/DevoxxGenieIDEAPlugin) - DevoxxGenie is a plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All, Jan and Llama.cpp) and Cloud based LLMs to help review, test, explain your project code.
@@ -1057,7 +1059,7 @@
 - [ray-lothian/UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - A User-Agent spoofer browser extension that is highly configurable
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
 - [SmartThingsDevelopers/Sample-RulesAPI](https://github.com/SmartThingsDevelopers/Sample-RulesAPI) - Rules are a versatile tool, enabling you to automate the Devices and services that connect to the SmartThings Platform. When possible, Rules execute locally on a Hub.
 - [ice987987/ioBroker.wiserbyfeller](https://github.com/ice987987/ioBroker.wiserbyfeller) - This Adapter enables you to manage all your Wiser-by-Feller system devices via a WebSocket connection.
@@ -1575,6 +1577,7 @@
 
 ## Python 
 
+- [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [dwash96/aider-ce](https://github.com/dwash96/aider-ce) - Aider-CE - (a.k.a Cecli, Aider's Daughter)
 - [jMerta/codex-skills](https://github.com/jMerta/codex-skills) - Codex CLI skills catalog
 - [SunnyTamang/pygitzen](https://github.com/SunnyTamang/pygitzen) - A Python-native Terminal-Based Git Client - Navigate and manage your Git repositories with a beautiful TUI interface inspired by LazyGit.
@@ -1677,7 +1680,7 @@
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent — The Original Open-Source PR Reviewer This repo is not the Qodo free tier. Try the free version on our website.
 - [querylab/lazywarden](https://github.com/querylab/lazywarden) - Automatic Bitwarden Backup
 - [paulrobello/par_scrape](https://github.com/paulrobello/par_scrape) - AI assisted web scraping and data extraction
 - [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
@@ -1937,6 +1940,8 @@
 
 ## Rust 
 
+- [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB Book Reader
+- [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [pranav-cs-1/nexus](https://github.com/pranav-cs-1/nexus) - A terminal-based HTTP client for API testing
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
 - [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage) - (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage
@@ -2489,7 +2494,6 @@
 - [zueai/create-mcp](https://github.com/zueai/create-mcp) - CLI to set up and deploy MCP Servers to Cloudflare Workers in seconds. Just write TypeScript functions to make Cursor MCP tools.
 - [hotovo/aider-desk](https://github.com/hotovo/aider-desk) - Desktop application for Aider AI assistant and much more
 - [11notes/docker-immich-share-proxy](https://github.com/11notes/docker-immich-share-proxy) - Expose your Immich shares publicly without exposing Immich!
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [kleneway/awesome-cursor-mpc-server](https://github.com/kleneway/awesome-cursor-mpc-server) - Example of an MCP server with custom tools that can be called directly from cursor
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Driving all platforms UI automation with vision-based model
