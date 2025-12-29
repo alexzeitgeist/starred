@@ -189,7 +189,7 @@
 - [emersion/kanshi](https://github.com/emersion/kanshi) - Dynamic display configuration (mirror)
 - [jiangwenyuan/nuster](https://github.com/jiangwenyuan/nuster) - A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy
 - [memcached/memcached](https://github.com/memcached/memcached) - memcached development tree
-- [DavidXanatos/DiskCryptor](https://github.com/DavidXanatos/DiskCryptor) - DiskCryptor full disk encryption tool
+- [DavidXanatos/DiskCryptor](https://github.com/DavidXanatos/DiskCryptor) - DiskCryptor Open Source full disk encryption tool
 - [koct9i/ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
 - [mikebrady/shairport-sync](https://github.com/mikebrady/shairport-sync) - AirPlay and AirPlay 2 audio player
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
