@@ -938,7 +938,7 @@
 
 ## HTML 
 
-- [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist) - An up-to-date blacklist of phishing and scam domains, automatically updated by the PhishDestroy system. A reliable threat intelligence source for integration into security systems.
+- [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist) - Real-time blocklist of crypto phishing, scam, and drainer domains. Auto-updated threat intelligence for Web3 security.
 - [jon6fingrs/ghostboard](https://github.com/jon6fingrs/ghostboard) - a dead simple way to share text between computers via web or cli
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [daduckMSFT/WiFiProfileGenerator](https://github.com/daduckMSFT/WiFiProfileGenerator) - Client-side web-app that will generate Android, iOS and Windows profiles in their raw format
@@ -995,7 +995,6 @@
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
 - [DevEmperor/Dictate](https://github.com/DevEmperor/Dictate) - A powerful Whisper AI keyboard for reliable speech transcription
 - [calin-darie/gentle-glow-onyx-boox](https://github.com/calin-darie/gentle-glow-onyx-boox) - Frontlight control for Onyx Boox e-readers
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [LaurieWired/Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler
 - [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) - An android cloud file manager, powered by rclone. Visit https://roundsync.com for more information!
 - [devoxx/DevoxxGenieIDEAPlugin](https://github.com/devoxx/DevoxxGenieIDEAPlugin) - DevoxxGenie is a plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All, Jan and Llama.cpp) and Cloud based LLMs to help review, test, explain your project code.
@@ -1287,7 +1286,7 @@
 - [microsoft/prompts-for-edu](https://github.com/microsoft/prompts-for-edu) - 
 - [mcinglis/c-style](https://github.com/mcinglis/c-style) - My favorite C programming practices.
 - [Hoo-Cognito/Miyoo-Repo](https://github.com/Hoo-Cognito/Miyoo-Repo) - A fast clickity clicky Repository of all things Miyoo
-- [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) - Newsletter to help busy software engineers become good at system design 👇
+- [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) - If you want to become good at system design, join this newsletter now 👇
 - [bpc-clone/bpc_chrome_support](https://github.com/bpc-clone/bpc_chrome_support) - 
 - [kevin9985/notification-infrastructure-providers](https://github.com/kevin9985/notification-infrastructure-providers) - List of notification infrastructure providers for developers
 - [zhaodice/proxmox-ve-anti-detection](https://github.com/zhaodice/proxmox-ve-anti-detection) - A patch to hide PVE itself
@@ -1591,7 +1590,7 @@
 - [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Audiobook-Quality Text-to-Speech — Supports EPUB, PDF, DOCX, HTML, RTF, TXT, and MD.
 - [mlapaglia/Borgitory](https://github.com/mlapaglia/Borgitory) - Web UI for managing BorgBackup repositories with scheduling, monitoring, and cloud sync
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
-- [starbased-co/ccproxy](https://github.com/starbased-co/ccproxy) - Build mods for Claude Code: Hook any request, modify any response, /model "with-your-custom-model", intelligent model routing using your logic or ours, and even use your Claude subscription as an API
+- [starbaser/ccproxy](https://github.com/starbaser/ccproxy) - Build mods for Claude Code: Hook any request, modify any response, /model "with-your-custom-model", intelligent model routing using your logic or ours, and even use your Claude subscription as an API
 - [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools) - Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.
 - [mozilla-ai/any-llm](https://github.com/mozilla-ai/any-llm) - Communicate with an LLM provider using a single interface
 - [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience
@@ -1994,7 +1993,7 @@
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [solidiquis/grits](https://github.com/solidiquis/grits) - A simple line-text formatter that makes it simple to parse, filter, and format live logs turning noise into meaningful insights.
 - [ddoemonn/ur-commit-mentor](https://github.com/ddoemonn/ur-commit-mentor) - A CLI tool that analyzes git commits and provides AI-powered code review insights (for now only works with Claude API)
-- [bodo-run/yek](https://github.com/bodo-run/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
+- [mohsen1/yek](https://github.com/mohsen1/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [chrivers/bifrost](https://github.com/chrivers/bifrost) - Hue Bridge Emulator
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
@@ -2193,7 +2192,7 @@
 
 ## Shell 
 
-- [WozzHQ/wozz](https://github.com/WozzHQ/wozz) - Multi-layered defense against Kubernetes waste. Layer 1: Audit CLI. Layer 2: GitHub Action PR Bot.
+- [WozzHQ/wozz](https://github.com/WozzHQ/wozz) - Kubernetes cost optimization - catch expensive resource changes before they merge
 - [sahaj-b/tymr](https://github.com/sahaj-b/tymr) - 
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [kagisearch/ask](https://github.com/kagisearch/ask) - A lightweight bash script for querying AI models via the OpenRouter API, optimized for direct, executable output.
@@ -2496,6 +2495,7 @@
 - [zueai/create-mcp](https://github.com/zueai/create-mcp) - CLI to set up and deploy MCP Servers to Cloudflare Workers in seconds. Just write TypeScript functions to make Cursor MCP tools.
 - [hotovo/aider-desk](https://github.com/hotovo/aider-desk) - Desktop application for Aider AI assistant and much more
 - [11notes/docker-immich-share-proxy](https://github.com/11notes/docker-immich-share-proxy) - Expose your Immich shares publicly without exposing Immich!
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [kleneway/awesome-cursor-mpc-server](https://github.com/kleneway/awesome-cursor-mpc-server) - Example of an MCP server with custom tools that can be called directly from cursor
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Driving all platforms UI automation with vision-based model
