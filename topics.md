@@ -2023,7 +2023,7 @@
 - [qw3rtman/git-fire](https://github.com/qw3rtman/git-fire) - :fire: Save Your Code in an Emergency
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [BrainMaestro/composer-git-hooks](https://github.com/BrainMaestro/composer-git-hooks) - Easily manage git hooks in your composer config
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
 - [ajmwagar/bliss](https://github.com/ajmwagar/bliss) - Ignorance is bliss! Ignore your .gitignore
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
@@ -3526,7 +3526,7 @@
 - [BinarCode/laravel-restify](https://github.com/BinarCode/laravel-restify) - Laravel API for Ai Agents and humans.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
 
 ## microservices 
 
@@ -3828,6 +3828,7 @@
 
 ## others 
 
+- [kixorz/turris-os-build](https://github.com/kixorz/turris-os-build) - Scripts to build Turris OS.
 - [samssausages/proxmox_scripts_fixes](https://github.com/samssausages/proxmox_scripts_fixes) - 
 - [absadiki/whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer) - Free, open source and cross-platform app to decrypt, read and view the Whatsapp msgstore.db database
 - [sQVe/grove](https://github.com/sQVe/grove) - A fast, intuitive CLI that makes Git worktrees as simple as switching branches.
