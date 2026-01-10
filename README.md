@@ -1688,6 +1688,7 @@
 - [querylab/lazywarden](https://github.com/querylab/lazywarden) - Automatic Bitwarden Backup
 - [paulrobello/par_scrape](https://github.com/paulrobello/par_scrape) - AI assisted web scraping and data extraction
 - [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ptrsr/pi-ci](https://github.com/ptrsr/pi-ci) - Prepare Raspberry Pi 3, 4 & 5 configurations using a virtual machine.
 - [Aran404/SpotAPI](https://github.com/Aran404/SpotAPI) - A python wrapper for the public & private Spotify API
 - [royreznik/rexi](https://github.com/royreznik/rexi) - Terminal UI for Regex Testing
@@ -2434,7 +2435,6 @@
 
 ## Svelte 
 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [proofrock/pupcloud](https://github.com/proofrock/pupcloud) - [SUSPENDED] A portable web file manager and gallery
 - [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
 
