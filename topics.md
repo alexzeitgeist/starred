@@ -3824,6 +3824,8 @@
 
 ## others 
 
+- [yeya/wire-seek](https://github.com/yeya/wire-seek) - A tiny tool to find the perfect MTU for your WireGuard tunnel in seconds.
+- [daugaard47/ChatGPT_Conversations_To_Markdown](https://github.com/daugaard47/ChatGPT_Conversations_To_Markdown) - ChatGPT Conversations to Markdown is a Python script that converts your exported ChatGPT conversations into readable and well-formatted Markdown files.
 - [kixorz/turris-os-build](https://github.com/kixorz/turris-os-build) - Scripts to build Turris OS.
 - [samssausages/proxmox_scripts_fixes](https://github.com/samssausages/proxmox_scripts_fixes) - 
 - [absadiki/whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer) - Free, open source and cross-platform app to decrypt, read and view the Whatsapp msgstore.db database
