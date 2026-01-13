@@ -1574,7 +1574,7 @@
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [vrdse/MeltdownSpectreReport](https://github.com/vrdse/MeltdownSpectreReport) - Query mitigation status of Meltdown and Spectre against one or multiple Windows computers. It uses parallelization for fast data collection.
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker for fine-tuning Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker for fine-tuning Windows on GitHub
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 
 ## Pug 
