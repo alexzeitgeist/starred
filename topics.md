@@ -260,6 +260,7 @@
 - [unity](#unity)
 - [userscript](#userscript)
 - [vagrant](#vagrant)
+- [video](#video)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
@@ -2539,7 +2540,7 @@
 - [soramimi/Guitar](https://github.com/soramimi/Guitar) - Git GUI Client
 - [vagnum08/cpupower-gui](https://github.com/vagnum08/cpupower-gui) - cpupower-gui is a graphical program that is used to change the scaling frequency limits of the cpu, similar to cpupower.
 - [andreafioraldi/IDAngr](https://github.com/andreafioraldi/IDAngr) - Use angr in the IDA Pro debugger generating a state from the current debug session
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker for fine-tuning Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker for fine-tuning Windows on GitHub
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg Backup
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
@@ -3824,6 +3825,7 @@
 
 ## others 
 
+- [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [yeya/wire-seek](https://github.com/yeya/wire-seek) - A tiny tool to find the perfect MTU for your WireGuard tunnel in seconds.
 - [daugaard47/ChatGPT_Conversations_To_Markdown](https://github.com/daugaard47/ChatGPT_Conversations_To_Markdown) - ChatGPT Conversations to Markdown is a Python script that converts your exported ChatGPT conversations into readable and well-formatted Markdown files.
 - [kixorz/turris-os-build](https://github.com/kixorz/turris-os-build) - Scripts to build Turris OS.
@@ -4325,7 +4327,6 @@
 - [loomchild/volume-backup](https://github.com/loomchild/volume-backup) - docker volume backup & restore utility
 - [schnaader/precomp-cpp](https://github.com/schnaader/precomp-cpp) - Precomp, C++ version - further compress already compressed files
 - [google/bloaty](https://github.com/google/bloaty) - Bloaty: a size profiler for binaries
-- [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [terrylinooo/simple-cache](https://github.com/terrylinooo/simple-cache) - PSR-16 simple cache drivers for PHP.
 - [coaxial/docker-healthchecks](https://github.com/coaxial/docker-healthchecks) - healthchecks.io as a Docker service
 - [hashicorp/waypoint-examples](https://github.com/hashicorp/waypoint-examples) - Example Apps that can be deployed with Waypoint
@@ -4875,7 +4876,7 @@
 
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama. 💻🦙
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker for fine-tuning Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker for fine-tuning Windows on GitHub
 
 ## privacy 
 
@@ -6096,6 +6097,20 @@
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [mechboxes/mech](https://github.com/mechboxes/mech) - Easy command line virtual machines for VMWare
 
+## video 
+
+- [PipeWire/pipewire](https://github.com/PipeWire/pipewire) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
+- [p-ranav/saveddit](https://github.com/p-ranav/saveddit) - Bulk Downloader for Reddit
+- [geerlingguy/pi-webcam](https://github.com/geerlingguy/pi-webcam) - Automation to configure a Raspberry Pi as a USB OTG webcam
+- [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
+- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+- [rust-av/Av1an](https://github.com/rust-av/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
+- [kai-kj/TerminalMediaViewer](https://github.com/kai-kj/TerminalMediaViewer) - An utf-8/truecolor image and video viewer for the terminal
+- [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
+- [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸
+- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
+- [keredson/gnomecast](https://github.com/keredson/gnomecast) - Chromecast local files from Linux - supports MKV, subtitles, 5.1 sound and 4K!
+
 ## vim 
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -6264,7 +6279,7 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker for fine-tuning Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker for fine-tuning Windows on GitHub
 - [erikw/restic-automatic-backup-scheduler](https://github.com/erikw/restic-automatic-backup-scheduler) - Automatic restic backup using Backblaze B2 storage and either Linux systemd timers, macOS LaunchAgent, Windows ScheduledTask or simply cron.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
