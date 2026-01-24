@@ -533,7 +533,7 @@
 
 ## api 
 
-- [pranav-cs-1/nexus](https://github.com/pranav-cs-1/nexus) - A terminal-based HTTP client for API testing
+- [pranav-cs-1/nexus](https://github.com/pranav-cs-1/nexus) - A terminal-based HTTP client for REST and gRPC APIs
 - [cohesion-org/deepseek-go](https://github.com/cohesion-org/deepseek-go) - A Deepseek client written for Go supporting R-1, Chat V3, and Coder. Also supports external providers like Azure, OpenRouter and Local Ollama.
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [tailscale/setec](https://github.com/tailscale/setec) - A secrets management service that uses Tailscale for access control
@@ -1462,7 +1462,7 @@
 ## developer-tools 
 
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
-- [pranav-cs-1/nexus](https://github.com/pranav-cs-1/nexus) - A terminal-based HTTP client for API testing
+- [pranav-cs-1/nexus](https://github.com/pranav-cs-1/nexus) - A terminal-based HTTP client for REST and gRPC APIs
 - [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, add custom input pattern highlighters, custom themes/thinking verbs/spinner, input box style, user message display, sign-in ASCII art, f
 - [Owloops/claude-powerline](https://github.com/Owloops/claude-powerline) - Beautiful vim-style powerline statusline for Claude Code
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
@@ -3857,7 +3857,7 @@
 - [jMerta/codex-skills](https://github.com/jMerta/codex-skills) - Codex CLI skills catalog
 - [WozzHQ/wozz](https://github.com/WozzHQ/wozz) - Kubernetes cost optimization - catch expensive resource changes before they merge
 - [guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli) - 
-- [fcavallarin/wirebrowser](https://github.com/fcavallarin/wirebrowser) - 
+- [fcavallarin/wirebrowser](https://github.com/fcavallarin/wirebrowser) - Wirebrowser is an advanced debugging and inspection tool built on the Chrome DevTools Protocol, unifying network interception, API replay, automation, and deep runtime/memory analysis in a single work
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [SunnyTamang/pygitzen](https://github.com/SunnyTamang/pygitzen) - A Python-native Terminal-Based Git Client - Navigate and manage your Git repositories with a beautiful TUI interface inspired by LazyGit.
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
@@ -5274,7 +5274,7 @@
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
 - [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB Book Reader
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
-- [pranav-cs-1/nexus](https://github.com/pranav-cs-1/nexus) - A terminal-based HTTP client for API testing
+- [pranav-cs-1/nexus](https://github.com/pranav-cs-1/nexus) - A terminal-based HTTP client for REST and gRPC APIs
 - [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage) - (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage
 - [frankdierolf/whis](https://github.com/frankdierolf/whis) - Voice-to-text CLI for terminal users
 - [harehare/mq](https://github.com/harehare/mq) - jq-like command-line tool for markdown processing
@@ -5948,7 +5948,7 @@
 - [jordond/jolt](https://github.com/jordond/jolt) - ⚡️A terminal-based battery and energy monitor for macOS and Linux.
 - [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB Book Reader
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
-- [pranav-cs-1/nexus](https://github.com/pranav-cs-1/nexus) - A terminal-based HTTP client for API testing
+- [pranav-cs-1/nexus](https://github.com/pranav-cs-1/nexus) - A terminal-based HTTP client for REST and gRPC APIs
 - [harehare/mq](https://github.com/harehare/mq) - jq-like command-line tool for markdown processing
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 - [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Audiobook-Quality Text-to-Speech — Supports EPUB, PDF, DOCX, HTML, RTF, TXT, and MD.
