@@ -4587,7 +4587,7 @@
 - [sciurus/vagrant-mutate](https://github.com/sciurus/vagrant-mutate) - Convert vagrant boxes to work with different providers
 - [redcode-labs/Revssl](https://github.com/redcode-labs/Revssl) - A script that automates generation of OpenSSL reverse shells
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
 - [matrix-org/matrix-appservice-irc](https://github.com/matrix-org/matrix-appservice-irc) - Node.js IRC bridge for Matrix
 - [sherpya/geolite2legacy](https://github.com/sherpya/geolite2legacy) - MaxMind GeoLite2 (CSV) to Legacy format converter
