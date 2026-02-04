@@ -1585,6 +1585,7 @@
 
 ## Python 
 
+- [sparklost/endcord](https://github.com/sparklost/endcord) - Feature rich Discord TUI client.
 - [tducret/familylink](https://github.com/tducret/familylink) - A Python package to interact with Google Family Link.
 - [noiwid/HAFamilyLink](https://github.com/noiwid/HAFamilyLink) - Control your children's Android devices through Google Family Link directly from Home Assistant. Monitor screen time, set daily limits, manage bedtime and school schedules, and grant bonus time - all 
 - [absadiki/whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer) - Free, open source and cross-platform app to decrypt, read and view the Whatsapp msgstore.db database
@@ -1958,7 +1959,7 @@
 - [ahkohd/oyo](https://github.com/ahkohd/oyo) - A different viewer
 - [jordond/jolt](https://github.com/jordond/jolt) - ⚡️A terminal-based battery and energy monitor for macOS and Linux.
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
-- [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB Book Reader
+- [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [pranav-cs-1/nexus](https://github.com/pranav-cs-1/nexus) - A terminal-based HTTP client for REST and gRPC APIs
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
