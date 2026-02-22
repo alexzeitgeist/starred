@@ -3859,6 +3859,8 @@
 
 ## others 
 
+- [osandov/drgn](https://github.com/osandov/drgn) - Programmable debugger
+- [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web
 - [Dryxio/auto-re-agent](https://github.com/Dryxio/auto-re-agent) - Autonomous reverse engineering agent: dual-LLM loop, 11-signal parity engine, Ghidra backend
 - [ksred/soupawhisper](https://github.com/ksred/soupawhisper) - 
 - [mickamy/sql-tap](https://github.com/mickamy/sql-tap) - Watch SQL traffic in real-time with a TUI
@@ -5766,7 +5768,7 @@
 ## statistics 
 
 - [arpanghosh8453/drone-logbook](https://github.com/arpanghosh8453/drone-logbook) - DJI Fly Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI drone flight logs privately in one place. Built with Tauri v2, DuckDB, and React.
-- [ulissesf/qmassa](https://github.com/ulissesf/qmassa) - Rust terminal-based tool for displaying GPUs usage stats on Linux.
+- [ulissesf/qmassa](https://github.com/ulissesf/qmassa) - Rust tools to monitor GPU usage stats on Linux
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [eBay/tsv-utils](https://github.com/eBay/tsv-utils) - eBay's TSV Utilities: Command line tools for large, tabular data files. Filtering, statistics, sampling, joins and more.
