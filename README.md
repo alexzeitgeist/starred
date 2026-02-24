@@ -1968,6 +1968,7 @@
 
 ## Rust 
 
+- [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder.
 - [microsoft/litebox](https://github.com/microsoft/litebox) - A security-focused library OS supporting kernel- and user-mode execution
 - [davidbeesley/claude-chill](https://github.com/davidbeesley/claude-chill) - 
 - [ahkohd/oyo](https://github.com/ahkohd/oyo) - A different viewer
