@@ -3864,6 +3864,7 @@
 
 ## others 
 
+- [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
 - [osandov/drgn](https://github.com/osandov/drgn) - Programmable debugger
 - [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web
 - [Dryxio/auto-re-agent](https://github.com/Dryxio/auto-re-agent) - Autonomous reverse engineering agent: dual-LLM loop, 11-signal parity engine, Ghidra backend
