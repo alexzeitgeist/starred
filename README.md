@@ -99,6 +99,7 @@
 
 ## C 
 
+- [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
 - [kixorz/turris-os-build](https://github.com/kixorz/turris-os-build) - Scripts to build Turris OS.
 - [Fatmike-GH/Nanomites](https://github.com/Fatmike-GH/Nanomites) - A custom implementation of the Nanomites protection technology for Windows executables (x86 and x64) originally introduced by Silicon Realms in 1999 for the Armadillo Protector.
 - [zyantific/zydis](https://github.com/zyantific/zydis) - Fast and lightweight x86/x86-64 disassembler and code generation library
