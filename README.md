@@ -396,6 +396,7 @@
 
 ## Go 
 
+- [42wim/matterircd](https://github.com/42wim/matterircd) - Connect to your mattermost or slack using your IRC-client of choice.
 - [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web
 - [mdsakalu/zmx-session-manager](https://github.com/mdsakalu/zmx-session-manager) - TUI session manager for zmx
 - [hakwerk/labca](https://github.com/hakwerk/labca) - A private Certificate Authority for internal (lab) use, based on the open source ACME Automated Certificate Management Environment implementation from Let's Encrypt (tm).
@@ -564,7 +565,6 @@
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
-- [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
 - [flipt-io/reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
@@ -2584,6 +2584,7 @@
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+- [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [Ipmake/NevuForPlex](https://github.com/Ipmake/NevuForPlex) - Nevu is a complete redesign of Plex's UI using the plex media server API.
