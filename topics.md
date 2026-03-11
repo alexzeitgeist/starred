@@ -3883,7 +3883,8 @@
 
 ## others 
 
-- [vichhka-git/universal-flutter-ssl-pinning](https://github.com/vichhka-git/universal-flutter-ssl-pinning) - One-shot PyGhidra + Frida SSL pinning bypass for Google Flutter & Shorebird apps
+- [novik133/NovaBluetooth](https://github.com/novik133/NovaBluetooth) - A modern, native Bluetooth indicator plugin for the XFCE4 panel. Built with Vala and GTK3, it communicates directly with BlueZ over D-Bus without relying on any external programs.
+- [vichhka-git/universal-flutter-ssl-pinning](https://github.com/vichhka-git/universal-flutter-ssl-pinning) - Automated SSL pinning bypass for any Flutter & Shorebird version — PyGhidra static analysis auto-discovers BoringSSL and generates ready-to-run Frida & Renef scripts
 - [42wim/matterircd](https://github.com/42wim/matterircd) - Connect to your mattermost or slack using your IRC-client of choice.
 - [fnichol/names](https://github.com/fnichol/names) - Random name generator for Rust
 - [AtefR/fish-session](https://github.com/AtefR/fish-session) - A Fish shell session manager with attach/detach, searchable session UI, and zoxide mode.
