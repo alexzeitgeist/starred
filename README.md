@@ -1577,7 +1577,7 @@
 - [GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq) - An open-source digital image forensic toolset
 - [postfwd/postfwd](https://github.com/postfwd/postfwd) - Postfwd - http://www.postfwd.org
 - [mschmitt/GeoLite2xtables](https://github.com/mschmitt/GeoLite2xtables) - Converter from GeoLite2 country database to legacy GeoIP CSV, for use with xtables-addons
-- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human readable for improved code quality and faster defect detection. :tada:
 
 ## PowerShell 
 
