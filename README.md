@@ -407,7 +407,7 @@
 - [yeya/wire-seek](https://github.com/yeya/wire-seek) - A tiny tool to find the perfect MTU for your WireGuard tunnel in seconds.
 - [sQVe/grove](https://github.com/sQVe/grove) - A fast, intuitive CLI that makes Git worktrees as simple as switching branches.
 - [deckrun/dockadvisor](https://github.com/deckrun/dockadvisor) - Lightweight Dockerfile linter that helps you write better Dockerfiles. Get instant feedback with quality scores, security checks, and 60+ best practice rules.
-- [databasus/databasus](https://github.com/databasus/databasus) - Databases backup tool (PostgreSQL, MySQL, MongoDB)
+- [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool (with MySQL\MariaDB and MongoDB support)
 - [jamierpond/yapi](https://github.com/jamierpond/yapi) - 
 - [docker/docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
@@ -506,7 +506,7 @@
 - [edoardottt/pwdsafety](https://github.com/edoardottt/pwdsafety) - 🔒command line tool checking password safety🔒
 - [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for misconfigured S3 buckets across S3-compatible APIs!
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
-- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization and synthetic data generation tool
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization, synthetic data generation tool and logical dump
 - [xhd2015/xgo](https://github.com/xhd2015/xgo) - All-in-one go testing library
 - [andrearaponi/dito](https://github.com/andrearaponi/dito) - an advanced reverse proxy server written in Go
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
@@ -599,7 +599,7 @@
 - [cunnie/sslip.io](https://github.com/cunnie/sslip.io) - Golang-based DNS server which maps DNS records with embedded IP addresses to those addresses.
 - [d-fi/GoFi](https://github.com/d-fi/GoFi) - A performant streaming music downloader written with Go
 - [go-debos/debos](https://github.com/go-debos/debos) - Debian OS builder
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [release-argus/Argus](https://github.com/release-argus/Argus) - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.
 - [moul/quicssh](https://github.com/moul/quicssh) - SSH over QUIC
@@ -1006,6 +1006,7 @@
 
 ## Java 
 
+- [hectorvent/floci](https://github.com/hectorvent/floci) - Light, fluffy, and always free - AWS Local Emulator
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android
@@ -2018,7 +2019,7 @@
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource secure local-first sandboxes for ai agents
