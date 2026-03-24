@@ -600,6 +600,7 @@
 
 ## automation 
 
+- [Microck/kagi-cli](https://github.com/Microck/kagi-cli) - terminal CLI for Kagi that gives you command-line access to search, lenses, assistant, summarization, feeds, and paid API commands.
 - [BURG3R5/NotiFilter](https://github.com/BURG3R5/NotiFilter) - Silence annoying notifications
 - [karanhudia/borg-ui](https://github.com/karanhudia/borg-ui) - Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks.
 - [dannote/figma-use](https://github.com/dannote/figma-use) - Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands.
@@ -919,6 +920,7 @@
 
 ## cli 
 
+- [Microck/kagi-cli](https://github.com/Microck/kagi-cli) - terminal CLI for Kagi that gives you command-line access to search, lenses, assistant, summarization, feeds, and paid API commands.
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
 - [dannote/figma-use](https://github.com/dannote/figma-use) - Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands.
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown memory system for you and your AI agent
@@ -1426,7 +1428,7 @@
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization, synthetic data generation tool and logical dump
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization, synthetic data generation and logical dump
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [lichuang/replited](https://github.com/lichuang/replited) - Replicate SQLite to every where(S3\ftp\webdav\google drive\dropbox,etc)
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
@@ -2145,7 +2147,7 @@
 - [tailscale/setec](https://github.com/tailscale/setec) - A secrets management service that uses Tailscale for access control
 - [JFryy/qq](https://github.com/JFryy/qq) - jq, but with many interoperable configuration format transcodings and interactive querying.
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
-- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization, synthetic data generation tool and logical dump
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization, synthetic data generation and logical dump
 - [xhd2015/xgo](https://github.com/xhd2015/xgo) - All-in-one go testing library
 - [andrearaponi/dito](https://github.com/andrearaponi/dito) - an advanced reverse proxy server written in Go
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
@@ -2332,7 +2334,7 @@
 - [bahaaador/bluetooth-usb-peripheral-relay](https://github.com/bahaaador/bluetooth-usb-peripheral-relay) - Bluetooth to USB HID relay using a Raspberry Pi Zero 2 W (or any OTG enabled single board computer)
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 - [edoardottt/pwdsafety](https://github.com/edoardottt/pwdsafety) - 🔒command line tool checking password safety🔒
-- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization, synthetic data generation tool and logical dump
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization, synthetic data generation and logical dump
 - [xhd2015/xgo](https://github.com/xhd2015/xgo) - All-in-one go testing library
 - [andrearaponi/dito](https://github.com/andrearaponi/dito) - an advanced reverse proxy server written in Go
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
@@ -3669,7 +3671,7 @@
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool (with MySQL\MariaDB and MongoDB support)
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [nfrastack/container-db-backup](https://github.com/nfrastack/container-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
-- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization, synthetic data generation tool and logical dump
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization, synthetic data generation and logical dump
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
@@ -3891,6 +3893,7 @@
 
 ## others 
 
+- [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - 
 - [Rodrigodd/strace-tui](https://github.com/Rodrigodd/strace-tui) - A terminal user interface (TUI) for visualizing and exploring strace output
 - [novik133/NovaBluetooth](https://github.com/novik133/NovaBluetooth) - A modern, native Bluetooth indicator plugin for the XFCE4 panel. Built with Vala and GTK3, it communicates directly with BlueZ over D-Bus without relying on any external programs.
 - [vichhka-git/universal-flutter-ssl-pinning](https://github.com/vichhka-git/universal-flutter-ssl-pinning) - Automated SSL pinning bypass for any Flutter & Shorebird version — PyGhidra static analysis auto-discovers BoringSSL and generates ready-to-run Frida & Renef scripts
@@ -4943,7 +4946,7 @@
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
 - [BemiHQ/BemiDB](https://github.com/BemiHQ/BemiDB) - Open-source Snowflake & Fivetran alternative, with Postgres compatibility.
-- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization, synthetic data generation tool and logical dump
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization, synthetic data generation and logical dump
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -4969,6 +4972,7 @@
 
 ## privacy 
 
+- [Microck/kagi-cli](https://github.com/Microck/kagi-cli) - terminal CLI for Kagi that gives you command-line access to search, lenses, assistant, summarization, feeds, and paid API commands.
 - [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
@@ -5339,6 +5343,7 @@
 
 ## rust 
 
+- [Microck/kagi-cli](https://github.com/Microck/kagi-cli) - terminal CLI for Kagi that gives you command-line access to search, lenses, assistant, summarization, feeds, and paid API commands.
 - [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel) - **Rustunnel** is a open-source tunnel service written in Rust that replicates the core functionality of ngrok. It exposes local services running behind NAT/firewalls to the public internet through a r
 - [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
@@ -5506,7 +5511,7 @@
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [google/go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go.
 - [edoardottt/pwdsafety](https://github.com/edoardottt/pwdsafety) - 🔒command line tool checking password safety🔒
-- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization, synthetic data generation tool and logical dump
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization, synthetic data generation and logical dump
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
 - [OWASP/API-Security](https://github.com/OWASP/API-Security) - OWASP API Security Project
@@ -5598,7 +5603,7 @@
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [edoardottt/pwdsafety](https://github.com/edoardottt/pwdsafety) - 🔒command line tool checking password safety🔒
-- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization, synthetic data generation tool and logical dump
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization, synthetic data generation and logical dump
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
@@ -5878,6 +5883,7 @@
 
 ## terminal 
 
+- [Microck/kagi-cli](https://github.com/Microck/kagi-cli) - terminal CLI for Kagi that gives you command-line access to search, lenses, assistant, summarization, feeds, and paid API commands.
 - [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
 - [mdsakalu/zmx-session-manager](https://github.com/mdsakalu/zmx-session-manager) - TUI session manager for zmx
 - [sparklost/endcord](https://github.com/sparklost/endcord) - Feature rich Discord TUI client.
