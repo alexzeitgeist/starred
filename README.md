@@ -396,6 +396,8 @@
 
 ## Go 
 
+- [Necrom4/sbb-tui](https://github.com/Necrom4/sbb-tui) - TUI client for Switzerland's public transports timetables, inspidered by the SBB/CFF/FFS app
+- [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 - [andyrewlee/amux](https://github.com/andyrewlee/amux) - TUI for easily running parallel coding agents
 - [42wim/matterircd](https://github.com/42wim/matterircd) - Connect to your mattermost or slack using your IRC-client of choice.
@@ -1292,7 +1294,6 @@
 - [jaw9c/awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers) - Remote MCP Servers
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user!
 - [Rustring/MsOffice-On-WineBottles-Improved](https://github.com/Rustring/MsOffice-On-WineBottles-Improved) - Use Microsoft Office in Linux using WINE and Bottles (IMPROVED)
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [hongtat/smartthings-capabilities](https://github.com/hongtat/smartthings-capabilities) - SmartThings Capabilities
 - [willccbb/claude-deep-research](https://github.com/willccbb/claude-deep-research) - Claude Deep Research config for Claude Code.
 - [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release) - Feedback on GitHub Copilot Chat UX in Visual Studio Code.
@@ -2495,6 +2496,7 @@
 
 ## TypeScript 
 
+- [unmta/emailmd](https://github.com/unmta/emailmd) - Render markdown into email-safe HTML
 - [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect every tool call, subagent, and token like a browser inspector
 - [DioNanos/gemini-cli-termux](https://github.com/DioNanos/gemini-cli-termux) - Termux optimized fork of Google Gemini CLI with Android integration
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
