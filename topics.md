@@ -3906,7 +3906,7 @@
 - [abhishekray07/claude-meter](https://github.com/abhishekray07/claude-meter) - Tracking Claude Code Usage Limits
 - [stanford-scs/jai](https://github.com/stanford-scs/jai) - Jail your AI agent
 - [jstoneky/nextdns-medic](https://github.com/jstoneky/nextdns-medic) - See exactly what your DNS blocker is blocking — and why it matters.
-- [Necrom4/sbb-tui](https://github.com/Necrom4/sbb-tui) - TUI client for Switzerland's public transports timetables, inspidered by the SBB/CFF/FFS app
+- [Necrom4/sbb-tui](https://github.com/Necrom4/sbb-tui) - TUI client for Switzerland's public transport timetables, inspidered by the SBB/CFF/FFS app
 - [unmta/emailmd](https://github.com/unmta/emailmd) - Render markdown into email-safe HTML
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 - [Rodrigodd/strace-tui](https://github.com/Rodrigodd/strace-tui) - A terminal user interface (TUI) for visualizing and exploring strace output
@@ -3947,7 +3947,7 @@
 - [SicMundus86/ProjectivyIconPack](https://github.com/SicMundus86/ProjectivyIconPack) - Custom made icon pack for projectivy launcher
 - [jMerta/codex-skills](https://github.com/jMerta/codex-skills) - Codex CLI skills catalog
 - [WozzHQ/wozz](https://github.com/WozzHQ/wozz) - Kubernetes cost optimization - catch expensive resource changes before they merge
-- [fcavallarin/wirebrowser](https://github.com/fcavallarin/wirebrowser) - Wirebrowser is an advanced debugging and inspection tool built on the Chrome DevTools Protocol, unifying network interception, API replay, automation, and deep runtime/memory analysis in a single work
+- [fcavallarin/wirebrowser](https://github.com/fcavallarin/wirebrowser) - Wirebrowser is a CDP-based runtime instrumentation platform for the browser. Think Frida, but for JavaScript running in Chrome — without monkeypatching.
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [SunnyTamang/pygitzen](https://github.com/SunnyTamang/pygitzen) - A Python-native Terminal-Based Git Client - Navigate and manage your Git repositories with a beautiful TUI interface inspired by LazyGit.
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
