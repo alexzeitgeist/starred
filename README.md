@@ -74,6 +74,7 @@
 
 ## Assembly 
 
+- [PluMGMK/vbesvga.drv](https://github.com/PluMGMK/vbesvga.drv) - Modern Generic SVGA driver for Windows 3.1
 - [0xAX/asm](https://github.com/0xAX/asm) - Learning assembly for Linux x86_64
 - [DGivney/assemblytutorials](https://github.com/DGivney/assemblytutorials) - This project was put together to teach myself NASM x86 assembly language on linux.
 - [adriancable/8086tiny](https://github.com/adriancable/8086tiny) - Official repository for 8086tiny: a tiny PC emulator/virtual machine
@@ -523,7 +524,7 @@
 - [noperator/sol](https://github.com/noperator/sol) - A de-minifier (formatter, exploder, beautifier) for shell one-liners
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
-- [blacknon/lssh](https://github.com/blacknon/lssh) - lssh: A list-based SSH/SCP/SFTP client supporting single and parallel connections, local bashrc usage on remote machines, and advanced proxying. Written in Go.
+- [blacknon/lssh](https://github.com/blacknon/lssh) - TUI SSH/SCP/SFTP client with list-based host selection, parallel sessions, multi-hop proxying, and port forwarding. Written in Go.
 - [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
@@ -1008,7 +1009,7 @@
 
 ## Java 
 
-- [hectorvent/floci](https://github.com/hectorvent/floci) - Light, fluffy, and always free - AWS Local Emulator
+- [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - AWS Local Emulator
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android
