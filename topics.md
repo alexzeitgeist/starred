@@ -346,6 +346,7 @@
 - [probelabs/probe](https://github.com/probelabs/probe) - AI-friendly semantic code search engine for large codebases. Combines ripgrep speed with tree-sitter AST parsing. Powers AI coding assistants with precise, context-aware code understanding.
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) - A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [lmnr-ai/index](https://github.com/lmnr-ai/index) - The SOTA Open-Source Browser Agent for autonomously performing complex tasks on the web
 - [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) - Develop software autonomously.
@@ -2180,6 +2181,7 @@
 
 ## go 
 
+- [gregdel/pushover](https://github.com/gregdel/pushover) - Go wrapper for the Pushover API
 - [hakwerk/labca](https://github.com/hakwerk/labca) - A private Certificate Authority for internal (lab) use, based on the open source ACME Automated Certificate Management Environment implementation from Let's Encrypt (tm).
 - [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
@@ -2358,6 +2360,7 @@
 
 ## golang 
 
+- [gregdel/pushover](https://github.com/gregdel/pushover) - Go wrapper for the Pushover API
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool (with MySQL\MariaDB and MongoDB support)
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The tiniest authentication and authorization server you have ever seen.
@@ -2657,6 +2660,7 @@
 
 ## hacktoberfest 
 
+- [gregdel/pushover](https://github.com/gregdel/pushover) - Go wrapper for the Pushover API
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [mlm-games/flicky](https://github.com/mlm-games/flicky) - Yet Another FDroid Client (wide screen / TV friendly)
@@ -3624,6 +3628,7 @@
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - local-first and programmable sandboxes for AI agents
 - [probelabs/probe](https://github.com/probelabs/probe) - AI-friendly semantic code search engine for large codebases. Combines ripgrep speed with tree-sitter AST parsing. Powers AI coding assistants with precise, context-aware code understanding.
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) - A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) - Grounded Docs MCP Server: Open-Source Alternative to Context7, Nia, and Ref.Tools
