@@ -1486,7 +1486,7 @@
 - [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 - [localheinz/php-cs-fixer-config](https://github.com/localheinz/php-cs-fixer-config) - :notebook: Provides a configuration factory and multiple rule sets for friendsofphp/php-cs-fixer.
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
-- [ergebnis/php-package-template](https://github.com/ergebnis/php-package-template) - :octocat: + :ledger: Provides a GitHub repository template for a composer package with GitHub Actions workflows using standard PHP development tools.
+- [ergebnis/php-package-template](https://github.com/ergebnis/php-package-template) - 📒 Provides a GitHub repository template for a composer package with GitHub Actions workflows using standard PHP development tools.
 - [spatie/laravel-personal-data-export](https://github.com/spatie/laravel-personal-data-export) - Create zip files containing personal data
 - [beyondcode/laravel-tinker-server](https://github.com/beyondcode/laravel-tinker-server) - Tinker with your variables while working on your Laravel application
 - [doganoo/PHPAlgorithms](https://github.com/doganoo/PHPAlgorithms) - A collection of common algorithms implemented in PHP. The collection is based on "Cracking the Coding Interview" by Gayle Laakmann McDowell
@@ -1601,6 +1601,7 @@
 
 ## Python 
 
+- [qwerasd205/PixelCode](https://github.com/qwerasd205/PixelCode) - A pixel font designed to actually be good for programming.
 - [Rishang/install-release](https://github.com/Rishang/install-release) - A CLI to install and update any single-binary CLI tools from GitHub & GitLab on Linux macOS and WSL
 - [abhishekray07/claude-meter](https://github.com/abhishekray07/claude-meter) - Tracking Claude Code Usage Limits
 - [vichhka-git/universal-flutter-ssl-pinning](https://github.com/vichhka-git/universal-flutter-ssl-pinning) - Automated SSL pinning bypass for any Flutter & Shorebird version — PyGhidra static analysis auto-discovers BoringSSL and generates ready-to-run Frida & Renef scripts
@@ -2508,7 +2509,7 @@
 ## TypeScript 
 
 - [unmta/emailmd](https://github.com/unmta/emailmd) - Render markdown into email-safe HTML
-- [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect every tool call, subagent, and token like a browser inspector
+- [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.
 - [DioNanos/gemini-cli-termux](https://github.com/DioNanos/gemini-cli-termux) - Termux optimized fork of Google Gemini CLI with Android integration
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Built with Tauri v2, DuckDB, and React.
