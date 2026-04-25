@@ -286,7 +286,7 @@
 - [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smal
 - [google/mysql-ripple](https://github.com/google/mysql-ripple) - Ripple, a server that can serve as a middleman in MySQL replication
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
-- [REDasmOrg/REDasm](https://github.com/REDasmOrg/REDasm) - The OpenSource Disassembler
+- [redasm-dev/redasm](https://github.com/redasm-dev/redasm) - The OpenSource Disassembler
 - [janbar/noson-app](https://github.com/janbar/noson-app) - The essential to control music from your SONOS devices on Linux platforms
 - [simsong/tcpflow](https://github.com/simsong/tcpflow) - TCP/IP packet demultiplexer. Download from:
 - [Drive-Trust-Alliance/sedutil](https://github.com/Drive-Trust-Alliance/sedutil) - DTA sedutil  Self encrypting drive software
@@ -957,7 +957,7 @@
 
 - [braedonsaunders/codeflow](https://github.com/braedonsaunders/codeflow) - Paste any GitHub URL → interactive architecture map. See how files connect, find what breaks if you change something. No install, no accounts — runs entirely in your browser.
 - [daugaard47/ChatGPT_Conversations_To_Markdown](https://github.com/daugaard47/ChatGPT_Conversations_To_Markdown) - ChatGPT Conversations to Markdown is a Python script that converts your exported ChatGPT conversations into readable and well-formatted Markdown files.
-- [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist) - Real-time phishing & scam domain blocklist — 110k+ curated threats, 828K+ community, free API, multiple formats
+- [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist) - Real-time phishing & scam domain blocklist — 130k+ curated threats, 888K+ community, free API, multiple formats
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 - [jon6fingrs/ghostboard](https://github.com/jon6fingrs/ghostboard) - a dead simple way to share text between computers via web or cli
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
@@ -1187,6 +1187,7 @@
 
 ## Kotlin 
 
+- [catpuppyapp/PuppyGit](https://github.com/catpuppyapp/PuppyGit) - An android git client
 - [plainhub/plain-app](https://github.com/plainhub/plain-app) - 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your deskto
 - [BURG3R5/NotiFilter](https://github.com/BURG3R5/NotiFilter) - Silence annoying notifications
 - [anujja/DoNotNotify](https://github.com/anujja/DoNotNotify) - DoNotNotify app
@@ -1985,6 +1986,7 @@
 
 ## Rust 
 
+- [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
 - [borgbase/vykar](https://github.com/borgbase/vykar) - Fast, encrypted, deduplicated backups in Rust — with friendly YAML config, a desktop GUI, and support for S3, custom REST and SFTP storage.
 - [hmenzagh/CCMeter](https://github.com/hmenzagh/CCMeter) - Deep analytics and session insights for your Claude Code usage
 - [erickochen/purple](https://github.com/erickochen/purple) - Open-source terminal SSH manager and SSH config editor in Rust. Fuzzy search hundreds of hosts, sync from 16 clouds, transfer files, manage Docker and Podman over SSH, sign short-lived Vault SSH certs
