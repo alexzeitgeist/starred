@@ -983,7 +983,7 @@
 
 - [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH.
 - [anthropics/anthropic-cli](https://github.com/anthropics/anthropic-cli) - The CLI for the Claude API
-- [erickochen/purple](https://github.com/erickochen/purple) - Open-source terminal SSH manager and SSH config editor in Rust. Live tunnel monitoring with throughput, channel events and per-client roster. Fuzzy search hundreds of hosts, sync from 16 clouds, trans
+- [erickochen/purple](https://github.com/erickochen/purple) - Open-source terminal SSH manager that keeps ~/.ssh/config in sync with your cloud infra across 16 cloud providers. Spin up a VM, it shows up in your host list. Destroy it, it dims. Plus fuzzy search, 
 - [oleiade/motus](https://github.com/oleiade/motus) - A dead simple password generator
 - [Rishang/install-release](https://github.com/Rishang/install-release) - A CLI to install and update any single-binary CLI tools from GitHub & GitLab on Linux macOS and WSL
 - [Microck/kagi-cli](https://github.com/Microck/kagi-cli) - terminal CLI for Kagi that gives you command-line access to search, lenses, assistant, summarization, feeds, and paid API commands.
@@ -1603,7 +1603,7 @@
 
 ## devops 
 
-- [erickochen/purple](https://github.com/erickochen/purple) - Open-source terminal SSH manager and SSH config editor in Rust. Live tunnel monitoring with throughput, channel events and per-client roster. Fuzzy search hundreds of hosts, sync from 16 clouds, trans
+- [erickochen/purple](https://github.com/erickochen/purple) - Open-source terminal SSH manager that keeps ~/.ssh/config in sync with your cloud infra across 16 cloud providers. Spin up a VM, it shows up in your host list. Destroy it, it dims. Plus fuzzy search, 
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - AWS Local Emulator
 - [databasus/databasus](https://github.com/databasus/databasus) - Database backup tool (PostgreSQL, MySQL\MariaDB and MongoDB)
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
@@ -1671,7 +1671,7 @@
 
 ## docker 
 
-- [erickochen/purple](https://github.com/erickochen/purple) - Open-source terminal SSH manager and SSH config editor in Rust. Live tunnel monitoring with throughput, channel events and per-client roster. Fuzzy search hundreds of hosts, sync from 16 clouds, trans
+- [erickochen/purple](https://github.com/erickochen/purple) - Open-source terminal SSH manager that keeps ~/.ssh/config in sync with your cloud infra across 16 cloud providers. Spin up a VM, it shows up in your host list. Destroy it, it dims. Plus fuzzy search, 
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - AWS Local Emulator
 - [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Supports plugin for custom flight log formats. Built 
 - [karanhudia/borg-ui](https://github.com/karanhudia/borg-ui) - Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks.
@@ -3657,7 +3657,7 @@
 
 ## mcp 
 
-- [erickochen/purple](https://github.com/erickochen/purple) - Open-source terminal SSH manager and SSH config editor in Rust. Live tunnel monitoring with throughput, channel events and per-client roster. Fuzzy search hundreds of hosts, sync from 16 clouds, trans
+- [erickochen/purple](https://github.com/erickochen/purple) - Open-source terminal SSH manager that keeps ~/.ssh/config in sync with your cloud infra across 16 cloud providers. Spin up a VM, it shows up in your host list. Destroy it, it dims. Plus fuzzy search, 
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown memory system for you and your AI agent
 - [harehare/mq](https://github.com/harehare/mq) - A jq-like Markdown query language for command-line processing
 - [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
@@ -4002,6 +4002,7 @@
 
 ## others 
 
+- [measure-sh/holo](https://github.com/measure-sh/holo) - A terminal UI for Android developers. Monitor performance, browse logs, query databases, record traces, and control devices — without leaving the terminal.
 - [dnakov/litter](https://github.com/dnakov/litter) - 
 - [1st1/lat.md](https://github.com/1st1/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
 - [jtsylve/re-mcp](https://github.com/jtsylve/re-mcp) - A headless MCP server for IDA Pro and Ghidra
@@ -5469,7 +5470,7 @@
 ## rust 
 
 - [borgbase/vykar](https://github.com/borgbase/vykar) - Fast, encrypted, deduplicated backups in Rust — with friendly YAML config, a desktop GUI, and support for S3, custom REST and SFTP storage.
-- [erickochen/purple](https://github.com/erickochen/purple) - Open-source terminal SSH manager and SSH config editor in Rust. Live tunnel monitoring with throughput, channel events and per-client roster. Fuzzy search hundreds of hosts, sync from 16 clouds, trans
+- [erickochen/purple](https://github.com/erickochen/purple) - Open-source terminal SSH manager that keeps ~/.ssh/config in sync with your cloud infra across 16 cloud providers. Spin up a VM, it shows up in your host list. Destroy it, it dims. Plus fuzzy search, 
 - [oleiade/motus](https://github.com/oleiade/motus) - A dead simple password generator
 - [Microck/kagi-cli](https://github.com/Microck/kagi-cli) - terminal CLI for Kagi that gives you command-line access to search, lenses, assistant, summarization, feeds, and paid API commands.
 - [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel) - **Rustunnel** is an open-source tunnel that scales with you. Don't pay for idle time. Secure, Rust-fast, and Pay-as-you-go.. It exposes local services running behind NAT/firewalls to the public intern
@@ -6019,7 +6020,7 @@
 
 - [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH.
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
-- [erickochen/purple](https://github.com/erickochen/purple) - Open-source terminal SSH manager and SSH config editor in Rust. Live tunnel monitoring with throughput, channel events and per-client roster. Fuzzy search hundreds of hosts, sync from 16 clouds, trans
+- [erickochen/purple](https://github.com/erickochen/purple) - Open-source terminal SSH manager that keeps ~/.ssh/config in sync with your cloud infra across 16 cloud providers. Spin up a VM, it shows up in your host list. Destroy it, it dims. Plus fuzzy search, 
 - [Microck/kagi-cli](https://github.com/Microck/kagi-cli) - terminal CLI for Kagi that gives you command-line access to search, lenses, assistant, summarization, feeds, and paid API commands.
 - [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
 - [mdsakalu/zmx-session-manager](https://github.com/mdsakalu/zmx-session-manager) - TUI session manager for zmx
@@ -6177,7 +6178,7 @@
 
 - [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH.
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
-- [erickochen/purple](https://github.com/erickochen/purple) - Open-source terminal SSH manager and SSH config editor in Rust. Live tunnel monitoring with throughput, channel events and per-client roster. Fuzzy search hundreds of hosts, sync from 16 clouds, trans
+- [erickochen/purple](https://github.com/erickochen/purple) - Open-source terminal SSH manager that keeps ~/.ssh/config in sync with your cloud infra across 16 cloud providers. Spin up a VM, it shows up in your host list. Destroy it, it dims. Plus fuzzy search, 
 - [CramBL/mdns-scanner](https://github.com/CramBL/mdns-scanner) - Scan a network and create a list of IPs and associated hostnames, including mDNS hostnames and other aliases.
 - [andyrewlee/amux](https://github.com/andyrewlee/amux) - TUI for easily running parallel coding agents
 - [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
