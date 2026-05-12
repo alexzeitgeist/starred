@@ -38,7 +38,6 @@
 - [Less](#less)
 - [Lua](#lua)
 - [M4](#m4)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nginx](#nginx)
@@ -327,7 +326,7 @@
 
 ## Dart 
 
-- [edde746/plezy](https://github.com/edde746/plezy) - Modern cross-platform Plex client built with Flutter
+- [edde746/plezy](https://github.com/edde746/plezy) - Modern cross-platform Plex & Jellyfin client built with Flutter
 - [gmag11/Paperless_ngx_uploader](https://github.com/gmag11/Paperless_ngx_uploader) - a simple Android app to upload documents to a Paperless-NGX server using the native share intent.
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - An open-source Hacker News client built with Flutter.
@@ -1064,6 +1063,7 @@
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [Libera-Chat/gamja](https://github.com/Libera-Chat/gamja) - A simple IRC web client.
 - [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk/ KernelSu & LSPosed(xposed) modules & rooting guides
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [judge0/typingmind](https://github.com/judge0/typingmind) - Code Execution plugin for TypingMind.
 - [itcon-pty-au/typingmind-cloud-backup](https://github.com/itcon-pty-au/typingmind-cloud-backup) - This is a Typingmind extension to sync Typingmind data to your AWS S3/S3 compatible cloud.
 - [rodyherrera/Quantum](https://github.com/rodyherrera/Quantum) - 🚀 Hackable & Self-hosted Open-Source alternative to Vercel, Heroku, Netlify, etc. All your applications, just in one place. Develop and deploy with your favorite tools, and enjoy continuous deployment
@@ -1235,10 +1235,6 @@
 
 - [matejak/argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator
 
-## MDX 
-
-- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
-
 ## Makefile 
 
 - [philipl/vmware-host-modules](https://github.com/philipl/vmware-host-modules) - Patches needed to build VMware (Player and Workstation) host modules against recent kernels
@@ -1404,7 +1400,7 @@
 - [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
 - [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 - [php/pie](https://github.com/php/pie) - 🥧 The PHP Installer for Extensions
-- [imliam/cpx](https://github.com/imliam/cpx) - Run any command from any composer package, even if it's not installed in your project.
+- [laravel/cpx](https://github.com/laravel/cpx) - Run any command from any composer package, even if it's not installed in your project.
 - [hampel/xenforo-test-framework](https://github.com/hampel/xenforo-test-framework) - 
 - [maelgangloff/domain-watchdog](https://github.com/maelgangloff/domain-watchdog) - 🔍 An app that monitors domain names using RDAP, tracks their history, and helps you acquire them when they expire
 - [corcel/corcel](https://github.com/corcel/corcel) - Use WordPress backend with Laravel or any PHP application
@@ -1595,6 +1591,7 @@
 
 ## Python 
 
+- [dlewis7444/unifi-claude-skill](https://github.com/dlewis7444/unifi-claude-skill) - Claude Code skill for managing a UniFi Dream Machine Pro via its local API
 - [beezly/unifi-apis](https://github.com/beezly/unifi-apis) - UniFi Network and Protect API OpenAPI specifications
 - [jtsylve/re-mcp](https://github.com/jtsylve/re-mcp) - A headless MCP server for IDA Pro and Ghidra
 - [timothydillan/harness-recall](https://github.com/timothydillan/harness-recall) - Universal CLI for exporting and searching AI coding sessions (Codex, Claude Code, Cursor)
@@ -1970,6 +1967,7 @@
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [darkbitio/k8s-mirror](https://github.com/darkbitio/k8s-mirror) - Creates a local mirror of a Kubernetes cluster in a docker container to support offline reviewing
+- [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker!
 - [matt-harvey/git_curate](https://github.com/matt-harvey/git_curate) - ✂️ Peruse and delete git branches ergonomically
 - [EugenMayer/docker-sync](https://github.com/EugenMayer/docker-sync) - Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/*Linux
 - [ninoseki/ukemi](https://github.com/ninoseki/ukemi) - A CLI tool for querying passive DNS services
@@ -2373,7 +2371,6 @@
 - [FarrowStrange/hetzner-api-dyndns](https://github.com/FarrowStrange/hetzner-api-dyndns) - A small script to dynamically update DNS records using the Hetzner DNS-API.
 - [0xC45/homelab-setup](https://github.com/0xC45/homelab-setup) - 
 - [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and isync with a simple interface and safe passwords
-- [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker!
 - [frameable/aviary.sh](https://github.com/frameable/aviary.sh) - Minimal distributed configuration management in bash
 - [Checksum/critic.sh](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
 - [greizgh/vaultwarden-debian](https://github.com/greizgh/vaultwarden-debian) - vaultwarden_rs packaging tool
