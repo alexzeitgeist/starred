@@ -1981,6 +1981,7 @@
 
 ## Rust 
 
+- [hyperb1iss/unifly](https://github.com/hyperb1iss/unifly) - 🌐 Elegant UniFi network management CLI & TUI - for humans and agents
 - [measure-sh/holo](https://github.com/measure-sh/holo) - A terminal UI for Android developers. Monitor performance, browse logs, query databases, record traces, and control devices — without leaving the terminal.
 - [dnakov/litter](https://github.com/dnakov/litter) - 
 - [nevermore23274/AetherTune](https://github.com/nevermore23274/AetherTune) - A terminal-based internet radio player with real-time audio visualization, built in Rust.
@@ -2600,7 +2601,7 @@
 - [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces
-- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [pulkitsharma07/OnlyHumans-Proxy](https://github.com/pulkitsharma07/OnlyHumans-Proxy) - An experimental AntiBot, AntiCrawl reverse proxy for serving simple static content.
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
