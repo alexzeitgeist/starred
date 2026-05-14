@@ -1983,7 +1983,6 @@
 
 - [hyperb1iss/unifly](https://github.com/hyperb1iss/unifly) - 🌐 Elegant UniFi network management CLI & TUI - for humans and agents
 - [measure-sh/holo](https://github.com/measure-sh/holo) - A terminal UI for Android developers. Monitor performance, browse logs, query databases, record traces, and control devices — without leaving the terminal.
-- [dnakov/litter](https://github.com/dnakov/litter) - 
 - [nevermore23274/AetherTune](https://github.com/nevermore23274/AetherTune) - A terminal-based internet radio player with real-time audio visualization, built in Rust.
 - [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH.
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
@@ -2123,7 +2122,7 @@
 - [donkeyteethUX/kcam](https://github.com/donkeyteethUX/kcam) - Linux webcam app
 - [linkdd/procfusion](https://github.com/linkdd/procfusion) - Very simple process manager written in Rust for your Docker images
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to kill processes and containers running on specified ports.
-- [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) - 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
+- [lissy93/AdGuardian-Term](https://github.com/lissy93/AdGuardian-Term) - 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [Stavrospanakakis/is_ready](https://github.com/Stavrospanakakis/is_ready) - Wait for multiple services to become available with zero dependencies
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
@@ -2260,6 +2259,7 @@
 
 ## Shell 
 
+- [Razer6/nordvpn-wireguard-extracter](https://github.com/Razer6/nordvpn-wireguard-extracter) - Extract NordVPN WireGuard Config in bash
 - [rcarmo/pve-microvm](https://github.com/rcarmo/pve-microvm) - Firecracker-like microVMs for Proxmox VE — KVM isolation, under 200 ms boot.
 - [samssausages/proxmox_scripts_fixes](https://github.com/samssausages/proxmox_scripts_fixes) - 
 - [WozzHQ/wozz](https://github.com/WozzHQ/wozz) - Kubernetes cost optimization - catch expensive resource changes before they merge
@@ -2505,6 +2505,7 @@
 
 ## Swift 
 
+- [dnakov/litter](https://github.com/dnakov/litter) - 
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 
@@ -2514,6 +2515,7 @@
 
 ## TypeScript 
 
+- [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate obfuscator.io, unminify and unpack bundled javascript
 - [1st1/lat.md](https://github.com/1st1/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
 - [unmta/emailmd](https://github.com/unmta/emailmd) - Render markdown into email-safe HTML
