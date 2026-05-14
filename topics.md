@@ -334,6 +334,7 @@
 
 ## ai 
 
+- [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
@@ -983,6 +984,7 @@
 
 ## cli 
 
+- [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [hyperb1iss/unifly](https://github.com/hyperb1iss/unifly) - 🌐 Elegant UniFi network management CLI & TUI - for humans and agents
 - [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH.
 - [anthropics/anthropic-cli](https://github.com/anthropics/anthropic-cli) - The CLI for the Claude API
@@ -4006,6 +4008,7 @@
 
 ## others 
 
+- [Razer6/nordvpn-wireguard-extracter](https://github.com/Razer6/nordvpn-wireguard-extracter) - Extract NordVPN WireGuard Config in bash
 - [dlewis7444/unifi-claude-skill](https://github.com/dlewis7444/unifi-claude-skill) - Claude Code skill for managing a UniFi Dream Machine Pro via its local API
 - [beezly/unifi-apis](https://github.com/beezly/unifi-apis) - UniFi Network and Protect API OpenAPI specifications
 - [measure-sh/holo](https://github.com/measure-sh/holo) - A terminal UI for Android developers. Monitor performance, browse logs, query databases, record traces, and control devices — without leaving the terminal.
@@ -5552,7 +5555,7 @@
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
 - [linkdd/procfusion](https://github.com/linkdd/procfusion) - Very simple process manager written in Rust for your Docker images
-- [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) - 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
+- [lissy93/AdGuardian-Term](https://github.com/lissy93/AdGuardian-Term) - 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
 - [Stavrospanakakis/is_ready](https://github.com/Stavrospanakakis/is_ready) - Wait for multiple services to become available with zero dependencies
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
@@ -6070,7 +6073,7 @@
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
-- [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) - 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
+- [lissy93/AdGuardian-Term](https://github.com/lissy93/AdGuardian-Term) - 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -6239,7 +6242,7 @@
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [mrjackwills/oxker](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
-- [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) - 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
+- [lissy93/AdGuardian-Term](https://github.com/lissy93/AdGuardian-Term) - 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
 - [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
@@ -6295,6 +6298,7 @@
 
 ## typescript 
 
+- [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.
 - [guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli) - macOS CLI to free disk space — clears caches, logs, Homebrew and Xcode junk
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
