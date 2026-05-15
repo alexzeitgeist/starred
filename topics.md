@@ -4008,6 +4008,8 @@
 
 ## others 
 
+- [Ozark-Connect/unifi-perf-tweaks](https://github.com/Ozark-Connect/unifi-perf-tweaks) - Performance tuning scripts for UniFi Cloud Gateways - eMMC write pressure, JVM GC, fan control, MongoDB SSD offload, SFP 2.5G support
+- [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) - Claude Code skill to support Android app's reverse engineering
 - [Razer6/nordvpn-wireguard-extracter](https://github.com/Razer6/nordvpn-wireguard-extracter) - Extract NordVPN WireGuard Config in bash
 - [dlewis7444/unifi-claude-skill](https://github.com/dlewis7444/unifi-claude-skill) - Claude Code skill for managing a UniFi Dream Machine Pro via its local API
 - [beezly/unifi-apis](https://github.com/beezly/unifi-apis) - UniFi Network and Protect API OpenAPI specifications
