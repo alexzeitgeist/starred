@@ -138,6 +138,7 @@
 - [asterisk/asterisk](https://github.com/asterisk/asterisk) - The official Asterisk Project repository.
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for nginx
 - [ndilieto/uacme](https://github.com/ndilieto/uacme) - ACMEv2 client written in plain C with minimal dependencies
+- [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Monitor network traffic per executable
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [eigenmatt/mec-tools](https://github.com/eigenmatt/mec-tools) - Tools for modifying Lenovo embedded controller firmware
@@ -285,7 +286,6 @@
 - [google/mysql-ripple](https://github.com/google/mysql-ripple) - Ripple, a server that can serve as a middleman in MySQL replication
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [redasm-dev/redasm](https://github.com/redasm-dev/redasm) - The OpenSource Disassembler
-- [janbar/noson-app](https://github.com/janbar/noson-app) - The essential to control music from your SONOS devices on Linux platforms
 - [simsong/tcpflow](https://github.com/simsong/tcpflow) - TCP/IP packet demultiplexer. Download from:
 - [Drive-Trust-Alliance/sedutil](https://github.com/Drive-Trust-Alliance/sedutil) - DTA sedutil  Self encrypting drive software
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
@@ -1592,6 +1592,7 @@
 
 ## Python 
 
+- [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
 - [dlewis7444/unifi-claude-skill](https://github.com/dlewis7444/unifi-claude-skill) - Claude Code skill for managing a UniFi Dream Machine Pro via its local API
 - [beezly/unifi-apis](https://github.com/beezly/unifi-apis) - UniFi Network and Protect API OpenAPI specifications
 - [jtsylve/re-mcp](https://github.com/jtsylve/re-mcp) - A headless MCP server for IDA Pro and Ghidra
@@ -1705,7 +1706,7 @@
 - [kortix-ai/fast-apply](https://github.com/kortix-ai/fast-apply) - 
 - [danhilse/notion_mcp](https://github.com/danhilse/notion_mcp) - A simple MCP integration that allows Claude to read and manage a personal Notion todo list
 - [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) - [EMNLP'23, ACL'24] To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
-- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API (Don't need API KEY) (ChatGPT, Claude, AtlasCloud and more)
+- [Amm1rr/WebAI-to-API](https://github.com/Amm1rr/WebAI-to-API) - Gemini to API (Don't need API KEY) (ChatGPT, Claude, Grok and more)
 - [Integuru-AI/Integuru](https://github.com/Integuru-AI/Integuru) - The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs.
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
 - [laktak/rsyncy](https://github.com/laktak/rsyncy) - A status/progress bar for rsync
@@ -1716,7 +1717,7 @@
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  This repository contains the open-source PR Agent Project. It is not the Qodo free tier.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  This project It is not the Qodo free tier.
 - [querylab/lazywarden](https://github.com/querylab/lazywarden) - Automatic Bitwarden Backup
 - [paulrobello/par_scrape](https://github.com/paulrobello/par_scrape) - AI assisted web scraping and data extraction
 - [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
@@ -1787,7 +1788,6 @@
 - [0xricksanchez/like-dbg](https://github.com/0xricksanchez/like-dbg) - Fully dockerized Linux kernel debugging environment
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [chip-red-pill/MicrocodeDecryptor](https://github.com/chip-red-pill/MicrocodeDecryptor) - 
-- [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Monitor network traffic per executable
 - [datafold/data-diff](https://github.com/datafold/data-diff) - Compare tables within or across databases
 - [rytilahti/python-miio](https://github.com/rytilahti/python-miio) - Python library & console tool for controlling Xiaomi smart appliances
 - [thegeeklab/ansible-doctor](https://github.com/thegeeklab/ansible-doctor) - Annotation based documentation for your Ansible roles
@@ -1955,6 +1955,7 @@
 ## QML 
 
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
+- [janbar/noson-app](https://github.com/janbar/noson-app) - The essential to control music from your SONOS devices on Linux platforms
 
 ## R 
 
@@ -2539,7 +2540,7 @@
 - [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock privat
 - [joseairosa/recall](https://github.com/joseairosa/recall) - Persistent cross-session memory for Claude & AI agents. Self-host on Redis/Valkey, or use the managed SaaS at recallmcp.com.
 - [yayasoumah/pocket-server](https://github.com/yayasoumah/pocket-server) - An OS for your agents, built for your pocket.
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [Xuanwo/acp-claude-code](https://github.com/Xuanwo/acp-claude-code) - The ACP implementation for Claude Code
 - [Owloops/claude-powerline](https://github.com/Owloops/claude-powerline) - Beautiful vim-style powerline for Claude Code
 - [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - Omnara (YC S25) - Talk to Your AI Agents from Anywhere!
