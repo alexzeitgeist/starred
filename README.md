@@ -1390,7 +1390,7 @@
 
 ## PHP 
 
-- [hyvor/relay](https://github.com/hyvor/relay) - ✉️ Open-Source Email API for Developers. Self-hosted Alternative to SES, Mailgun, SendGrid.
+- [hyvor/relay](https://github.com/hyvor/relay) - ✉️ Open-Source Email API for Developers. Cloud & Self-hosted Alternative to SES, Mailgun, SendGrid.
 - [laravel/mcp](https://github.com/laravel/mcp) - Rapidly build MCP servers for your Laravel applications.
 - [laravel/boost](https://github.com/laravel/boost) - Laravel-focused MCP server for augmenting your AI powered local development experience.
 - [Automattic/wordpress-mcp](https://github.com/Automattic/wordpress-mcp) - WordPress MCP — This repository will be deprecated as stable releases of mcp-adapter become available. Please use https://github.com/WordPress/mcp-adapter for ongoing development and support.
