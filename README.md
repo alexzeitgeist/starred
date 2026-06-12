@@ -1424,7 +1424,7 @@
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
-- [ecsphp/ecs](https://github.com/ecsphp/ecs) - ECS runs PHP-CS-Fixer and PHP_CodeSniffer as a single, parallel, fast tool, zero dependencies, requiring only PHP 7.2+. Configure with prepared sets, gradual levels via, plug-in and keep it running fo
+- [ecsphp/ecs](https://github.com/ecsphp/ecs) - ECS runs PHP-CS-Fixer and PHP_CodeSniffer as a single, parallel fast tool with zero dependencies. Run on PHP 7.2+
 - [microsoft/vscode-remote-try-php](https://github.com/microsoft/vscode-remote-try-php) - PHP sample project for trying out Dev Containers
 - [spatie/file-system-watcher](https://github.com/spatie/file-system-watcher) - Watch changes in the file system using PHP
 - [laravel-arcanist/arcanist](https://github.com/laravel-arcanist/arcanist) - 🧙‍♀️ Arcanist takes the pain out of building multi-step form wizards in Laravel.
@@ -1992,7 +1992,7 @@
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
 - [borgbase/vykar](https://github.com/borgbase/vykar) - Fast, encrypted, deduplicated backups in Rust — with friendly YAML config, a desktop GUI, and support for S3, custom REST and SFTP storage.
 - [hmenzagh/CCMeter](https://github.com/hmenzagh/CCMeter) - Deep analytics and session insights for your Claude Code usage
-- [erickochen/purple](https://github.com/erickochen/purple) - Open-source terminal SSH manager that keeps ~/.ssh/config in sync with your cloud infra across 16 cloud providers. Spin up a VM, it shows up. Destroy it, it dims. Plus live tunnel monitoring, fleet-wi
+- [erickochen/purple](https://github.com/erickochen/purple) - Free, open-source terminal SSH manager and SSH config editor in Rust for macOS and Linux that keeps ~/.ssh/config in sync with 16 cloud providers, monitors live SSH tunnels and manages Docker and Podm
 - [amir20/dtop](https://github.com/amir20/dtop) - Terminal dashboard for Docker monitoring across multiple hosts with Dozzle integration.
 - [CramBL/mdns-scanner](https://github.com/CramBL/mdns-scanner) - Scan a network and create a list of IPs and associated hostnames, including mDNS hostnames and other aliases.
 - [oleiade/motus](https://github.com/oleiade/motus) - A dead simple password generator
@@ -2522,7 +2522,7 @@
 
 ## TypeScript 
 
-- [scanaislop/aislop](https://github.com/scanaislop/aislop) - Catch the slop AI coding agents leave in your code: narrative comments, swallowed exceptions, as-any casts, dead code, oversized functions. 50+ rules across 7 languages (TypeScript, JavaScript, Python
+- [scanaislop/aislop](https://github.com/scanaislop/aislop) - Catch the slop AI coding agents leave in your code: narrative comments, swallowed exceptions, as-any casts, dead code, oversized functions. 50+ rules across 8 languages (TypeScript, JavaScript, Python
 - [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate obfuscator.io, unminify and unpack bundled javascript
