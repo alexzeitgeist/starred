@@ -498,7 +498,6 @@
 - [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk/ KernelSu & LSPosed(xposed) modules & rooting guides
-- [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [mitmproxy/android-unpinner](https://github.com/mitmproxy/android-unpinner) - Remove Certificate Pinning from APKs
 - [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [patrickfav/uber-apk-signer](https://github.com/patrickfav/uber-apk-signer) - A cli tool that helps signing and zip aligning single or multiple Android application packages (APKs) with either debug or provided release certificates. It supports v1, v2 and v3 Android signing sche
@@ -992,6 +991,8 @@
 
 ## cli 
 
+- [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
+- [arnica/depsguard](https://github.com/arnica/depsguard) - Harden your package manager configs against supply chain attacks.
 - [scanaislop/aislop](https://github.com/scanaislop/aislop) - Catch the slop AI coding agents leave in your code: narrative comments, swallowed exceptions, as-any casts, dead code, oversized functions. 50+ rules across 8 languages (TypeScript, JavaScript, Python
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [hyperb1iss/unifly](https://github.com/hyperb1iss/unifly) - 🌐 Elegant UniFi network management CLI & TUI - for humans and agents
@@ -1626,6 +1627,7 @@
 
 ## devops 
 
+- [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
 - [erickochen/purple](https://github.com/erickochen/purple) - Free, open-source terminal SSH manager and SSH config editor in Rust for macOS and Linux that keeps ~/.ssh/config in sync with 16 cloud providers, monitors live SSH tunnels and manages Docker and Podm
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
@@ -2238,6 +2240,7 @@
 
 ## go 
 
+- [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
 - [scanaislop/aislop](https://github.com/scanaislop/aislop) - Catch the slop AI coding agents leave in your code: narrative comments, swallowed exceptions, as-any casts, dead code, oversized functions. 50+ rules across 8 languages (TypeScript, JavaScript, Python
 - [gregdel/pushover](https://github.com/gregdel/pushover) - Go wrapper for the Pushover API
 - [hakwerk/labca](https://github.com/hakwerk/labca) - A private Certificate Authority for internal (lab) use, based on the open source ACME Automated Certificate Management Environment implementation from Let's Encrypt (tm).
@@ -2416,6 +2419,7 @@
 
 ## golang 
 
+- [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
 - [gregdel/pushover](https://github.com/gregdel/pushover) - Go wrapper for the Pushover API
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
@@ -2987,7 +2991,6 @@
 ## ios 
 
 - [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
-- [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [unixzii/ibackupextractor](https://github.com/unixzii/ibackupextractor) - A simple tool for extracting files from iOS backup archive.
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - An open-source Hacker News client built with Flutter.
@@ -3162,6 +3165,7 @@
 
 ## kubernetes 
 
+- [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
@@ -3332,7 +3336,6 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [wcampbell0x2a/heretek](https://github.com/wcampbell0x2a/heretek) - GDB TUI Dashboard for the understanding of vast knowledge
-- [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [joaomagfreitas/zero-monitor](https://github.com/joaomagfreitas/zero-monitor) - (beta) One-click lightweight server monitor tool based on ZeroMQ protocol. Works on Windows, Linux, macOS, Raspberry PI (x32, x64, arm, arm64). Inspired by nezhahq/nezha, zabbix, prometheus. Takes no 
 - [kardwen/passepartui](https://github.com/kardwen/passepartui) - A TUI for pass
 - [cdown/tzupdate](https://github.com/cdown/tzupdate) - Set the system timezone based on IP geolocation.
@@ -3358,7 +3361,7 @@
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [sonos-web/sonos-web](https://github.com/sonos-web/sonos-web) - Sonos controller for your web browser
 - [strongtz/i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support
-- [cyberus-technology/virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) - KVM Backend for VirtualBox. With our current development model, we cannot easily accept pull requests here. If you'd like to contribute, feel free to reach out to us, we are happy to find a solution.
+- [cyberus-technology/virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) - KVM Backend for VirtualBox
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
 - [saucelabs/forwarder](https://github.com/saucelabs/forwarder) - Forwarder is a production-ready, fast MITM proxy with PAC support. It's suitable for debugging, intercepting and manipulating HTTP traffic. It's used as a core component of Sauce Labs Sauce Connect Pr
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
@@ -3927,6 +3930,7 @@
 
 ## npm 
 
+- [arnica/depsguard](https://github.com/arnica/depsguard) - Harden your package manager configs against supply chain attacks.
 - [cnighswonger/claude-code-cache-fix](https://github.com/cnighswonger/claude-code-cache-fix) - Fixes prompt cache regression in Claude Code that causes up to 20x cost increase on resumed sessions
 - [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
@@ -4962,6 +4966,7 @@
 
 ## package-manager 
 
+- [arnica/depsguard](https://github.com/arnica/depsguard) - Harden your package manager configs against supply chain attacks.
 - [Rishang/install-release](https://github.com/Rishang/install-release) - A CLI to install and update any single-binary CLI tools from GitHub & GitLab on Linux macOS and WSL
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [azukaar/GuPM](https://github.com/azukaar/GuPM) - 🐶📦 Global Universal Project Manager -- Package manager, cli tool, scripts for all your projects and your system
@@ -5520,6 +5525,7 @@
 
 ## rust 
 
+- [arnica/depsguard](https://github.com/arnica/depsguard) - Harden your package manager configs against supply chain attacks.
 - [scanaislop/aislop](https://github.com/scanaislop/aislop) - Catch the slop AI coding agents leave in your code: narrative comments, swallowed exceptions, as-any casts, dead code, oversized functions. 50+ rules across 8 languages (TypeScript, JavaScript, Python
 - [hyperb1iss/unifly](https://github.com/hyperb1iss/unifly) - 🌐 Elegant UniFi network management CLI & TUI - for humans and agents
 - [borgbase/vykar](https://github.com/borgbase/vykar) - Fast, encrypted, deduplicated backups in Rust — with friendly YAML config, a desktop GUI, and support for S3, custom REST and SFTP storage.
@@ -6073,6 +6079,7 @@
 
 ## terminal 
 
+- [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
 - [hyperb1iss/unifly](https://github.com/hyperb1iss/unifly) - 🌐 Elegant UniFi network management CLI & TUI - for humans and agents
 - [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH.
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
@@ -6234,6 +6241,7 @@
 
 ## tui 
 
+- [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
 - [hyperb1iss/unifly](https://github.com/hyperb1iss/unifly) - 🌐 Elegant UniFi network management CLI & TUI - for humans and agents
 - [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH.
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
@@ -6574,7 +6582,6 @@
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [joaomagfreitas/zero-monitor](https://github.com/joaomagfreitas/zero-monitor) - (beta) One-click lightweight server monitor tool based on ZeroMQ protocol. Works on Windows, Linux, macOS, Raspberry PI (x32, x64, arm, arm64). Inspired by nezhahq/nezha, zabbix, prometheus. Takes no 
 - [sarat1kyan/suDROID](https://github.com/sarat1kyan/suDROID) - This script provides a convenient and automated way to patch the boot image of an Android device, saving the user time and effort compared to manually patching the image.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
