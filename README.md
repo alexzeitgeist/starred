@@ -1065,7 +1065,6 @@
 - [shaggy2626/typingmind-themes-extensions](https://github.com/shaggy2626/typingmind-themes-extensions) - Supercharge your TypingMind experience with custom extensions and themes by Ken Harris
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [Libera-Chat/gamja](https://github.com/Libera-Chat/gamja) - A simple IRC web client.
-- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk/ KernelSu & LSPosed(xposed) modules & rooting guides
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [judge0/typingmind](https://github.com/judge0/typingmind) - Code Execution plugin for TypingMind.
 - [itcon-pty-au/typingmind-cloud-backup](https://github.com/itcon-pty-au/typingmind-cloud-backup) - This is a Typingmind extension to sync Typingmind data to your AWS S3/S3 compatible cloud.
@@ -1707,6 +1706,7 @@
 - [arjun-ms/cursor-chat-exporter](https://github.com/arjun-ms/cursor-chat-exporter) - 
 - [fabriziosalmi/patterns](https://github.com/fabriziosalmi/patterns) - Automated OWASP CRS and Bad Bot Detection for Nginx, Apache, Traefik and HaProxy
 - [travisvn/gptree](https://github.com/travisvn/gptree) - A CLI tool to provide LLM context for coding projects by combining project files into a single text file (or clipboard text) with directory tree structure.
+- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk/ KernelSu & LSPosed(xposed) modules & rooting guides
 - [roshanlam/iFetch](https://github.com/roshanlam/iFetch) - 🚀 Bulk download your iCloud Drive files and folders with a simple command line tool
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 - [kortix-ai/fast-apply](https://github.com/kortix-ai/fast-apply) - 
