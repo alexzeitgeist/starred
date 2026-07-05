@@ -1033,6 +1033,7 @@
 
 ## cli 
 
+- [deveshctl/layerx](https://github.com/deveshctl/layerx) - LayerX Image Inspector - open-source terminal explorer for container images. Browse layers, spot wasted bytes, and gate CI on image efficiency. Works with Docker, Podman, and OCI archives from a singl
 - [abhixdd/ghgrab](https://github.com/abhixdd/ghgrab) - A simple, pretty terminal tool that lets you browse and download files from GitHub, GitLab, Codeberg, Gitea, and Forgejo without leaving your CLI.
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
@@ -1738,6 +1739,7 @@
 
 ## docker 
 
+- [deveshctl/layerx](https://github.com/deveshctl/layerx) - LayerX Image Inspector - open-source terminal explorer for container images. Browse layers, spot wasted bytes, and gate CI on image efficiency. Works with Docker, Podman, and OCI archives from a singl
 - [erickochen/purple](https://github.com/erickochen/purple) - Free, open-source terminal SSH manager and SSH config editor in Rust for macOS and Linux that keeps ~/.ssh/config in sync with 16 cloud providers, monitors live SSH tunnels and manages Docker and Podm
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
 - [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Supports plugin for custom flight log formats. Built 
@@ -2284,6 +2286,7 @@
 
 ## go 
 
+- [deveshctl/layerx](https://github.com/deveshctl/layerx) - LayerX Image Inspector - open-source terminal explorer for container images. Browse layers, spot wasted bytes, and gate CI on image efficiency. Works with Docker, Podman, and OCI archives from a singl
 - [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
 - [scanaislop/aislop](https://github.com/scanaislop/aislop) - Catch the slop AI coding agents leave in your code: narrative comments, swallowed exceptions, as-any casts, dead code, oversized functions. 50+ rules across 8 languages (TypeScript, JavaScript, Python
 - [gregdel/pushover](https://github.com/gregdel/pushover) - Go wrapper for the Pushover API
@@ -2463,6 +2466,7 @@
 
 ## golang 
 
+- [deveshctl/layerx](https://github.com/deveshctl/layerx) - LayerX Image Inspector - open-source terminal explorer for container images. Browse layers, spot wasted bytes, and gate CI on image efficiency. Works with Docker, Podman, and OCI archives from a singl
 - [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
 - [gregdel/pushover](https://github.com/gregdel/pushover) - Go wrapper for the Pushover API
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
@@ -2773,6 +2777,7 @@
 
 ## hacktoberfest 
 
+- [deveshctl/layerx](https://github.com/deveshctl/layerx) - LayerX Image Inspector - open-source terminal explorer for container images. Browse layers, spot wasted bytes, and gate CI on image efficiency. Works with Docker, Podman, and OCI archives from a singl
 - [gregdel/pushover](https://github.com/gregdel/pushover) - Go wrapper for the Pushover API
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
@@ -4090,6 +4095,8 @@
 
 ## others 
 
+- [kernalix7/winpodx](https://github.com/kernalix7/winpodx) - Windows pod system for Linux
+- [ClickHouse/wal-rus](https://github.com/ClickHouse/wal-rus) - rust port derived from wal-g
 - [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents) - Sub-agents for pi with Claude Code look and feel — parallel execution, live widget, custom agent types, mid-run steering and more ...
 - [tilework-tech/nori-cli](https://github.com/tilework-tech/nori-cli) - A simple CLI for working with any agent
 - [devenjarvis/lathe](https://github.com/devenjarvis/lathe) - Generate hands-on, multi-part technical tutorials on demand, with LLM skills tuned to make content approachable. Then you work through them yourself, by hand ✋
@@ -6299,6 +6306,7 @@
 
 ## tui 
 
+- [deveshctl/layerx](https://github.com/deveshctl/layerx) - LayerX Image Inspector - open-source terminal explorer for container images. Browse layers, spot wasted bytes, and gate CI on image efficiency. Works with Docker, Podman, and OCI archives from a singl
 - [abhixdd/ghgrab](https://github.com/abhixdd/ghgrab) - A simple, pretty terminal tool that lets you browse and download files from GitHub, GitLab, Codeberg, Gitea, and Forgejo without leaving your CLI.
 - [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
 - [hyperb1iss/unifly](https://github.com/hyperb1iss/unifly) - 🌐 Elegant UniFi network management CLI & TUI - for humans and agents
