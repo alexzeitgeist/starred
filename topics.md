@@ -1719,7 +1719,7 @@
 
 ## discord 
 
-- [sparklost/endcord](https://github.com/sparklost/endcord) - Feature rich Discord TUI client.
+- [sparklost/endcord](https://github.com/sparklost/endcord) - The most feature rich Discord TUI client.
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe - A unified CLI and web service for sending notifications across multiple messaging platforms
 - [Bios-Marcel/cordless](https://github.com/Bios-Marcel/cordless) - The Discord terminal client you never knew you wanted.
@@ -6152,7 +6152,7 @@
 - [Microck/kagi-cli](https://github.com/Microck/kagi-cli) - terminal CLI for Kagi that gives you command-line access to search, lenses, assistant, summarization, feeds, and paid API commands.
 - [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
 - [mdsakalu/zmx-session-manager](https://github.com/mdsakalu/zmx-session-manager) - TUI session manager for zmx
-- [sparklost/endcord](https://github.com/sparklost/endcord) - Feature rich Discord TUI client.
+- [sparklost/endcord](https://github.com/sparklost/endcord) - The most feature rich Discord TUI client.
 - [frankdierolf/whis](https://github.com/frankdierolf/whis) - Voice-to-text CLI for terminal users
 - [alejandroqh/term39](https://github.com/alejandroqh/term39) - A modern, retro-styled terminal multiplexer built with Rust.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -6318,7 +6318,7 @@
 - [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
 - [mdsakalu/zmx-session-manager](https://github.com/mdsakalu/zmx-session-manager) - TUI session manager for zmx
-- [sparklost/endcord](https://github.com/sparklost/endcord) - Feature rich Discord TUI client.
+- [sparklost/endcord](https://github.com/sparklost/endcord) - The most feature rich Discord TUI client.
 - [ahkohd/oyo](https://github.com/ahkohd/oyo) - Diff & Review
 - [jordond/jolt](https://github.com/jordond/jolt) - ⚡️A terminal-based battery and energy monitor for macOS and Linux.
 - [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (+djvu)
