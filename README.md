@@ -1610,7 +1610,7 @@
 - [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID) - reverse engineering Gemini's SynthID detection
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
 - [osandov/drgn](https://github.com/osandov/drgn) - Programmable debugger
-- [Dryxio/auto-re-agent](https://github.com/Dryxio/auto-re-agent) - Autonomous reverse-engineering agent: source-aware reverser/checker loop, objective verifier, 11-signal parity engine, Ghidra backend
+- [Dryxio/auto-re-agent](https://github.com/Dryxio/auto-re-agent) - Open-source AI reverse-engineering agent using Ghidra and LLMs to reconstruct and validate C/C++ functions from binaries.
 - [ksred/soupawhisper](https://github.com/ksred/soupawhisper) - 
 - [karanhudia/borg-ui](https://github.com/karanhudia/borg-ui) - Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks.
 - [Amal97/Photo-Clean-Up](https://github.com/Amal97/Photo-Clean-Up) - 
