@@ -4124,7 +4124,7 @@
 - [dlewis7444/unifi-claude-skill](https://github.com/dlewis7444/unifi-claude-skill) - Claude Code skill for managing a UniFi Dream Machine Pro via its local API
 - [beezly/unifi-apis](https://github.com/beezly/unifi-apis) - UniFi Network and Protect API OpenAPI specifications
 - [measure-sh/holo](https://github.com/measure-sh/holo) - A terminal UI for Android developers. Monitor performance, browse logs, query databases, record traces, and control devices — without leaving the terminal.
-- [dnakov/litter](https://github.com/dnakov/litter) - 
+- [0xSero/litter](https://github.com/0xSero/litter) - 
 - [1st1/lat.md](https://github.com/1st1/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
 - [jtsylve/re-mcp](https://github.com/jtsylve/re-mcp) - A headless MCP server for IDA Pro and Ghidra
 - [nevermore23274/AetherTune](https://github.com/nevermore23274/AetherTune) - A terminal-based internet radio player with real-time audio visualization, built in Rust.
