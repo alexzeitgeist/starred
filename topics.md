@@ -432,7 +432,7 @@
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [BinarCode/laravel-restify](https://github.com/BinarCode/laravel-restify) - Laravel API for Ai Agents and humans.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
@@ -944,7 +944,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 - [pgosar/ChatGDB](https://github.com/pgosar/ChatGDB) - Harness the power of ChatGPT inside the GDB or LLDB debugger!
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 
 ## chatgpt-api 
 
@@ -1045,6 +1045,7 @@
 
 ## cli 
 
+- [simoarpe/ziggity](https://github.com/simoarpe/ziggity) - ⚡️  Ziggity an ultra fast, keyboard driven terminal UI for Git, written in Zig.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [deveshctl/layerx](https://github.com/deveshctl/layerx) - LayerX Image Inspector - open-source terminal explorer for container images. Browse layers, spot wasted bytes, and gate CI on image efficiency. Works with Docker, Podman, and OCI archives from a singl
 - [abhixdd/ghgrab](https://github.com/abhixdd/ghgrab) - A simple, pretty terminal tool that lets you browse and download files from GitHub, GitLab, Codeberg, Gitea, and Forgejo without leaving your CLI.
@@ -1324,7 +1325,7 @@
 ## code-review 
 
 - [scanaislop/aislop](https://github.com/scanaislop/aislop) - Catch the slop AI coding agents leave in your code: narrative comments, swallowed exceptions, as-any casts, dead code, oversized functions. 50+ rules across 8 languages (TypeScript, JavaScript, Python
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  This project It is not the Qodo free tier.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 - [enlightn/enlightn](https://github.com/enlightn/enlightn) - Your performance & security consultant, an artisan command away.
 
 ## coding 
@@ -2180,6 +2181,7 @@
 
 ## git 
 
+- [simoarpe/ziggity](https://github.com/simoarpe/ziggity) - ⚡️  Ziggity an ultra fast, keyboard driven terminal UI for Git, written in Zig.
 - [sphireinc/git-ark](https://github.com/sphireinc/git-ark) - A cross-platform CLI/script that takes one local git repo and pushes it to multiple remote git providers as backup mirrors
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [Owloops/claude-powerline](https://github.com/Owloops/claude-powerline) - Beautiful vim-style powerline for Claude Code
@@ -3378,7 +3380,7 @@
 - [Rishang/install-release](https://github.com/Rishang/install-release) - A CLI to install and update any single-binary CLI tools from GitHub & GitLab on Linux macOS and WSL
 - [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
 - [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Supports plugin for custom flight log formats. Built 
-- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
 - [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
 - [frankdierolf/whis](https://github.com/frankdierolf/whis) - Voice-to-text CLI for terminal users
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
@@ -3446,7 +3448,7 @@
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [digitaltrails/vdu_controls](https://github.com/digitaltrails/vdu_controls) - VDU controls - a control panel for monitor brightness/contrast/...
 - [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [0xricksanchez/like-dbg](https://github.com/0xricksanchez/like-dbg) - Fully dockerized Linux kernel debugging environment
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
@@ -3673,7 +3675,7 @@
 - [AlexSSD7/linsk](https://github.com/AlexSSD7/linsk) - 📂 Access Linux-native file systems (including LVM and LUKS) on Windows and macOS with help of a lightweight Alpine Linux VM. x86/ARM supported.
 - [Neverous/efibooteditor](https://github.com/Neverous/efibooteditor) - Boot Editor for (U)EFI based systems
 - [MarioCatuogno/Clean-macOS](https://github.com/MarioCatuogno/Clean-macOS) - 💻 A script to set up a clean macOS environment.
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [thenickdude/KVM-Opencore](https://github.com/thenickdude/KVM-Opencore) - OpenCore disk image for running macOS VMs on Proxmox/QEMU
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -4076,7 +4078,7 @@
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer.  This project It is not the Qodo free tier.
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
@@ -4086,7 +4088,7 @@
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 
 ## opengl 
 
@@ -4113,6 +4115,7 @@
 
 ## others 
 
+- [rt-rtos/asmdiff](https://github.com/rt-rtos/asmdiff) - asmdiff — per-function assembly comparison for paired C implementations
 - [moonstone-sh/moonstone](https://github.com/moonstone-sh/moonstone) - ʀᴇʟɪᴀʙʟᴇ ʟᴜᴀ ᴇɴᴠɪʀᴏɴᴍᴇɴᴛꜱ, ʀᴇᴀᴅʏ ᴀᴛ ᴀ ꜱɴᴀᴘ.
 - [android/skills](https://github.com/android/skills) - 
 - [kernalix7/winpodx](https://github.com/kernalix7/winpodx) - Windows pod system for Linux
@@ -5712,7 +5715,7 @@
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [io12/unf](https://github.com/io12/unf) - UNixize Filename -- replace annoying anti-unix characters in filenames
 - [foresterre/imagineer](https://github.com/foresterre/imagineer) - 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image. Formerly 'sic'
@@ -6169,6 +6172,7 @@
 
 ## terminal 
 
+- [simoarpe/ziggity](https://github.com/simoarpe/ziggity) - ⚡️  Ziggity an ultra fast, keyboard driven terminal UI for Git, written in Zig.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [bjarneo/ku](https://github.com/bjarneo/ku) - A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods.
@@ -6333,6 +6337,7 @@
 
 ## tui 
 
+- [simoarpe/ziggity](https://github.com/simoarpe/ziggity) - ⚡️  Ziggity an ultra fast, keyboard driven terminal UI for Git, written in Zig.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [deveshctl/layerx](https://github.com/deveshctl/layerx) - LayerX Image Inspector - open-source terminal explorer for container images. Browse layers, spot wasted bytes, and gate CI on image efficiency. Works with Docker, Podman, and OCI archives from a singl
 - [abhixdd/ghgrab](https://github.com/abhixdd/ghgrab) - A simple, pretty terminal tool that lets you browse and download files from GitHub, GitLab, Codeberg, Gitea, and Forgejo without leaving your CLI.
@@ -6347,7 +6352,7 @@
 - [bahdotsh/feedr](https://github.com/bahdotsh/feedr) - A feature-rich terminal-based RSS/Atom feed reader written in Rust.
 - [mdsakalu/zmx-session-manager](https://github.com/mdsakalu/zmx-session-manager) - TUI session manager for zmx
 - [sparklost/endcord](https://github.com/sparklost/endcord) - The most feature rich Discord TUI client.
-- [ahkohd/oyo](https://github.com/ahkohd/oyo) - Your complete terminal code review tool
+- [ahkohd/oyo](https://github.com/ahkohd/oyo) - Your not yet complete terminal code review tool
 - [jordond/jolt](https://github.com/jordond/jolt) - ⚡️A terminal-based battery and energy monitor for macOS and Linux.
 - [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (+djvu)
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
@@ -6699,7 +6704,7 @@
 - [AlexSSD7/linsk](https://github.com/AlexSSD7/linsk) - 📂 Access Linux-native file systems (including LVM and LUKS) on Windows and macOS with help of a lightweight Alpine Linux VM. x86/ARM supported.
 - [ElliotKillick/Mido](https://github.com/ElliotKillick/Mido) - The Secure Microsoft Windows Downloader
 - [Neverous/efibooteditor](https://github.com/Neverous/efibooteditor) - Boot Editor for (U)EFI based systems
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
@@ -6781,6 +6786,7 @@
 
 ## zig 
 
+- [simoarpe/ziggity](https://github.com/simoarpe/ziggity) - ⚡️  Ziggity an ultra fast, keyboard driven terminal UI for Git, written in Zig.
 - [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session attach/detach for the terminal
 - [jcalabro/uscope](https://github.com/jcalabro/uscope) - μscope 🔬
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
