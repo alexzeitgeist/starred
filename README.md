@@ -1820,7 +1820,7 @@
 - [tasket/wyng-backup](https://github.com/tasket/wyng-backup) - Faster incremental backups for logical volumes & disk images
 - [geekhaidar/WD-Passport-Unlock-Linux](https://github.com/geekhaidar/WD-Passport-Unlock-Linux) - Steps to Unlock the WD Passport Hard Disk on Linux or Ubuntu Operating System that doesn't support the WD Unlocker
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
-- [HACKER097/wisdom-tree](https://github.com/HACKER097/wisdom-tree) - Wisdom Tree is a TUI concentration app, with features like pomodoro timer, YouTube music player, Lo-fi radio.
+- [truegav/wisdom-tree](https://github.com/truegav/wisdom-tree) - Wisdom Tree is a TUI concentration app, with features like pomodoro timer, YouTube music player, Lo-fi radio.
 - [YoRyan/mailrise](https://github.com/YoRyan/mailrise) - An SMTP gateway for Apprise notifications.
 - [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi, wofi and similar selectors on X11 and Wayland
 - [claffin/cloudproxy](https://github.com/claffin/cloudproxy) - Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
@@ -2553,7 +2553,7 @@
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [Xuanwo/acp-claude-code](https://github.com/Xuanwo/acp-claude-code) - The ACP implementation for Claude Code
 - [Owloops/claude-powerline](https://github.com/Owloops/claude-powerline) - Beautiful vim-style powerline for Claude Code
-- [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - Omnara (YC S25) - Talk to Your AI Agents from Anywhere!
+- [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - The Open Source Agent Control Plane
 - [ishaan1013/shadow](https://github.com/ishaan1013/shadow) - Background coding agent and real-time web interface
 - [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in.
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
