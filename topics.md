@@ -334,7 +334,7 @@
 - [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source coding agent for the Grok API
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM library and toolkit
 - [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) - Develop software autonomously.
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [potpie-ai/potpie](https://github.com/potpie-ai/potpie) - Context Graph for AI Native SDLC
@@ -1189,7 +1189,7 @@
 - [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [sniptt-official/ots](https://github.com/sniptt-official/ots) - 🔐 Share end-to-end encrypted secrets with others via a one-time URL
-- [HACKER097/wisdom-tree](https://github.com/HACKER097/wisdom-tree) - Wisdom Tree is a TUI concentration app, with features like pomodoro timer, YouTube music player, Lo-fi radio.
+- [truegav/wisdom-tree](https://github.com/truegav/wisdom-tree) - Wisdom Tree is a TUI concentration app, with features like pomodoro timer, YouTube music player, Lo-fi radio.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [csv2db/csv2db](https://github.com/csv2db/csv2db) - The CSV to database command line loader
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe - A unified CLI and web service for sending notifications across multiple messaging platforms
@@ -1508,7 +1508,7 @@
 ## cybersecurity 
 
 - [Dryxio/auto-re-agent](https://github.com/Dryxio/auto-re-agent) - Open-source AI reverse-engineering agent using Ghidra and LLMs to reconstruct and validate C/C++ functions from binaries.
-- [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist) - Real-time phishing & scam domain blocklist — 180k+ curated threats, 888K+ community, free API, multiple formats
+- [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist) - Real-time phishing & scam domain blocklist — 190k+ curated threats, 888K+ community, free API, multiple formats
 - [sp34rh34d/Smasher](https://github.com/sp34rh34d/Smasher) - Forensic tool to analyze eml files
 - [maelgangloff/domain-watchdog](https://github.com/maelgangloff/domain-watchdog) - 🔍 An app that monitors domain names using RDAP, tracks their history, and helps you acquire them when they expire
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
@@ -1774,7 +1774,7 @@
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [clemcer/LoggiFly](https://github.com/clemcer/LoggiFly) - Get Alerts from your Docker Container Logs
 - [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub) - A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly   through pull requests and issues. This integration allows Claude to analyze repositor
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM library and toolkit
 - [DumbWareio/DumbTerm](https://github.com/DumbWareio/DumbTerm) - A stupidly simple web-based terminal emulator, with common tools and Starship enabled (via Docker)! 🚀
 - [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt.
 - [SunneV/OpenRegex](https://github.com/SunneV/OpenRegex) - A unified, self-hosted platform for testing and debugging regular expressions. OpenRegex uses isolated polyglot micro-workers to guarantee 100% native engine consistency, featuring ReDoS protection, r
@@ -2491,7 +2491,7 @@
 - [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest OpenID Certified™ authorization and authentication server you have ever seen.
 - [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Bulk domain availability checking via RDAP, DNS, and WHOIS, with prefix/suffix permutations, regex patterns, MCP, and multiple output formats
 - [goforj/godump](https://github.com/goforj/godump) - A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM library and toolkit
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [nil0x42/dnsanity](https://github.com/nil0x42/dnsanity) - High-performance DNS validator using template-based verification
 - [cohesion-org/deepseek-go](https://github.com/cohesion-org/deepseek-go) - Go SDK for DeepSeek V4 API — chat, reasoning, Anthropic-compatible endpoint, tool calling, FIM, and streaming. Also supports OpenRouter, Azure, Ollama, and OpenAI-compatible providers.
@@ -3391,7 +3391,7 @@
 - [samuelngs/apple-emoji-ttf](https://github.com/samuelngs/apple-emoji-ttf) - Brings Apple's vibrant color emojis to Linux, Windows, and the Web
 - [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Free & Open source macOS Cursors.
 - [HenrikBengtsson/brother-ptouch-label-printer-on-linux](https://github.com/HenrikBengtsson/brother-ptouch-label-printer-on-linux) - How to print to a Brother P-touch (PT) label printer on Linux
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM library and toolkit
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
 - [0xAX/asm](https://github.com/0xAX/asm) - Learning assembly for Linux x86_64
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
@@ -3512,7 +3512,7 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [erpalma/throttled](https://github.com/erpalma/throttled) - Workaround for Intel throttling issues in Linux.
+- [erpalma/throttled](https://github.com/erpalma/throttled) - Linux daemon for Intel CPU power limits and firmware-induced throttling.
 - [feross/spoof](https://github.com/feross/spoof) - Easily spoof your MAC address in macOS, Windows, & Linux!
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
 - [fukawi2/fscanary](https://github.com/fukawi2/fscanary) - Monitor and report or action file systems for specific files.
@@ -3654,7 +3654,7 @@
 - [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
 - [guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli) - Free macOS CLI to clean disk space — caches, logs, Homebrew, Xcode. Open-source alternative to CleanMyMac
 - [vuiodev/vuio](https://github.com/vuiodev/vuio) - DLNA Media Server written in Rust, x64/ARM, Linux, Mac, Windows and Docker support
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM library and toolkit
 - [OpenRakis/Spice86](https://github.com/OpenRakis/Spice86) - Reverse engineer and rewrite real mode DOS programs!
 - [stigoleg/keep-alive](https://github.com/stigoleg/keep-alive) - Keep-Alive is a lightweight, cross-platform utility to prevent your system from sleeping. Perfect for uninterrupted downloads, active connections, or long-running tasks, like vibe coding.
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.
@@ -3718,7 +3718,7 @@
 
 ## malware 
 
-- [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist) - Real-time phishing & scam domain blocklist — 180k+ curated threats, 888K+ community, free API, multiple formats
+- [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist) - Real-time phishing & scam domain blocklist — 190k+ curated threats, 888K+ community, free API, multiple formats
 - [evilsocket/sauron](https://github.com/evilsocket/sauron) - A minimalistic cross-platform malware scanner with non-blocking realtime filesystem monitoring using YARA rules.
 - [qilingframework/qiling](https://github.com/qilingframework/qiling) - A True Instrumentable Binary Emulation Framework
 - [marcocesarato/PHP-Antimalware-Scanner](https://github.com/marcocesarato/PHP-Antimalware-Scanner) - AMWScan (PHP Antimalware Scanner) is a free tool to scan php files and analyze your project to find any malicious code inside it.
@@ -3874,7 +3874,7 @@
 
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 - [d-fi/GoFi](https://github.com/d-fi/GoFi) - A performant streaming music downloader written with Go
-- [HACKER097/wisdom-tree](https://github.com/HACKER097/wisdom-tree) - Wisdom Tree is a TUI concentration app, with features like pomodoro timer, YouTube music player, Lo-fi radio.
+- [truegav/wisdom-tree](https://github.com/truegav/wisdom-tree) - Wisdom Tree is a TUI concentration app, with features like pomodoro timer, YouTube music player, Lo-fi radio.
 - [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
 - [NISH1001/playx](https://github.com/NISH1001/playx) - Search and play any song from terminal
 
@@ -3972,7 +3972,7 @@
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM library and toolkit
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
@@ -4102,7 +4102,7 @@
 
 ## osint 
 
-- [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist) - Real-time phishing & scam domain blocklist — 180k+ curated threats, 888K+ community, free API, multiple formats
+- [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist) - Real-time phishing & scam domain blocklist — 190k+ curated threats, 888K+ community, free API, multiple formats
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [dwisiswant0/stargather](https://github.com/dwisiswant0/stargather) - A fast GitHub stargazers information gathering tool
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
@@ -4205,7 +4205,7 @@
 - [ubiquiti-community/unifi-api](https://github.com/ubiquiti-community/unifi-api) - OpenAPI Definition for Unifi Controller API
 - [Xuanwo/acp-claude-code](https://github.com/Xuanwo/acp-claude-code) - The ACP implementation for Claude Code
 - [tsowell/wiremix](https://github.com/tsowell/wiremix) - Simple TUI audio mixer for PipeWire
-- [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - Omnara (YC S25) - Talk to Your AI Agents from Anywhere!
+- [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - The Open Source Agent Control Plane
 - [ishaan1013/shadow](https://github.com/ishaan1013/shadow) - Background coding agent and real-time web interface
 - [Automattic/wordpress-mcp](https://github.com/Automattic/wordpress-mcp) - WordPress MCP — This repository will be deprecated as stable releases of mcp-adapter become available. Please use https://github.com/WordPress/mcp-adapter for ongoing development and support.
 - [Deep-ai-inc/ch.at](https://github.com/Deep-ai-inc/ch.at) - Universal Basic Chat
@@ -5072,7 +5072,7 @@
 
 ## phishing 
 
-- [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist) - Real-time phishing & scam domain blocklist — 180k+ curated threats, 888K+ community, free API, multiple formats
+- [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist) - Real-time phishing & scam domain blocklist — 190k+ curated threats, 888K+ community, free API, multiple formats
 - [sp34rh34d/Smasher](https://github.com/sp34rh34d/Smasher) - Forensic tool to analyze eml files
 
 ## php 
@@ -5320,7 +5320,7 @@
 - [mozilla-ai/any-llm](https://github.com/mozilla-ai/any-llm) - Communicate with an LLM provider using a single interface
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM library and toolkit
 - [pySmartThings/pysmartthings](https://github.com/pySmartThings/pysmartthings) - A python library for interacting with the SmartThings cloud API build with asyncio and aiohttp.
 - [quinneden/acmsg](https://github.com/quinneden/acmsg) - AI generated git commit messages using the OpenRouter API.
 - [ernestofgonzalez/epub-utils](https://github.com/ernestofgonzalez/epub-utils) - A Python library and CLI tool for inspecting ePub from the terminal
@@ -5361,7 +5361,7 @@
 - [thegeeklab/ansible-doctor](https://github.com/thegeeklab/ansible-doctor) - Annotation based documentation for your Ansible roles
 - [arunsivaramanneo/GPU-Viewer](https://github.com/arunsivaramanneo/GPU-Viewer) - A front-end to glxinfo, vulkaninfo, clinfo and es2_info - Linux
 - [GustavoKatel/pushbullet-cli](https://github.com/GustavoKatel/pushbullet-cli) - Access Pushbullet from the command line
-- [HACKER097/wisdom-tree](https://github.com/HACKER097/wisdom-tree) - Wisdom Tree is a TUI concentration app, with features like pomodoro timer, YouTube music player, Lo-fi radio.
+- [truegav/wisdom-tree](https://github.com/truegav/wisdom-tree) - Wisdom Tree is a TUI concentration app, with features like pomodoro timer, YouTube music player, Lo-fi radio.
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [cobbler/cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
@@ -5385,6 +5385,7 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [erpalma/throttled](https://github.com/erpalma/throttled) - Linux daemon for Intel CPU power limits and firmware-induced throttling.
 - [BishopFox/GitGot](https://github.com/BishopFox/GitGot) - Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [feross/SpoofMAC](https://github.com/feross/SpoofMAC) - :briefcase: Change your MAC address for debugging
@@ -5645,7 +5646,7 @@
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM library and toolkit
 - [probelabs/probe](https://github.com/probelabs/probe) - AI-friendly semantic code search engine for large codebases. Combines ripgrep speed with tree-sitter AST parsing. Powers AI coding assistants with precise, context-aware code understanding.
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
@@ -5780,7 +5781,7 @@
 - [oleiade/motus](https://github.com/oleiade/motus) - A dead simple password generator
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
 - [coder/httpjail](https://github.com/coder/httpjail) - HTTP(s) request filter for processes
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM library and toolkit
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
@@ -5880,7 +5881,7 @@
 
 ## security-tools 
 
-- [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist) - Real-time phishing & scam domain blocklist — 180k+ curated threats, 888K+ community, free API, multiple formats
+- [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist) - Real-time phishing & scam domain blocklist — 190k+ curated threats, 888K+ community, free API, multiple formats
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [goshs-labs/goshs](https://github.com/goshs-labs/goshs) - Feature-rich single-binary file server for red teamers and developers.  HTTP/S · WebDAV · FTP/SFTP · SMB · LDAP/S · NTLM hash capture · DNS/SMTP callbacks ·  TLS · Auth · Share links. A powerful pytho
@@ -5914,7 +5915,7 @@
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM library and toolkit
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
@@ -6420,7 +6421,7 @@
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
-- [HACKER097/wisdom-tree](https://github.com/HACKER097/wisdom-tree) - Wisdom Tree is a TUI concentration app, with features like pomodoro timer, YouTube music player, Lo-fi radio.
+- [truegav/wisdom-tree](https://github.com/truegav/wisdom-tree) - Wisdom Tree is a TUI concentration app, with features like pomodoro timer, YouTube music player, Lo-fi radio.
 - [aome510/hackernews-TUI](https://github.com/aome510/hackernews-TUI) - A Terminal UI to browse Hacker News
 - [irevenko/octotui](https://github.com/irevenko/octotui) - 🐙🐱🖥️ GitHub stats in your terminal
 - [skanehira/github-tui](https://github.com/skanehira/github-tui) - TUI client for GitHub
@@ -6461,7 +6462,7 @@
 - [magnitudedev/browser-agent](https://github.com/magnitudedev/browser-agent) - Open-source, vision-first browser agent
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
 - [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub) - A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly   through pull requests and issues. This integration allows Claude to analyze repositor
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM library and toolkit
 - [benbusby/yeetfile](https://github.com/benbusby/yeetfile) - A self-hosted service for encrypted file sharing and storage
 - [cyberagiinc/DevDocs](https://github.com/cyberagiinc/DevDocs) - Completely free, private, UI based Tech Documentation MCP server. Designed for coders and software developers in mind. Easily integrate into Cursor, Windsurf, Cline, Roo Code, Claude Desktop App
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -6680,7 +6681,7 @@
 - [vuiodev/vuio](https://github.com/vuiodev/vuio) - DLNA Media Server written in Rust, x64/ARM, Linux, Mac, Windows and Docker support
 - [samuelngs/apple-emoji-ttf](https://github.com/samuelngs/apple-emoji-ttf) - Brings Apple's vibrant color emojis to Linux, Windows, and the Web
 - [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Free & Open source macOS Cursors.
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM library and toolkit
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
 - [OpenRakis/Spice86](https://github.com/OpenRakis/Spice86) - Reverse engineer and rewrite real mode DOS programs!
 - [stigoleg/keep-alive](https://github.com/stigoleg/keep-alive) - Keep-Alive is a lightweight, cross-platform utility to prevent your system from sleeping. Perfect for uninterrupted downloads, active connections, or long-running tasks, like vibe coding.
@@ -6778,7 +6779,7 @@
 - [Tanq16/ai-context](https://github.com/Tanq16/ai-context) - CLI tool to produce MD context files from many sources, to help interact with LLMs (ChatGPT, Llama3, Claude, etc.).
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [MarcoLucidi01/ytcast](https://github.com/MarcoLucidi01/ytcast) - cast YouTube videos to your smart TV from command-line
-- [HACKER097/wisdom-tree](https://github.com/HACKER097/wisdom-tree) - Wisdom Tree is a TUI concentration app, with features like pomodoro timer, YouTube music player, Lo-fi radio.
+- [truegav/wisdom-tree](https://github.com/truegav/wisdom-tree) - Wisdom Tree is a TUI concentration app, with features like pomodoro timer, YouTube music player, Lo-fi radio.
 - [p-ranav/saveddit](https://github.com/p-ranav/saveddit) - Bulk Downloader for Reddit
 - [blackjack4494/youtube-dlc](https://github.com/blackjack4494/youtube-dlc) - Command-line program to download various media from YouTube.com and other sites
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
