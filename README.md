@@ -165,7 +165,6 @@
 - [moosefs/moosefs](https://github.com/moosefs/moosefs) - MooseFS Distributed Storage – Open Source, Petabyte, Fault-Tolerant, Highly Performing, Scalable Network Distributed File System / Software-Defined Storage
 - [siemens/jailhouse](https://github.com/siemens/jailhouse) - Linux-based partitioning hypervisor
 - [libratbag/libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
-- [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tools
 - [BjornRuytenberg/kdmap-patcher](https://github.com/BjornRuytenberg/kdmap-patcher) - Patches Kernel DMA Protection onto unsupported Thunderbolt-powered systems.
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
@@ -338,6 +337,7 @@
 
 ## Dockerfile 
 
+- [crazy-max/ghaction-github-runtime](https://github.com/crazy-max/ghaction-github-runtime) - GitHub Action to expose GitHub runtime to the workflow
 - [nfrastack/container-db-backup](https://github.com/nfrastack/container-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
 - [theasp/docker-novnc](https://github.com/theasp/docker-novnc) - noVNC Display Container for Docker
 - [OWASP/API-Security](https://github.com/OWASP/API-Security) - OWASP API Security Project
@@ -958,8 +958,7 @@
 
 - [braedonsaunders/codeflow](https://github.com/braedonsaunders/codeflow) - Paste any GitHub URL → interactive architecture map. See how files connect, find what breaks if you change something. No install, no accounts — runs entirely in your browser.
 - [daugaard47/ChatGPT_Conversations_To_Markdown](https://github.com/daugaard47/ChatGPT_Conversations_To_Markdown) - ChatGPT Conversations to Markdown is a Python script that converts your exported ChatGPT conversations into readable and well-formatted Markdown files.
-- [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist) - Real-time phishing & scam domain blocklist — 190k+ curated threats, 888K+ community, free API, multiple formats
-- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
+- [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist) - Real-time phishing & scam domain blocklist — 200k+ curated threats, 888K+ community, free API, multiple formats
 - [jon6fingrs/ghostboard](https://github.com/jon6fingrs/ghostboard) - a dead simple way to share text between computers via web or cli
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [daduckMSFT/WiFiProfileGenerator](https://github.com/daduckMSFT/WiFiProfileGenerator) - Client-side web-app that will generate Android, iOS and Windows profiles in their raw format
@@ -1057,6 +1056,7 @@
 - [DumbWareio/DumbTerm](https://github.com/DumbWareio/DumbTerm) - A stupidly simple web-based terminal emulator, with common tools and Starship enabled (via Docker)! 🚀
 - [DaInfernalCoder/perplexity-mcp](https://github.com/DaInfernalCoder/perplexity-mcp) - A Model Context Protocol (MCP) server for research and documentation assistance using Perplexity AI. Won 1st @ Cline Hackathon
 - [maxnowack/anthropic-proxy](https://github.com/maxnowack/anthropic-proxy) - Proxy server that converts Anthropic API requests to OpenAI format and sends it to OpenRouter. It's used to use Claude Code with OpenRouter instead of the Anthropic API
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [0xCope/typingmind-sync-s3](https://github.com/0xCope/typingmind-sync-s3) - 
 - [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
@@ -1327,6 +1327,7 @@
 - [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [geerlingguy/pi-webcam](https://github.com/geerlingguy/pi-webcam) - Automation to configure a Raspberry Pi as a USB OTG webcam
+- [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [k4yt3x/sshd_config](https://github.com/k4yt3x/sshd_config) - K4YT3X's Hardened OpenSSH Server Configuration
 - [crazy-max/ghaction-dockerhub-mirror](https://github.com/crazy-max/ghaction-dockerhub-mirror) - GitHub Action to mirror a DockerHub repo to another registry
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGu
@@ -1593,6 +1594,7 @@
 
 ## Python 
 
+- [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp) - MCP servers for the UniFi suite of applications, Network, Protect, Access, and Drive
 - [rt-rtos/asmdiff](https://github.com/rt-rtos/asmdiff) - asmdiff — per-function assembly comparison for paired C implementations
 - [android/skills](https://github.com/android/skills) - 
 - [kernalix7/winpodx](https://github.com/kernalix7/winpodx) - Windows pod system for Linux
@@ -2053,7 +2055,7 @@
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM library and toolkit
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast local-first microVM runtime and library
 - [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [al13n321/nnd](https://github.com/al13n321/nnd) - A debugger for Linux
 - [probelabs/probe](https://github.com/probelabs/probe) - AI-friendly semantic code search engine for large codebases. Combines ripgrep speed with tree-sitter AST parsing. Powers AI coding assistants with precise, context-aware code understanding.
@@ -2068,6 +2070,7 @@
 - [0xideas/dirscribe](https://github.com/0xideas/dirscribe) - 
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 - [aconz2/program-explorer](https://github.com/aconz2/program-explorer) - 
+- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [solidiquis/grits](https://github.com/solidiquis/grits) - A simple line-text formatter that makes it simple to parse, filter, and format live logs turning noise into meaningful insights.
 - [ddoemonn/ur-commit-mentor](https://github.com/ddoemonn/ur-commit-mentor) - A CLI tool that analyzes git commits and provides AI-powered code review insights (for now only works with Claude API)
@@ -2587,7 +2590,6 @@
 - [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) - Grounded Docs MCP Server: Open-Source Alternative to Context7, Nia, and Ref.Tools
 - [SunneV/OpenRegex](https://github.com/SunneV/OpenRegex) - A unified, self-hosted platform for testing and debugging regular expressions. OpenRegex uses isolated polyglot micro-workers to guarantee 100% native engine consistency, featuring ReDoS protection, r
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - The official MCP server implementation for the Perplexity API Platform
 - [digitarald/mcp-frontend-starter](https://github.com/digitarald/mcp-frontend-starter) - 
