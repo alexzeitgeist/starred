@@ -1006,7 +1006,6 @@
 
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
-- [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
@@ -1195,6 +1194,7 @@
 - [mlm-games/flicky](https://github.com/mlm-games/flicky) - Yet Another FDroid Client (wide screen / TV friendly)
 - [YangDai2003/Kori](https://github.com/YangDai2003/Kori) - AI-powered Markdown notepad built with Compose Multiplatform.
 - [librepods-org/librepods](https://github.com/librepods-org/librepods) - AirPods liberated from Apple's ecosystem.
+- [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
 - [carlrobertoh/ProxyAI](https://github.com/carlrobertoh/ProxyAI) - The leading open-source AI copilot for JetBrains. Connect to any model in any environment, and customize your coding experience in any way you like.
 - [Stream29/ProxyAsLocalModel](https://github.com/Stream29/ProxyAsLocalModel) - Proxy remote LLM API as Ollama and LM Studio, for using them in JetBrains AI Assistant
 - [DevEmperor/DictateKeyboard](https://github.com/DevEmperor/DictateKeyboard) - A powerful Whisper AI keyboard for reliable speech transcription
@@ -1624,6 +1624,7 @@
 - [sparklost/endcord](https://github.com/sparklost/endcord) - The most feature rich Discord TUI client.
 - [tducret/familylink](https://github.com/tducret/familylink) - A Python package to interact with Google Family Link.
 - [noiwid/HAFamilyLink](https://github.com/noiwid/HAFamilyLink) - Control your children's Android devices through Google Family Link directly from Home Assistant. Monitor screen time, set daily limits, manage bedtime and school schedules, and grant bonus time - all 
+- [imthekaiser/proxmox_scripts_fixes](https://github.com/imthekaiser/proxmox_scripts_fixes) - 
 - [absadiki/whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer) - Free, open source and cross-platform app to decrypt, read and view the Whatsapp msgstore.db database
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [cecli-dev/cecli](https://github.com/cecli-dev/cecli) - cecli - a neat cli assistant
@@ -1998,7 +1999,6 @@
 - [tilework-tech/nori-cli](https://github.com/tilework-tech/nori-cli) - A simple CLI for working with any agent
 - [hyperb1iss/unifly](https://github.com/hyperb1iss/unifly) - 🌐 Elegant UniFi network management CLI & TUI - for humans and agents
 - [measure-sh/holo](https://github.com/measure-sh/holo) - A terminal UI for Android developers. Monitor performance, browse logs, query databases, record traces, and control devices — without leaving the terminal.
-- [0xSero/litter](https://github.com/0xSero/litter) - 
 - [nevermore23274/AetherTune](https://github.com/nevermore23274/AetherTune) - A terminal-based internet radio player with real-time audio visualization, built in Rust.
 - [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH.
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
@@ -2281,7 +2281,6 @@
 - [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) - Claude Code skill to support Android app's reverse engineering
 - [Razer6/nordvpn-wireguard-extracter](https://github.com/Razer6/nordvpn-wireguard-extracter) - Extract NordVPN WireGuard Config in bash
 - [rcarmo/pve-microvm](https://github.com/rcarmo/pve-microvm) - Firecracker-like microVMs for Proxmox VE — KVM isolation, under 200 ms boot.
-- [imthekaiser/proxmox_scripts_fixes](https://github.com/imthekaiser/proxmox_scripts_fixes) - 
 - [WozzHQ/wozz](https://github.com/WozzHQ/wozz) - Kubernetes cost optimization - catch expensive resource changes before they merge
 - [sahaj-b/tymr](https://github.com/sahaj-b/tymr) - Stateful, general purpose timer/alarm CLI for Linux
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
@@ -2524,6 +2523,7 @@
 
 ## Swift 
 
+- [0xSero/litter](https://github.com/0xSero/litter) - 
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 
@@ -2557,7 +2557,7 @@
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [Xuanwo/acp-claude-code](https://github.com/Xuanwo/acp-claude-code) - The ACP implementation for Claude Code
 - [Owloops/claude-powerline](https://github.com/Owloops/claude-powerline) - Beautiful vim-style powerline for Claude Code
-- [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - The Open Source Agent Control Plane
+- [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - The API for production-grade agents
 - [ishaan1013/shadow](https://github.com/ishaan1013/shadow) - Background coding agent and real-time web interface
 - [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in.
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
