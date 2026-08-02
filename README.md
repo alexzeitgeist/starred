@@ -1644,7 +1644,7 @@
 - [samuelngs/apple-emoji-ttf](https://github.com/samuelngs/apple-emoji-ttf) - Brings Apple's vibrant color emojis to Linux, Windows, and the Web
 - [paulrobello/par_cc_usage](https://github.com/paulrobello/par_cc_usage) - Claude Code usage monitor
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
-- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user!
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
 - [RichardAtCT/claude-code-openai-wrapper](https://github.com/RichardAtCT/claude-code-openai-wrapper) - OpenAI API-compatible wrapper for Claude Code
 - [clemcer/LoggiFly](https://github.com/clemcer/LoggiFly) - Get Alerts from your Docker Container Logs
 - [dkarv/ha-bwt-perla](https://github.com/dkarv/ha-bwt-perla) - Custom HA integration for BWT Perla devices
@@ -1880,7 +1880,7 @@
 - [natis1/qencoder](https://github.com/natis1/qencoder) - Video encoder for free formats (av1, vp9, vp8). Easy and cross platform.
 - [ibksturm/dnscrypt-switzerland](https://github.com/ibksturm/dnscrypt-switzerland) - Here's Something i learned about dnscrypt, own server structur and something other funny things
 - [BjornRuytenberg/spycheck-linux](https://github.com/BjornRuytenberg/spycheck-linux) - Verify whether your Thunderbolt-enabled Linux system is vulnerable to the Thunderspy attacks.
-- [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+- [dbcli/mycli](https://github.com/dbcli/mycli) - Rich Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [nosarthur/gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
 - [mozilla/bleach](https://github.com/mozilla/bleach) - Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
