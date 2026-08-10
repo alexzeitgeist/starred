@@ -424,7 +424,7 @@
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [tokuhirom/dcv](https://github.com/tokuhirom/dcv) - TUI viewer for docker-compose
 - [ubiquiti-community/unifi-api](https://github.com/ubiquiti-community/unifi-api) - OpenAPI Definition for Unifi Controller API
-- [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - The API for production-grade agents
+- [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - The open-source alternative to Claude Managed Agents
 - [Deep-ai-inc/ch.at](https://github.com/Deep-ai-inc/ch.at) - Universal Basic Chat
 - [berbyte/sinkzone](https://github.com/berbyte/sinkzone) - Block everything. Allow only what matters. A DNS tool for productivity, focus, and child safety. Allowlist-only internet for distraction-free work.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
@@ -551,7 +551,7 @@
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 - [zdarovich/hetzner-freezer](https://github.com/zdarovich/hetzner-freezer) - 
 - [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop) - A top-like tool for your Kubernetes cluster metrics
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
+- [wader/fq](https://github.com/wader/fq) - fq - jq for binary formats. Tool, language and decoders for working with binary formats.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [hetznercloud/hcloud-cloud-controller-manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager) - Kubernetes cloud-controller-manager for Hetzner Cloud
 - [unblocked/chissl](https://github.com/unblocked/chissl) - A tool to create HTTPS reverse tunnels
