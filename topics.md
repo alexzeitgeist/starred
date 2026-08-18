@@ -5795,6 +5795,7 @@
 
 ## security 
 
+- [tracerman/nextdns-dns-matrix](https://github.com/tracerman/nextdns-dns-matrix) - Benchmarking for Local NextDNS Servers.
 - [oleiade/motus](https://github.com/oleiade/motus) - A dead simple password generator
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
 - [coder/httpjail](https://github.com/coder/httpjail) - HTTP(s) request filter for processes
