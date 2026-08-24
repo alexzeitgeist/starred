@@ -1676,6 +1676,7 @@
 - [ujisati/claude-code-provider-proxy](https://github.com/ujisati/claude-code-provider-proxy) - claude-code-provider-proxy
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [stuzero/pg-mcp-server](https://github.com/stuzero/pg-mcp-server) - 
+- [SunneV/OpenRegex](https://github.com/SunneV/OpenRegex) - A unified, self-hosted platform for testing and debugging regular expressions. OpenRegex uses isolated polyglot micro-workers to guarantee 100% native engine consistency, featuring ReDoS protection, r
 - [1rgs/claude-code-proxy](https://github.com/1rgs/claude-code-proxy) - Run Claude Code on OpenAI models
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [corenting/eddrit](https://github.com/corenting/eddrit) - A lightweight alternative frontend for Reddit.
@@ -2592,7 +2593,6 @@
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [ymichael/open-codex](https://github.com/ymichael/open-codex) - Lightweight coding agent that runs in your terminal
 - [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) - Grounded Docs MCP Server: Open-Source Alternative to Context7, Nia, and Ref.Tools
-- [SunneV/OpenRegex](https://github.com/SunneV/OpenRegex) - A unified, self-hosted platform for testing and debugging regular expressions. OpenRegex uses isolated polyglot micro-workers to guarantee 100% native engine consistency, featuring ReDoS protection, r
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
