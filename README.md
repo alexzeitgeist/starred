@@ -332,7 +332,7 @@
 - [edde746/plezy](https://github.com/edde746/plezy) - Modern cross-platform Plex & Jellyfin client built with Flutter
 - [gmag11/Paperless_ngx_uploader](https://github.com/gmag11/Paperless_ngx_uploader) - a simple Android app to upload documents to a Paperless-NGX server using the native share intent.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
-- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - An open-source Hacker News client.
+- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A highly customizable, open-source Hacker News client.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client.
 - [qcasey/paperless_share](https://github.com/qcasey/paperless_share) - Android App to share your documents with your Paperless server
@@ -342,7 +342,7 @@
 ## Dockerfile 
 
 - [crazy-max/ghaction-github-runtime](https://github.com/crazy-max/ghaction-github-runtime) - GitHub Action to expose GitHub runtime to the workflow
-- [nfrastack/db-backup](https://github.com/nfrastack/db-backup) - Backup multiple database types on a scheduled basis with many customizable options
+- [nfrastack/db-backup](https://github.com/nfrastack/db-backup) - Backup and restore your databases to multiple storage backends
 - [theasp/docker-novnc](https://github.com/theasp/docker-novnc) - noVNC Display Container for Docker
 - [OWASP/API-Security](https://github.com/OWASP/API-Security) - OWASP API Security Project
 - [jauderho/dockerfiles](https://github.com/jauderho/dockerfiles) - Dockerfiles of things
