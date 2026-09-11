@@ -4499,7 +4499,7 @@
 - [cunnie/sslip.io](https://github.com/cunnie/sslip.io) - Golang-based DNS server which maps DNS records with embedded IP addresses to those addresses.
 - [Skyedra/UnspamifyUbuntu](https://github.com/Skyedra/UnspamifyUbuntu) - Remove spam from Ubuntu
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-- [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin
+- [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV-Based Jellyfin Client with Offline Sync
 - [go-debos/debos](https://github.com/go-debos/debos) - Debian OS builder
 - [neva-dev/felix-search-webconsole-plugin](https://github.com/neva-dev/felix-search-webconsole-plugin) - Search Web Console Plugin for Apache Felix
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
