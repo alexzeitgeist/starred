@@ -197,7 +197,6 @@
 - [DiskCryptor/DiskCryptor](https://github.com/DiskCryptor/DiskCryptor) - DiskCryptor Open Source full disk encryption tool
 - [koct9i/ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
 - [mikebrady/shairport-sync](https://github.com/mikebrady/shairport-sync) - AirPlay and AirPlay 2 audio player
-- [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [troglobit/inadyn](https://github.com/troglobit/inadyn) - In-a-Dyn is a dynamic DNS client with multiple SSL/TLS library support
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
@@ -280,6 +279,7 @@
 - [google/brunsli](https://github.com/google/brunsli) - Practical JPEG Repacker
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows.
+- [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [RolfRolles/HexRaysDeob](https://github.com/RolfRolles/HexRaysDeob) - Hex-Rays microcode API plugin for breaking an obfuscating compiler
 - [cseagle/sk3wldbg](https://github.com/cseagle/sk3wldbg) - Debugger plugin for IDA Pro backed by the Unicorn Engine
 - [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
