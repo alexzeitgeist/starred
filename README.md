@@ -1688,7 +1688,7 @@
 - [daniel-lxs/mcp-perplexity](https://github.com/daniel-lxs/mcp-perplexity) - MCP Server for the Perplexity API.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
 - [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules) - Magic to turn Cursor/Windsurf as 90% of Devin
-- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy Qwen, Gemma, or any open weight LLM!
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune (SFT/RL), evaluate, and deploy Qwen, Gemma, or any open agentic LLM/VLM!
 - [suwi-lanji/auto-commit](https://github.com/suwi-lanji/auto-commit) - Have GEMINI stage and write commit for you
 - [Raskoll2/LLMcalc](https://github.com/Raskoll2/LLMcalc) - A tool to determine whether or not your PC can run a given LLM
 - [Doriandarko/RAT-retrieval-augmented-thinking](https://github.com/Doriandarko/RAT-retrieval-augmented-thinking) - RAT is a powerful tool that improves AI responses by leveraging DeepSeek's reasoning capabilities to guide other models through a structured thinking process.
