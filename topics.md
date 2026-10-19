@@ -309,7 +309,6 @@
 
 ## agent 
 
-- [cecli-dev/cecli](https://github.com/cecli-dev/cecli) - cecli - a neat cli assistant
 - [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent) - A minimal yet professional single agent demo project that showcases the core execution pipeline and production-grade features of agents.
 - [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in.
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
@@ -333,7 +332,7 @@
 - [hyperb1iss/unifly](https://github.com/hyperb1iss/unifly) - 🌐 Elegant UniFi network management CLI & TUI - for humans and agents
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliatio
-- [mytechnotalent/rea](https://github.com/mytechnotalent/rea) - Autonomous Reverse Engineering framework.
+- [mytechnotalent/rea](https://github.com/mytechnotalent/rea) - The reverse-engineering framework you can run anywhere, with nothing installed, and actually trust.
 
 ## agents 
 
@@ -429,7 +428,7 @@
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [paulrobello/par_scrape](https://github.com/paulrobello/par_scrape) - AI assisted web scraping and data extraction
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [mytechnotalent/rea](https://github.com/mytechnotalent/rea) - Autonomous Reverse Engineering framework.
+- [mytechnotalent/rea](https://github.com/mytechnotalent/rea) - The reverse-engineering framework you can run anywhere, with nothing installed, and actually trust.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
@@ -484,7 +483,7 @@
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-- [mytechnotalent/rea](https://github.com/mytechnotalent/rea) - Autonomous Reverse Engineering framework.
+- [mytechnotalent/rea](https://github.com/mytechnotalent/rea) - The reverse-engineering framework you can run anywhere, with nothing installed, and actually trust.
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
@@ -876,7 +875,7 @@
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [0wczar/airframe-react](https://github.com/0wczar/airframe-react) - Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16: https://airframe-react-lime.vercel.app
 - [mailslurper/mailslurper](https://github.com/mailslurper/mailslurper) - Local, web-based mail server application. Slurp mails into oblivion!
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 
 ## bot 
 
@@ -901,6 +900,7 @@
 - [zyantific/zydis](https://github.com/zyantific/zydis) - Fast and lightweight x86/x86-64 disassembler and code generation library
 - [alexpovel/srgn](https://github.com/alexpovel/srgn) - A grep-like tool which understands source code syntax and allows for manipulation in addition to search
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
+- [microscope-dev/microscope](https://github.com/microscope-dev/microscope) - 🔬 microscope 🔬
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [asterisk/asterisk](https://github.com/asterisk/asterisk) - The official Asterisk Project repository.
@@ -1159,7 +1159,7 @@
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [reemus-dev/gitnr](https://github.com/reemus-dev/gitnr) - Create `.gitignore` files using one or more templates from TopTal, GitHub or your own collection
 - [fioncat/otree](https://github.com/fioncat/otree) - A command line tool to view objects (JSON/YAML/TOML/XML) in TUI tree widget.
-- [mytechnotalent/rea](https://github.com/mytechnotalent/rea) - Autonomous Reverse Engineering framework.
+- [mytechnotalent/rea](https://github.com/mytechnotalent/rea) - The reverse-engineering framework you can run anywhere, with nothing installed, and actually trust.
 - [facundoolano/ngtop](https://github.com/facundoolano/ngtop) - nginx access logs analytics
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -1472,6 +1472,7 @@
 - [scanaislop/aislop](https://github.com/scanaislop/aislop) - Catch and fix the code-quality issues AI coding agents leave behind - dead code, unsafe casts, swallowed errors, duplication, security risks, and more. 50+ deterministic rules across 10 language targe
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux userspace emulator
+- [microscope-dev/microscope](https://github.com/microscope-dev/microscope) - 🔬 microscope 🔬
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [technyon/nuki_hub](https://github.com/technyon/nuki_hub) - Use an ESP32 as a Hub between a NUKI Lock and your smarthome.
@@ -1532,7 +1533,7 @@
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 
 ## cybersecurity 
@@ -1679,7 +1680,7 @@
 - [SunneV/OpenRegex](https://github.com/SunneV/OpenRegex) - A unified, self-hosted platform for testing and debugging regular expressions. OpenRegex uses isolated polyglot micro-workers to guarantee 100% native engine consistency, featuring ReDoS protection, r
 - [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn) - KubeVPN offers a Cloud Native Dev Environment that connects to kubernetes cluster network.
 - [potpie-ai/potpie](https://github.com/potpie-ai/potpie) - Context Graph for AI Native SDLC
-- [jcalabro/uscope](https://github.com/jcalabro/uscope) - μscope 🔬
+- [microscope-dev/microscope](https://github.com/microscope-dev/microscope) - 🔬 microscope 🔬
 - [TechMitten/cursor-agent-tracking](https://github.com/TechMitten/cursor-agent-tracking) - A repository that provides a structured system for maintaining context and tracking changes in Cursor's AGENT mode conversations through template files, enabling better continuity and organization of 
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -1688,7 +1689,7 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
-- [mytechnotalent/rea](https://github.com/mytechnotalent/rea) - Autonomous Reverse Engineering framework.
+- [mytechnotalent/rea](https://github.com/mytechnotalent/rea) - The reverse-engineering framework you can run anywhere, with nothing installed, and actually trust.
 - [robertpsoane/ducker](https://github.com/robertpsoane/ducker) - A slightly quackers Docker TUI based on k9s 🦆
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
@@ -3009,7 +3010,7 @@
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file
 - [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord) - A pure PHP library for reading and writing word processing documents
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 
 ## html-css-javascript 
@@ -3020,7 +3021,7 @@
 
 - [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) - The Gosub browser engine
 - [ksky521/nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 
 ## http 
 
@@ -3197,7 +3198,7 @@
 ## jekyll 
 
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 
 ## jenkins 
 
@@ -3436,9 +3437,9 @@
 - [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
 - [OpenRakis/Spice86](https://github.com/OpenRakis/Spice86) - Reverse engineer and rewrite real mode DOS programs!
 - [pinoOgni/netnscli](https://github.com/pinoOgni/netnscli) - NetNSCLI is a lightweight Go-based CLI tool, built with Cobra, designed to create and manage local network testbeds effortlessly from YAML configurations.
-- [Techlm77/LinuxPlay](https://github.com/Techlm77/LinuxPlay) - An open-source, ultra-low-latency remote desktop for Linux hosts and Windows clients
+- [Techlm77/LinuxPlay](https://github.com/Techlm77/LinuxPlay) - An open-source, ultra-low-latency remote desktop for Linux.
 - [stigoleg/keep-alive](https://github.com/stigoleg/keep-alive) - Keep-Alive is a lightweight, cross-platform utility to prevent your system from sleeping. Perfect for uninterrupted downloads, active connections, or long-running tasks, like vibe coding.
-- [jcalabro/uscope](https://github.com/jcalabro/uscope) - μscope 🔬
+- [microscope-dev/microscope](https://github.com/microscope-dev/microscope) - 🔬 microscope 🔬
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -5471,7 +5472,7 @@
 - [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python) - Ultimate Python study guide 🐍 🐍 🐍
 - [m3047/trualias](https://github.com/m3047/trualias) - Mentally computable verification codes for email aliases implemented as a postfix tcp table; uses asyncio.
 - [chr0mag/geoipsets](https://github.com/chr0mag/geoipsets) - Python package to generate country-specific IP network ranges consumable by both iptables/ipset and nftables.
-- [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
+- [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup. THIS REPO IS ARCHIVED, DO NOT USE SCRIPT TO SDD THE DOMAINS, IT IS NOT TESTED
 
 ## pytorch 
 
@@ -5527,7 +5528,7 @@
 - [gcgarner/IOTstack](https://github.com/gcgarner/IOTstack) - docker stack for getting started on IOT on the Raspberry PI
 - [lukechilds/dockerpi](https://github.com/lukechilds/dockerpi) - A Virtualised Raspberry Pi inside a Docker image
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
-- [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
+- [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup. THIS REPO IS ARCHIVED, DO NOT USE SCRIPT TO SDD THE DOMAINS, IT IS NOT TESTED
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and manag
 
 ## react 
@@ -5621,7 +5622,7 @@
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [Etto48/HexPatch](https://github.com/Etto48/HexPatch) - HexPatch: a binary patcher and editor written in Rust with terminal user interface (TUI).
 - [keystone-engine/keypatch](https://github.com/keystone-engine/keypatch) - Multi-architecture assembler for IDA Pro. Powered by Keystone Engine.
-- [mytechnotalent/rea](https://github.com/mytechnotalent/rea) - Autonomous Reverse Engineering framework.
+- [mytechnotalent/rea](https://github.com/mytechnotalent/rea) - The reverse-engineering framework you can run anywhere, with nothing installed, and actually trust.
 - [albertan017/LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Reverse Engineering: Decompiling Binary Code with Large Language Models
 - [gcarmix/HexWalk](https://github.com/gcarmix/HexWalk) - Hex Viewer/Editor/Analyzer compatible with Linux/Windows/MacOS
 - [androguard/androguard](https://github.com/androguard/androguard) - Reverse engineering and pentesting for Android applications
@@ -5709,6 +5710,7 @@
 - [mCaptcha/mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no-nonsense CAPTCHA system with seamless UX | Backend component
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
+- [microscope-dev/microscope](https://github.com/microscope-dev/microscope) - 🔬 microscope 🔬
 - [solidiquis/grits](https://github.com/solidiquis/grits) - A simple line-text formatter that makes it simple to parse, filter, and format live logs turning noise into meaningful insights.
 - [ddoemonn/ur-commit-mentor](https://github.com/ddoemonn/ur-commit-mentor) - A CLI tool that analyzes git commits and provides AI-powered code review insights (for now only works with Claude API)
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
@@ -5831,7 +5833,7 @@
 
 ## sass 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 
 ## security 
 
@@ -6109,7 +6111,7 @@
 - [rugk/borg-cron-helper](https://github.com/rugk/borg-cron-helper) - Helper shell scripts for BorgBackup to automate backups and make your life easier… 😉
 - [icyphox/nicy](https://github.com/icyphox/nicy) - :snowflake: a nice and icy zsh and bash prompt in Nim
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
+- [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup. THIS REPO IS ARCHIVED, DO NOT USE SCRIPT TO SDD THE DOMAINS, IT IS NOT TESTED
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [aurora/rmate](https://github.com/aurora/rmate) - Remote TextMate 2 implemented as shell script
@@ -6556,7 +6558,7 @@
 
 - [Rishang/install-release](https://github.com/Rishang/install-release) - A CLI to install and update any single-binary CLI tools from GitHub & GitLab on Linux macOS and WSL
 - [mkasberg/ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu) - Ubuntu/Debian (.deb) packages for Ghostty
-- [Techlm77/LinuxPlay](https://github.com/Techlm77/LinuxPlay) - An open-source, ultra-low-latency remote desktop for Linux hosts and Windows clients
+- [Techlm77/LinuxPlay](https://github.com/Techlm77/LinuxPlay) - An open-source, ultra-low-latency remote desktop for Linux.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [alivx/CIS-Ubuntu-20.04-Ansible](https://github.com/alivx/CIS-Ubuntu-20.04-Ansible) - Ansible Role to Automate CIS v1.1.0 Ubuntu Linux 18.04 LTS, 20.04 LTS Remediation
 - [Oefenweb/ansible-postfix](https://github.com/Oefenweb/ansible-postfix) - Ansible role to set up postfix in Debian-like systems
@@ -6861,7 +6863,7 @@
 - [mikkelam/fast-cli](https://github.com/mikkelam/fast-cli) - Command line version of fast.com in ~1.2 MB
 - [simoarpe/ziggity](https://github.com/simoarpe/ziggity) - ⚡️  Ziggity an ultra fast, keyboard driven terminal UI for Git, written in Zig.
 - [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session attach/detach for the terminal
-- [jcalabro/uscope](https://github.com/jcalabro/uscope) - μscope 🔬
+- [microscope-dev/microscope](https://github.com/microscope-dev/microscope) - 🔬 microscope 🔬
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 
