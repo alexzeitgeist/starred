@@ -222,6 +222,7 @@
 - [OpenRakis/Spice86](https://github.com/OpenRakis/Spice86) - Reverse engineer and rewrite real mode DOS programs!
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - [uxmal/reko](https://github.com/uxmal/reko) - Reko is a binary decompiler.
+- [meysamhadeli/codai](https://github.com/meysamhadeli/codai) - The open source coding agent for your terminal.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Remove Ads From Various Places Around Windows 11
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - WinUI app for building smaller, customized Windows 11 images.
@@ -505,7 +506,6 @@
 - [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
 - [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend
 - [openai/openai-go](https://github.com/openai/openai-go) - The official Go library for the OpenAI API
-- [meysamhadeli/codai](https://github.com/meysamhadeli/codai) - AI coding agent for your terminal.
 - [google/go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go.
 - [JFryy/qq](https://github.com/JFryy/qq) - jq, but with many interoperable configuration format transcodings and interactive querying.
 - [bahaaador/bluetooth-usb-peripheral-relay](https://github.com/bahaaador/bluetooth-usb-peripheral-relay) - Bluetooth to USB HID relay using a Raspberry Pi Zero 2 W (or any OTG enabled single board computer)
