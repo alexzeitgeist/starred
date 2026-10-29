@@ -197,7 +197,7 @@
 - [DiskCryptor/DiskCryptor](https://github.com/DiskCryptor/DiskCryptor) - DiskCryptor Open Source full disk encryption tool
 - [koct9i/ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
 - [mikebrady/shairport-sync](https://github.com/mikebrady/shairport-sync) - AirPlay and AirPlay 2 audio player
-- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
+- [meta/zstd](https://github.com/meta/zstd) - Zstandard - Fast real-time compression algorithm
 - [troglobit/inadyn](https://github.com/troglobit/inadyn) - In-a-Dyn is a dynamic DNS client with multiple SSL/TLS library support
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
 - [Vasfed/nginx_ipset_blacklist](https://github.com/Vasfed/nginx_ipset_blacklist) - nginx module to use linux netfilter ipsets as blacklists
@@ -410,7 +410,7 @@
 - [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web
 - [mdsakalu/zmx-session-manager](https://github.com/mdsakalu/zmx-session-manager) - TUI session manager for zmx
 - [hakwerk/labca](https://github.com/hakwerk/labca) - A private Certificate Authority for internal (lab) use, based on the open source ACME Automated Certificate Management Environment implementation from Let's Encrypt (tm).
-- [mickamy/sql-tap](https://github.com/mickamy/sql-tap) - Watch SQL traffic in real-time with a TUI
+- [proto-tap/sql-tap](https://github.com/proto-tap/sql-tap) - Watch SQL traffic in real-time with a TUI
 - [LeonardoTrapani/hyprvoice](https://github.com/LeonardoTrapani/hyprvoice) - Voice‑powered typing for Wayland/Hyprland desktops
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [yeya/wire-seek](https://github.com/yeya/wire-seek) - A tiny tool to find the perfect MTU for your WireGuard tunnel in seconds.
@@ -679,7 +679,6 @@
 - [pennersr/shove](https://github.com/pennersr/shove) - Asynchronous & persistent push notification service, supporting APNS, FCM, Web Push, Telegram and Email. Written in Go (Golang). Mirror of https://codeberg.org/pennersr/shove
 - [detectify/page-fetch](https://github.com/detectify/page-fetch) - Fetch web pages using headless Chrome, storing all fetched resources including JavaScript files. Run arbitrary JavaScript on many web pages and see the returned values
 - [taskctl/taskctl](https://github.com/taskctl/taskctl) - Concurrent task runner, developer's routine tasks automation toolkit. Simple modern alternative to GNU Make 🧰
-- [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application
 - [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe - A unified CLI and web service for sending notifications across multiple messaging platforms
 - [v-byte-cpu/sx](https://github.com/v-byte-cpu/sx) - :vulcan_salute: Fast, modern, easy-to-use network scanner
@@ -1707,6 +1706,7 @@
 - [JosephRedfern/docker-mounter](https://github.com/JosephRedfern/docker-mounter) - Utility to mount Docker images locally without requiring container creation
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [shobrook/termite](https://github.com/shobrook/termite) - Generative UI in your terminal
+- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [QaisarRajput/codebase_to_text](https://github.com/QaisarRajput/codebase_to_text) - For GenAI and LLM usage. This package converts codebase (folder structure with files) into a single text file or a Microsoft Word document (.docx), preserving folder structure and file contents. The t
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, 50+ TTS engines with voice cloning and 1696 languages!
 - [arjun-ms/cursor-chat-exporter](https://github.com/arjun-ms/cursor-chat-exporter) - 
@@ -2305,11 +2305,9 @@
 - [imapsync/imapsync](https://github.com/imapsync/imapsync) - Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two oth
 - [jeremehancock/CLIX](https://github.com/jeremehancock/CLIX) - A Plex Terminal Media Player
 - [markshust/docker-magento](https://github.com/markshust/docker-magento) - Mark Shust's Docker Configuration for Magento
-- [MicrosoftDocs/azure-devops-docs](https://github.com/MicrosoftDocs/azure-devops-docs) - Public repo for the Azure DevOps content rendered at https://learn.microsoft.com/azure/devops/
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
-- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 9.XX Support and macOS High Sierra ~ macOS Tahoe Support.
 - [WhatsApp/proxy](https://github.com/WhatsApp/proxy) - This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP is not currently supported)
 - [un1t/appimage-desktop-entry](https://github.com/un1t/appimage-desktop-entry) - 
@@ -2670,6 +2668,7 @@
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
 - [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
+- [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
