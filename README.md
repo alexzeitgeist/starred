@@ -1634,6 +1634,7 @@
 - [mvfc/backvault](https://github.com/mvfc/backvault) - Docker container to backup Bitwarden/Vaultwarden vaults to password protected json files
 - [MiniMax-AI/Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent) - A minimal yet professional single agent demo project that showcases the core execution pipeline and production-grade features of agents.
 - [Katakate/k7](https://github.com/Katakate/k7) - Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐
+- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [paulilaaso/lue](https://github.com/paulilaaso/lue) - Terminal eBook Reader with Audiobook-Quality Text-to-Speech — Supports EPUB, PDF, DOCX, HTML, RTF, TXT, and MD.
 - [mlapaglia/Borgitory](https://github.com/mlapaglia/Borgitory) - Web UI for managing BorgBackup repositories with scheduling, monitoring, and cloud sync
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
@@ -2226,7 +2227,7 @@
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [TimeToogo/tunshell](https://github.com/TimeToogo/tunshell) - Remote shell into ephemeral environments 🐚 🦀
-- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - A tasteful, lean, fast & safe pure Rust implementation of Git
 - [foriequal0/git-trim](https://github.com/foriequal0/git-trim) - Automatically trims your branches whose tracking remote refs are merged or stray
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
@@ -2289,7 +2290,6 @@
 - [rcarmo/pve-microvm](https://github.com/rcarmo/pve-microvm) - Firecracker-like microVMs for Proxmox VE — KVM isolation, under 200 ms boot.
 - [WozzHQ/wozz](https://github.com/WozzHQ/wozz) - Kubernetes cost optimization - catch expensive resource changes before they merge
 - [sahaj-b/tymr](https://github.com/sahaj-b/tymr) - Stateful, general purpose timer/alarm CLI for Linux
-- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [kagisearch/ask](https://github.com/kagisearch/ask) - A lightweight bash script for querying AI models via the OpenRouter API, optimized for direct, executable output.
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [ericbuess/claude-code-docs](https://github.com/ericbuess/claude-code-docs) - 
@@ -2425,7 +2425,7 @@
 - [mbailey/bash-my-aws](https://github.com/mbailey/bash-my-aws) - Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
 - [infostreams/db](https://github.com/infostreams/db) - Version control for databases: save, restore, and archive snapshots of your database from the command line
 - [dspinellis/pmonitor](https://github.com/dspinellis/pmonitor) - Progress monitor: monitor a job's progress
-- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚🇺🇸🗽Secure remote browsing anywhere, any way you like it.
+- [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚🇺🇸🗽Secure remote browsing anywhere, any way you like it. Since 2018.
 - [DataDog/yubikey](https://github.com/DataDog/yubikey) - ## Auto-archived due to inactivity. ## YubiKey at Datadog
 - [Kron4ek/wine-portable-executable](https://github.com/Kron4ek/wine-portable-executable) - Wine builds packed into portable executables
 - [cyberark/bash-lib](https://github.com/cyberark/bash-lib) - Library for bash utility methods and tools
@@ -2578,7 +2578,7 @@
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and proje
 - [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Your AI workspace for models, agents, and productivity.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
 - [WuKongAI-CMU/Claude-Collab](https://github.com/WuKongAI-CMU/Claude-Collab) - The AI collaboration framework that prevents echo chambers - Real-time   multi-agent coordination with enforced diversity and anti-groupthink   protection
 - [magnitudedev/browser-agent](https://github.com/magnitudedev/browser-agent) - Open-source, vision-first browser agent
