@@ -333,6 +333,7 @@
 ## agent-skills 
 
 - [hyperb1iss/unifly](https://github.com/hyperb1iss/unifly) - 🌐 Elegant UniFi network management CLI & TUI - for humans and agents
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Your AI workspace for models, agents, and productivity.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliatio
 - [mytechnotalent/rea](https://github.com/mytechnotalent/rea) - The reverse-engineering framework you can run anywhere, with nothing installed, and actually trust.
 
@@ -3426,7 +3427,7 @@
 
 ## linux 
 
-- [xXRoxXeRXx/lymic](https://github.com/xXRoxXeRXx/lymic) - 🚀 High-performance, cross-platform desktop synchronization client for Immich. Fast, reliable, and built with Rust, Tauri, and SvelteKit.
+- [xXRoxXeRXx/lymic](https://github.com/xXRoxXeRXx/lymic) - Lymic, high performance desktop app for Immich. Cross-platform synchronization client for Linux, Windows and macOS. Fast, reliable, and built with Rust, Tauri, and SvelteKit.
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
@@ -3608,6 +3609,7 @@
 - [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools) - Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.
 - [mozilla-ai/any-llm](https://github.com/mozilla-ai/any-llm) - Communicate with an LLM provider using a single interface
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Your AI workspace for models, agents, and productivity.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliatio
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
@@ -3699,7 +3701,7 @@
 
 ## macos 
 
-- [xXRoxXeRXx/lymic](https://github.com/xXRoxXeRXx/lymic) - 🚀 High-performance, cross-platform desktop synchronization client for Immich. Fast, reliable, and built with Rust, Tauri, and SvelteKit.
+- [xXRoxXeRXx/lymic](https://github.com/xXRoxXeRXx/lymic) - Lymic, high performance desktop app for Immich. Cross-platform synchronization client for Linux, Windows and macOS. Fast, reliable, and built with Rust, Tauri, and SvelteKit.
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [Rishang/install-release](https://github.com/Rishang/install-release) - A CLI to install and update any single-binary CLI tools from GitHub & GitLab on Linux macOS and WSL
@@ -5687,7 +5689,7 @@
 
 ## rust 
 
-- [xXRoxXeRXx/lymic](https://github.com/xXRoxXeRXx/lymic) - 🚀 High-performance, cross-platform desktop synchronization client for Immich. Fast, reliable, and built with Rust, Tauri, and SvelteKit.
+- [xXRoxXeRXx/lymic](https://github.com/xXRoxXeRXx/lymic) - Lymic, high performance desktop app for Immich. Cross-platform synchronization client for Linux, Windows and macOS. Fast, reliable, and built with Rust, Tauri, and SvelteKit.
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [abhixdd/ghgrab](https://github.com/abhixdd/ghgrab) - A simple, pretty terminal tool that lets you browse and download files from GitHub, GitLab, Codeberg, Gitea, and Forgejo without leaving your CLI.
@@ -5986,7 +5988,7 @@
 
 ## self-hosted 
 
-- [xXRoxXeRXx/lymic](https://github.com/xXRoxXeRXx/lymic) - 🚀 High-performance, cross-platform desktop synchronization client for Immich. Fast, reliable, and built with Rust, Tauri, and SvelteKit.
+- [xXRoxXeRXx/lymic](https://github.com/xXRoxXeRXx/lymic) - Lymic, high performance desktop app for Immich. Cross-platform synchronization client for Linux, Windows and macOS. Fast, reliable, and built with Rust, Tauri, and SvelteKit.
 - [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel) - Self-hosted, secure tunnel server in Rust. Expose local HTTP/HTTPS/TCP/UDP services to the public internet via TLS-encrypted WebSocket. Open-source, pay-as-you-go managed option, MCP server for AI age
 - [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Supports plugin for custom flight log formats. Built 
 - [karanhudia/borg-ui](https://github.com/karanhudia/borg-ui) - Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks.
@@ -6207,7 +6209,7 @@
 
 ## svelte 
 
-- [xXRoxXeRXx/lymic](https://github.com/xXRoxXeRXx/lymic) - 🚀 High-performance, cross-platform desktop synchronization client for Immich. Fast, reliable, and built with Rust, Tauri, and SvelteKit.
+- [xXRoxXeRXx/lymic](https://github.com/xXRoxXeRXx/lymic) - Lymic, high performance desktop app for Immich. Cross-platform synchronization client for Linux, Windows and macOS. Fast, reliable, and built with Rust, Tauri, and SvelteKit.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
@@ -6626,7 +6628,7 @@
 
 ## video 
 
-- [xXRoxXeRXx/lymic](https://github.com/xXRoxXeRXx/lymic) - 🚀 High-performance, cross-platform desktop synchronization client for Immich. Fast, reliable, and built with Rust, Tauri, and SvelteKit.
+- [xXRoxXeRXx/lymic](https://github.com/xXRoxXeRXx/lymic) - Lymic, high performance desktop app for Immich. Cross-platform synchronization client for Linux, Windows and macOS. Fast, reliable, and built with Rust, Tauri, and SvelteKit.
 - [PipeWire/pipewire](https://github.com/PipeWire/pipewire) - Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
 - [p-ranav/saveddit](https://github.com/p-ranav/saveddit) - Bulk Downloader for Reddit
 - [geerlingguy/pi-webcam](https://github.com/geerlingguy/pi-webcam) - Automation to configure a Raspberry Pi as a USB OTG webcam
@@ -6764,7 +6766,7 @@
 
 ## windows 
 
-- [xXRoxXeRXx/lymic](https://github.com/xXRoxXeRXx/lymic) - 🚀 High-performance, cross-platform desktop synchronization client for Immich. Fast, reliable, and built with Rust, Tauri, and SvelteKit.
+- [xXRoxXeRXx/lymic](https://github.com/xXRoxXeRXx/lymic) - Lymic, high performance desktop app for Immich. Cross-platform synchronization client for Linux, Windows and macOS. Fast, reliable, and built with Rust, Tauri, and SvelteKit.
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [arpanghosh8453/open-dronelog](https://github.com/arpanghosh8453/open-dronelog) - Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Supports plugin for custom flight log formats. Built 
