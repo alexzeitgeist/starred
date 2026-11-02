@@ -1335,6 +1335,7 @@
 - [crazy-max/ghaction-dockerhub-mirror](https://github.com/crazy-max/ghaction-dockerhub-mirror) - GitHub Action to mirror a DockerHub repo to another registry
 - [azet/community_bash_style_guide](https://github.com/azet/community_bash_style_guide) - Community Bash Style Guide: writing useful and modern bash scripts, seriously.
 - [dgryski/awesome-go-style](https://github.com/dgryski/awesome-go-style) - A collection of Go style guides
+- [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [yireo/magento2-replace-core](https://github.com/yireo/magento2-replace-core) - Magento 2 meta-package to replace all optional core modules
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
@@ -1586,7 +1587,7 @@
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [vrdse/MeltdownSpectreReport](https://github.com/vrdse/MeltdownSpectreReport) - Query mitigation status of Meltdown and Spectre against one or multiple Windows computers. It uses parallelization for fast data collection.
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows 10 & Windows 11 on GitHub
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most advanced PowerShell module on GitHub for fine-tuning Windows 11 & Windows 10
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 
 ## Pug 
@@ -1992,7 +1993,7 @@
 
 ## Rust 
 
-- [xXRoxXeRXx/lymic](https://github.com/xXRoxXeRXx/lymic) - 🚀 High-performance, cross-platform desktop synchronization client for Immich. Fast, reliable, and built with Rust, Tauri, and SvelteKit.
+- [xXRoxXeRXx/lymic](https://github.com/xXRoxXeRXx/lymic) - Lymic, high performance desktop app for Immich. Cross-platform synchronization client for Linux, Windows and macOS. Fast, reliable, and built with Rust, Tauri, and SvelteKit.
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [ClickHouse/wal-rus](https://github.com/ClickHouse/wal-rus) - rust port derived from wal-g
@@ -2234,7 +2235,6 @@
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [adriangoransson/renamer](https://github.com/adriangoransson/renamer) - Command line tool to rename multiple files at once.
 - [aeosynth/bk](https://github.com/aeosynth/bk) - Terminal Epub reader
-- [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [svartalf/rust-battop](https://github.com/svartalf/rust-battop) - Interactive batteries viewer
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [gsquire/topngx](https://github.com/gsquire/topngx) - top for NGINX
@@ -2585,7 +2585,6 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [claude-did-this/claude-hub](https://github.com/claude-did-this/claude-hub) - A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly   through pull requests and issues. This integration allows Claude to analyze repositor
-- [possibilities/claude-composer](https://github.com/possibilities/claude-composer) - 
 - [badlogic/lemmy](https://github.com/badlogic/lemmy) - Wrapper around tool using LLMs for agentic workflows
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - Control any computer remotely
