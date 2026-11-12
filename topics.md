@@ -4212,6 +4212,7 @@
 
 ## others 
 
+- [tylertms/Stela](https://github.com/tylertms/Stela) - A general purpose Apple Silicon layer for x86-64 PCs
 - [SeniorMatt/kinoklip](https://github.com/SeniorMatt/kinoklip) - Kinoklip — fast, GPU-accelerated non-linear video editor for Linux (Qt 6 + FFmpeg)
 - [adelmonte/victoria-launcher](https://github.com/adelmonte/victoria-launcher) - An open source alternative to Niagara Launcher — a minimal, list-based Android home screen.
 - [danieldev23/frida-ssl-bypass](https://github.com/danieldev23/frida-ssl-bypass) - 
