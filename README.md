@@ -78,7 +78,7 @@
 
 ## Astro 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 
 ## Awk 
 
@@ -820,7 +820,7 @@
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 - [nextdns/nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
-- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish ·
+- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI SRE · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfi
 - [d2r2/go-rsync](https://github.com/d2r2/go-rsync) - Best GTK+ frontend (backup application) for RSYNC utility.
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
@@ -1085,6 +1085,7 @@
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
 - [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
 - [SmartThingsDevelopers/Sample-RulesAPI](https://github.com/SmartThingsDevelopers/Sample-RulesAPI) - Rules are a versatile tool, enabling you to automate the Devices and services that connect to the SmartThings Platform. When possible, Rules execute locally on a Hub.
+- [adulau/mmdb-server](https://github.com/adulau/mmdb-server) - mmdb-server is an open source fast API server to lookup IP addresses for their geographic location.
 - [ice987987/ioBroker.wiserbyfeller](https://github.com/ice987987/ioBroker.wiserbyfeller) - This Adapter enables you to manage all your Wiser-by-Feller system devices via a WebSocket connection.
 - [vmallet/ida-plugins](https://github.com/vmallet/ida-plugins) - An interactive list of plugins for hex-rays' IDA Pro
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
@@ -1791,7 +1792,6 @@
 - [lukew3/mathgenerator](https://github.com/lukew3/mathgenerator) - A math problem generator, created for the purpose of giving self-studying students and teaching organizations the means to easily get access to high-quality, generated math problems to suit their need
 - [Jamesits/pve-fake-subscription](https://github.com/Jamesits/pve-fake-subscription) - Disables the "No valid subscription" dialog on all Proxmox products, all versions.
 - [toddaustin07/edgebridge](https://github.com/toddaustin07/edgebridge) - Forwarding Bridge Server for SmartThings Edge drivers
-- [adulau/mmdb-server](https://github.com/adulau/mmdb-server) - mmdb-server is an open source fast API server to lookup IP addresses for their geographic location.
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis) - Passive hostname, domain and IP lookup tool for non-robots
 - [0xricksanchez/like-dbg](https://github.com/0xricksanchez/like-dbg) - Fully dockerized Linux kernel debugging environment for Linux and MacOS
@@ -2078,7 +2078,7 @@
 - [aconz2/program-explorer](https://github.com/aconz2/program-explorer) - 
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 - [Techlm77/LinuxPlay](https://github.com/Techlm77/LinuxPlay) - An open-source, ultra-low-latency remote desktop for Linux.
-- [microscope-dev/microscope](https://github.com/microscope-dev/microscope) - 🔬 microscope 🔬
+- [microscope-dev/microscope](https://github.com/microscope-dev/microscope) - 🔬 microscope
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [solidiquis/grits](https://github.com/solidiquis/grits) - A simple line-text formatter that makes it simple to parse, filter, and format live logs turning noise into meaningful insights.
 - [ddoemonn/ur-commit-mentor](https://github.com/ddoemonn/ur-commit-mentor) - A CLI tool that analyzes git commits and provides AI-powered code review insights (for now only works with Claude API)
@@ -2245,7 +2245,7 @@
 - [rust-av/Av1an](https://github.com/rust-av/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 - [imazen/imageflow](https://github.com/imazen/imageflow) - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [SoptikHa2/desed](https://github.com/SoptikHa2/desed) - Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.
@@ -2642,7 +2642,7 @@
 - [TimWitzdam/GitSave](https://github.com/TimWitzdam/GitSave) - GitSave is a self-hosted and open-source application that backs up your Git repositories.
 - [Vali-98/ChatterUI](https://github.com/Vali-98/ChatterUI) - A frontend for running models on mobile or connecting to your preferred API providers.
 - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - OCR & Document Extraction using vision models
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - The AI workspace for experts. Switch across 800+ models mid-chat, tune 40+ parameters, Beam models side by side. BYO keys, self-hostable. Built on our native-protocol engine: reliable, hyper-configura
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
